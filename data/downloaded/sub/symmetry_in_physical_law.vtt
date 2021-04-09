@@ -1,0 +1,3041 @@
+WEBVTT
+
+L4-cue_0a
+00:00:00.250 --> 00:00:33.000
+##front [BBC TV Film Leader]
+
+L4-cue_0b
+00:00:33.000 --> 00:01:27.900
+##front Credits: Cornell University U.S.A., The Character of Physical Law, Professor Richard Feynman gives the Messenger Lectures
+
+L4-cue_0
+00:01:28.400 --> 00:01:49.036
+##Title Symmetry in Physical Law
+
+L4-cue_1
+00:01:49.036 --> 00:01:53.236
+#Symmetry seems to be absolutely fascinating to the human mind.
+
+L4-cue_2
+00:01:53.236 --> 00:01:58.106
+We like to look at symmetrical things in nature such as balls, which are perfectly symmetrical,
+
+L4-cue_3
+00:01:58.106 --> 00:02:05.306
+spheres—like planets and the sun, and so on—or symmetrical crystals, snowflakes,
+
+L4-cue_4
+00:02:05.306 --> 00:02:08.706
+flowers (which are nearly symmetrical), and so on.
+
+L4-cue_5
+00:02:08.706 --> 00:02:13.296
+But it’s not the objects in nature—the symmetry of the objects in nature—that I want to talk
+
+L4-cue_6
+00:02:13.296 --> 00:02:18.546
+about tonight, it’s rather the symmetry of the physical laws themselves.
+
+L4-cue_7
+00:02:18.546 --> 00:02:21.036
+#Now, how can a physical law have a symmetry?
+
+L4-cue_8
+00:02:21.036 --> 00:02:25.346
+It’s easy to understand how an object has a symmetry; of course, it can’t.
+
+L4-cue_9
+00:02:25.346 --> 00:02:30.756
+But physicists delight themselves by using ordinary words for something else, and so,
+
+L4-cue_10
+00:02:30.756 --> 00:02:36.666
+in this case, they have a thing about the physical laws which is very close to symmetry
+
+L4-cue_11
+00:02:36.666 --> 00:02:38.986
+of objects, and they call it the "symmetry
+
+L4-cue_12
+00:02:38.986 --> 00:02:41.846
+of the laws"-and that’s what I’m going to talk about.
+
+L4-cue_13
+00:02:41.846 --> 00:02:49.276
+#To show how close it is, I asked for a definition of symmetrical: what is symmetry?
+
+L4-cue_14
+00:02:49.276 --> 00:02:55.006
+If you look at me, I’m symmetrical right and left—apparently, at least.
+
+L4-cue_15
+00:02:55.006 --> 00:02:58.976
+A vase can be symmetrical that particular way, or in other ways.
+
+L4-cue_16
+00:02:58.976 --> 00:03:01.476
+How can you define it?
+
+L4-cue_17
+00:03:01.476 --> 00:03:07.356
+Well, Professor Weyl, a mathematician, gave an excellent definition of symmetry; it is this:
+
+L4-cue_18
+00:03:07.356 --> 00:03:10.936
+as I am left and right symmetric, that means that if you put everything that’s on this side
+
+L4-cue_19
+00:03:10.936 --> 00:03:14.726
+on this side—and vice versa, if you just exchange the two sides—it’ll look exactly
+
+L4-cue_20
+00:03:14.726 --> 00:03:16.556
+the same.
+
+L4-cue_21
+00:03:16.556 --> 00:03:19.326
+#Or, for instance, a square has a symmetry—
+
+L4-cue_22
+00:03:19.326 --> 00:03:24.576
+a special kind: if I turn it around to 90 degrees, it still looks exactly the same.
+
+L4-cue_23
+00:03:24.576 --> 00:03:30.426
+So, Weyl said, a thing is symmetrical if there’s something that you can do to it,
+
+L4-cue_24
+00:03:30.426 --> 00:03:36.856
+so that after you’re finished doing it, it looks the same as it did before.
+
+L4-cue_25
+00:03:36.856 --> 00:03:41.656
+That is the sense in which we say that the laws of physics are symmetrical:
+
+L4-cue_26
+00:03:41.656 --> 00:03:45.726
+that there are things that we can do to the physical laws,
+
+L4-cue_27
+00:03:45.726 --> 00:03:49.196
+or to our way of representing the physical laws, which make no difference
+
+L4-cue_28
+00:03:49.196 --> 00:03:51.936
+and leave everything unchanged in its effects.
+
+L4-cue_29
+00:03:51.936 --> 00:03:55.776
+#This aspect of physical laws are what’s going to concern us tonight.
+
+L4-cue_30
+00:03:55.776 --> 00:04:01.786
+We will take a number of examples.
+
+L4-cue_31
+00:04:01.786 --> 00:04:06.266
+#The simplest example of all, of a kind of symmetry (as you’ll see,
+
+L4-cue_32
+00:04:06.266 --> 00:04:11.126
+it’s not the same as you would have thought—left and right symmetric, or anything like that),
+
+L4-cue_33
+00:04:11.126 --> 00:04:15.306
+is a symmetry called translation in space.
+
+L4-cue_34
+00:04:15.306 --> 00:04:20.446
+That has the following meaning: if you build any kind of apparatus, or do any kind of experiment
+
+L4-cue_35
+00:04:20.446 --> 00:04:26.296
+with some things, and then go and build the same apparatus with the same—do the same kind
+
+L4-cue_36
+00:04:26.296 --> 00:04:30.756
+of experiment with similar things, but put them here instead of there (merely translate it
+
+L4-cue_37
+00:04:30.756 --> 00:04:37.086
+from one place to the other in space), then the same thing will happen in the translated thing
+
+L4-cue_38
+00:04:37.086 --> 00:04:38.826
+that would have happened in the original thing.
+
+L4-cue_39
+00:04:38.826 --> 00:04:45.976
+#(It’s not really true, actually: if I actually built such an apparatus,
+
+L4-cue_40
+00:04:45.976 --> 00:04:50.086
+and then displaced it 20 feet in that direction, it would get into the wall,
+
+L4-cue_41
+00:04:50.086 --> 00:04:52.606
+and there would be difficulties.)
+
+L4-cue_42
+00:04:52.606 --> 00:04:59.406
+It’s necessary, in defining this idea, to take into account everything
+
+L4-cue_43
+00:04:59.406 --> 00:05:04.826
+that might affect the situation—so that when you move the thing, you move everything.
+
+L4-cue_44
+00:05:04.826 --> 00:05:13.196
+For example, if the system involved a pendulum, and I moved it 20,000 miles to the right,
+
+L4-cue_45
+00:05:13.196 --> 00:05:16.326
+it wouldn’t work right any more, because the pendulum involves the attraction
+
+L4-cue_46
+00:05:16.326 --> 00:05:19.286
+of the earth-but if I imagine I move the earth and the equipment,
+
+L4-cue_47
+00:05:19.286 --> 00:05:21.976
+then it will behave the same way.
+
+L4-cue_48
+00:05:21.976 --> 00:05:25.796
+So the problem-the situation is, that you must translate everything
+
+L4-cue_49
+00:05:25.796 --> 00:05:28.426
+which may have any influence on the situation.
+
+L4-cue_50
+00:05:28.426 --> 00:05:34.126
+#Now, that sounds a little dopey, because it sounds like, "Well, uh just translate it,
+
+L4-cue_51
+00:05:34.126 --> 00:05:41.796
+and if it doesn’t work, then you didn’t translate enough stuff!"—you’re bound to win.
+
+L4-cue_52
+00:05:41.796 --> 00:05:46.546
+Actually, not: you see, it’s not self—evident that you’re bound to win.
+
+L4-cue_53
+00:05:46.546 --> 00:05:51.316
+The remarkable thing about nature is that it is possible to translate enough stuff
+
+L4-cue_54
+00:05:51.316 --> 00:05:54.666
+so that it does behave the same way—that’s a positive statement.
+
+L4-cue_55
+00:05:54.666 --> 00:06:00.916
+#Now, I would like to illustrate that such a thing is true from the statement of the law
+
+L4-cue_56
+00:06:00.916 --> 00:06:06.966
+of gravitation, for example, which said that the forces between the objects was inversely
+
+L4-cue_57
+00:06:06.966 --> 00:06:11.386
+as the square of the distance between them—and I remind you that a thing responds to a force
+
+L4-cue_58
+00:06:11.386 --> 00:06:16.046
+by changing its velocity, as time goes on, in the direction of the force.
+
+L4-cue_59
+00:06:16.046 --> 00:06:22.706
+Now, if I move something from here to here—a pair of objects like a planet going
+
+L4-cue_60
+00:06:22.706 --> 00:06:27.546
+around the sun-and move the whole pair over, then the distance between the objects,
+
+L4-cue_61
+00:06:27.546 --> 00:06:29.856
+of course, doesn’t change, and so the forces don’t change.
+
+L4-cue_62
+00:06:29.856 --> 00:06:34.986
+And further, when they moved over a situation at the same speed, then all the changes will remain
+
+L4-cue_63
+00:06:34.986 --> 00:06:38.786
+in proportion; everything will go around in the two systems exactly the same way.
+
+L4-cue_64
+00:06:38.786 --> 00:06:44.226
+Because the law said, the distance between the objects—rather than some absolute distance
+
+L4-cue_65
+00:06:44.226 --> 00:06:48.436
+from the central eye of the universe, but it talked about distance
+
+L4-cue_66
+00:06:48.436 --> 00:06:54.326
+between the objects—then it means that the laws are translatable in space.
+
+L4-cue_67
+00:06:54.326 --> 00:06:56.876
+#I give another example of symmetry.
+
+L4-cue_68
+00:06:56.876 --> 00:07:01.756
+That first symmetry is translates in space; the next one could be called translation in time,
+
+L4-cue_69
+00:07:01.756 --> 00:07:06.786
+if you like, but better just to say, "A delay in time makes no difference":
+
+L4-cue_70
+00:07:06.786 --> 00:07:13.356
+if we start a planet going around the sun in a certain direction (this goes around),
+
+L4-cue_71
+00:07:13.356 --> 00:07:17.756
+and if we start it all over again two hours later—or, say, two years later,
+
+L4-cue_72
+00:07:17.756 --> 00:07:20.506
+with another beginning, starting the planet and the sun going
+
+L4-cue_73
+00:07:20.506 --> 00:07:23.516
+in the same way—it’ll behave in exactly the same way.
+
+L4-cue_74
+00:07:23.516 --> 00:07:29.016
+Because, again, the law of gravitation, as stated, talks about the velocity,
+
+L4-cue_75
+00:07:29.016 --> 00:07:30.936
+and never talks about the absolute time,
+
+L4-cue_76
+00:07:30.936 --> 00:07:38.256
+and when you were supposed to start measuring things.
+
+L4-cue_77
+00:07:38.256 --> 00:07:42.466
+#In this particular example, we are really not sure: when we discussed gravitation,
+
+L4-cue_78
+00:07:42.466 --> 00:07:46.856
+we talked about the possibility that the force of the gravity changed with time.
+
+L4-cue_79
+00:07:46.856 --> 00:07:52.066
+Now this would mean that the translation in time was not a valid proposition,
+
+L4-cue_80
+00:07:52.066 --> 00:07:56.766
+because if the constant of gravitation is weaker a billion years hence than now,
+
+L4-cue_81
+00:07:56.766 --> 00:08:01.576
+then it isn’t true that the motion will be exactly the same for an experimental sun
+
+L4-cue_82
+00:08:01.576 --> 00:08:05.206
+and planet a billion years from now, as it is now.
+
+L4-cue_83
+00:08:05.206 --> 00:08:09.196
+But as far as we know today—I discuss only the laws
+
+L4-cue_84
+00:08:09.196 --> 00:08:14.126
+as we know them today (I wish I could discuss the laws as we will know them tomorrow,
+
+L4-cue_85
+00:08:14.126 --> 00:08:21.196
+but I cannot.) but as far as we know—a delay in time makes no difference.
+
+L4-cue_86
+00:08:21.196 --> 00:08:24.716
+Actually, we know that isn’t really true.
+
+L4-cue_87
+00:08:24.716 --> 00:08:30.586
+That’s true for what we now call a physical law, but one of the facts of the world,
+
+L4-cue_88
+00:08:30.586 --> 00:08:34.976
+which is very different-well, which just may be very different, and may be not different
+
+L4-cue_89
+00:08:34.976 --> 00:08:40.076
+than a physical law—is the fact that it looks like the universe had a definite time
+
+L4-cue_90
+00:08:40.076 --> 00:08:43.046
+of beginning, that everything is exploding apart.
+
+L4-cue_91
+00:08:43.046 --> 00:08:47.036
+#Now, that, you might call a condition of geography, analogous to the situation
+
+L4-cue_92
+00:08:47.036 --> 00:08:51.676
+that if I say "I translate," [and] I don’t translate everything—I mean,
+
+L4-cue_93
+00:08:51.676 --> 00:08:54.576
+I have to move that wall, if it’s going to make any difference.
+
+L4-cue_94
+00:08:54.576 --> 00:08:56.576
+And in the same sense, you would say, "Oh, I see;
+
+L4-cue_95
+00:08:56.576 --> 00:08:58.916
+he means the laws are the same—the universe expanded,
+
+L4-cue_96
+00:08:58.916 --> 00:09:01.746
+and everything else—but we could have made another analysis
+
+L4-cue_97
+00:09:01.746 --> 00:09:04.576
+in which we start the universe later."
+
+L4-cue_98
+00:09:04.576 --> 00:09:08.856
+#But we don’t start the universe, and we have no control on the situation.
+
+L4-cue_99
+00:09:08.856 --> 00:09:12.396
+And we have no way to define that idea experimentally.
+
+L4-cue_100
+00:09:12.396 --> 00:09:16.866
+Therefore, as far as the science is concerned, there really is no way to tell.
+
+L4-cue_101
+00:09:16.866 --> 00:09:20.986
+The fact of the matter is, that the conditions of the world are changing in time (as we know,
+
+L4-cue_102
+00:09:20.986 --> 00:09:25.206
+apparently); at least the galaxies are all separating from one another—so if you were
+
+L4-cue_103
+00:09:25.206 --> 00:09:29.386
+to awake in some science fiction story, at an unknown time,
+
+L4-cue_104
+00:09:29.386 --> 00:09:32.216
+[then] by measuring the distances (the average distances to the galaxies),
+
+L4-cue_105
+00:09:32.216 --> 00:09:34.446
+you could tell when it was—and that means
+
+L4-cue_106
+00:09:34.446 --> 00:09:39.056
+that the world will not look the same, if delayed in time.
+
+L4-cue_107
+00:09:39.056 --> 00:09:43.526
+Now, it is conventional today to separate the physical laws which tell how things will move,
+
+L4-cue_108
+00:09:43.526 --> 00:09:46.526
+if you start them at a given condition, from the statement
+
+L4-cue_109
+00:09:46.526 --> 00:09:50.116
+of how the world actually began—because we know so little about that,
+
+L4-cue_110
+00:09:50.116 --> 00:09:54.486
+and it is usually considered that astronomical history (or cosmological history,
+
+L4-cue_111
+00:09:54.486 --> 00:09:59.016
+or whatever you want) is a little different than physical laws—but if put to a test
+
+L4-cue_112
+00:09:59.016 --> 00:10:02.576
+of how would you define the difference, I would be hard pressed.
+
+L4-cue_113
+00:10:02.576 --> 00:10:07.426
+#The best characteristic of physical law is its universality, and if there’s anything universal
+
+L4-cue_114
+00:10:07.426 --> 00:10:09.686
+about the thing, it’s the universal expansion
+
+L4-cue_115
+00:10:09.686 --> 00:10:13.036
+of all the nebulae-so I have no way of defining that.
+
+L4-cue_116
+00:10:13.036 --> 00:10:17.476
+But if I restrict myself to disregard that matter,
+
+L4-cue_117
+00:10:17.476 --> 00:10:21.216
+then as far as the other physical laws are known—(and the law
+
+L4-cue_118
+00:10:21.216 --> 00:10:24.626
+that determines how the thing expands, or, I mean, the cause of it, and so on,
+
+L4-cue_119
+00:10:24.626 --> 00:10:27.936
+is not known)—if you take only the physical laws that are known,
+
+L4-cue_120
+00:10:27.936 --> 00:10:31.516
+a delay in time makes no difference.
+
+L4-cue_121
+00:10:31.516 --> 00:10:33.946
+#Now, we take some other examples.
+
+L4-cue_122
+00:10:33.946 --> 00:10:40.536
+Another is a rotation in space, a fixed rotation: if I build a piece of equipment,
+
+L4-cue_123
+00:10:40.536 --> 00:10:43.576
+and do some experiment with a piece of equipment built here
+
+L4-cue_124
+00:10:43.576 --> 00:10:50.406
+and then take another one (better translate it so it doesn’t get in the way) here—but turn it
+
+L4-cue_125
+00:10:50.406 --> 00:10:54.566
+so that all the axes are a different direction, it’ll work the same way.
+
+L4-cue_126
+00:10:54.566 --> 00:10:58.526
+Again, we have to turn everything that’s relevant: if the thing is a grandfather clock,
+
+L4-cue_127
+00:10:58.526 --> 00:11:02.186
+and you turn it this way, well, the pendulum would just sit up against the wall of the can;
+
+L4-cue_128
+00:11:02.186 --> 00:11:06.916
+it won’t work-but if you turn the earth too, as is going on all the time,
+
+L4-cue_129
+00:11:06.916 --> 00:11:10.356
+it still keeps working all right.
+
+L4-cue_130
+00:11:10.356 --> 00:11:15.546
+#The mathematical description of this possibility of turning is a rather interesting one,
+
+L4-cue_131
+00:11:15.546 --> 00:11:20.976
+because to describe what goes on in this situation, we like to use numbers to tell
+
+L4-cue_132
+00:11:20.976 --> 00:11:24.016
+where something is—they’re called the coordinates of a point.
+
+L4-cue_133
+00:11:24.016 --> 00:11:29.896
+We use, for instance, sometimes, three numbers to do it: how high it is above some plane,
+
+L4-cue_134
+00:11:29.896 --> 00:11:36.166
+how far it is in front of me, say (and back is the negative numbers), and how far to the left.
+
+L4-cue_135
+00:11:36.166 --> 00:11:37.126
+Suppose I did that.
+
+L4-cue_136
+00:11:37.126 --> 00:11:39.736
+(I’m not going to worry about up and down because for rotations,
+
+L4-cue_137
+00:11:39.736 --> 00:11:42.216
+I just have to use two of these three.)
+
+L4-cue_138
+00:11:42.216 --> 00:11:47.146
+Let’s call the distance this way X, in front of me, and Y is how much to the left;
+
+L4-cue_139
+00:11:47.146 --> 00:11:51.716
+then I can locate anybody by telling how far he is in front, how far to the left.
+
+L4-cue_140
+00:11:51.716 --> 00:11:55.036
+(Those who come from New York City will know that the street numbers work
+
+L4-cue_141
+00:11:55.036 --> 00:12:03.516
+that way very neatly—until they began to change the name of 6th Avenue!)
+
+L4-cue_142
+00:12:03.516 --> 00:12:10.396
+#Now, the mathematical idea about the turning is this:
+
+L4-cue_143
+00:12:10.396 --> 00:12:17.336
+that if I sit at a somewhat different angle, and make my calculations, then what’s directly
+
+L4-cue_144
+00:12:17.336 --> 00:12:20.746
+in front of me at distance X is a mixture.
+
+L4-cue_145
+00:12:20.746 --> 00:12:25.836
+Let’s say there’s a man over here (you), who’s standing this way, and making his analysis,
+
+L4-cue_146
+00:12:25.836 --> 00:12:28.236
+and me, standing this way, and making my analysis.
+
+L4-cue_147
+00:12:28.236 --> 00:12:32.216
+When I measure distance X, if I go straight out on X and don’t change to the right
+
+L4-cue_148
+00:12:32.216 --> 00:12:36.906
+or to the left, you’ll see that that line is a mixture of some of your X-ish business,
+
+L4-cue_149
+00:12:36.906 --> 00:12:42.606
+and some of the Y. So that the connection, the transformation, is that X gets mixed into X
+
+L4-cue_150
+00:12:42.606 --> 00:12:47.746
+and Y, and Y gets mixed into Y and X—and the laws of nature shall be so written
+
+L4-cue_151
+00:12:47.746 --> 00:12:50.666
+that if you make such a mixture and resubstitute it in the equations,
+
+L4-cue_152
+00:12:50.666 --> 00:12:55.346
+the equations will not change their form—that’s the mathematical way
+
+L4-cue_153
+00:12:55.346 --> 00:12:56.726
+in which the symmetry appears.
+
+L4-cue_154
+00:12:56.726 --> 00:13:00.646
+If you write, in mathematical form, the symmetry appears this way: you write the equations
+
+L4-cue_155
+00:13:00.646 --> 00:13:03.966
+with certain letters, then there’s a way of changing the letters from X
+
+L4-cue_156
+00:13:03.966 --> 00:13:09.016
+and Y to a different X (X'), and a different Y (Y'), which is some formula in terms
+
+L4-cue_157
+00:13:09.016 --> 00:13:13.666
+of the old X and Y, and the equations look the same—only you have "primes" (') all over them.
+
+L4-cue_158
+00:13:13.666 --> 00:13:18.536
+That just means that the man will see the thing behaving in his apparatus the same way
+
+L4-cue_159
+00:13:18.536 --> 00:13:21.306
+as I see it in mine, which is turned the other way.
+
+L4-cue_160
+00:13:21.306 --> 00:13:25.336
+#I give another example.
+
+L4-cue_161
+00:13:25.336 --> 00:13:31.466
+This example is very interesting; it’s a question of uniform velocity in a straight line:
+
+L4-cue_162
+00:13:31.466 --> 00:13:36.006
+it is believed that the laws of physics are unchanged
+
+L4-cue_163
+00:13:36.006 --> 00:13:41.156
+under the symmetry—under the operation—of making a uniform velocity in a straight line.
+
+L4-cue_164
+00:13:41.156 --> 00:13:43.656
+This is called the principle of relativity.
+
+L4-cue_165
+00:13:43.656 --> 00:13:47.556
+If we have, for instance, a spaceship, and we have a little equipment
+
+L4-cue_166
+00:13:47.556 --> 00:13:49.996
+in it that’s doing something, and we have another equipment down here
+
+L4-cue_167
+00:13:49.996 --> 00:13:54.546
+on the ground-and the spaceship is going along at a uniform speed-then inside the spaceship,
+
+L4-cue_168
+00:13:54.546 --> 00:13:58.096
+somebody watching what’s going on can see nothing different
+
+L4-cue_169
+00:13:58.096 --> 00:14:00.606
+than the man that’s standing still in his apparatus in there.
+
+L4-cue_170
+00:14:00.606 --> 00:14:05.006
+Of course, if he looks outside, or he bumps into an outside wall, or something like that,
+
+L4-cue_171
+00:14:05.006 --> 00:14:09.256
+that’s another matter, but insofar as he is moving at a uniform velocity in a straight line,
+
+L4-cue_172
+00:14:09.256 --> 00:14:14.146
+the laws of physics look the same to him as they do to me, who is not moving.
+
+L4-cue_173
+00:14:14.146 --> 00:14:18.046
+Since that’s the case, I cannot say who’s moving.
+
+L4-cue_174
+00:14:18.046 --> 00:14:22.716
+#Now, I insist and emphasize here something before we go any further:
+
+L4-cue_175
+00:14:22.716 --> 00:14:26.566
+that in all of these transformations and all of these symmetries,
+
+L4-cue_176
+00:14:26.566 --> 00:14:30.386
+we are not talking about moving the whole universe.
+
+L4-cue_177
+00:14:30.386 --> 00:14:34.856
+Just like the case of the time, I could imagine I moved all the times in the whole universe-
+
+L4-cue_178
+00:14:34.856 --> 00:14:37.806
+but that doesn’t make any difference: there’d be no content in the statement
+
+L4-cue_179
+00:14:37.806 --> 00:14:40.426
+that if I took everything in the whole universe and moved it over,
+
+L4-cue_180
+00:14:40.426 --> 00:14:42.686
+it would all behave the same way.
+
+L4-cue_181
+00:14:42.686 --> 00:14:46.846
+#The very remarkable thing is, if I take a piece of apparatus and move it over,
+
+L4-cue_182
+00:14:46.846 --> 00:14:50.386
+then if I make sure about a lot of conditions, and can include enough apparatus,
+
+L4-cue_183
+00:14:50.386 --> 00:14:54.456
+I can get a piece of the world, and move it relative to the average of all the rest
+
+L4-cue_184
+00:14:54.456 --> 00:14:57.166
+of the stars-and it still doesn’t make any difference.
+
+L4-cue_185
+00:14:57.166 --> 00:15:00.726
+And in this case, it means that someone coasting at a uniform velocity
+
+L4-cue_186
+00:15:00.726 --> 00:15:07.676
+in a straight line relative to the average of the rest of the nebulae sees no effect:
+
+L4-cue_187
+00:15:07.676 --> 00:15:12.286
+it is impossible to determine by experiments inside a car without looking out,
+
+L4-cue_188
+00:15:12.286 --> 00:15:21.456
+by any effects, that you’re moving relative to all the stars, if you want.
+
+L4-cue_189
+00:15:21.456 --> 00:15:25.216
+#This proposition was first stated by Newton.
+
+L4-cue_190
+00:15:25.216 --> 00:15:27.196
+Let’s take his law of gravitation, for instance.
+
+L4-cue_191
+00:15:27.196 --> 00:15:33.816
+It said that the forces are inversely as a square (so, let’s see, what else, yes),
+
+L4-cue_192
+00:15:33.816 --> 00:15:38.656
+and that the force produces changes in velocity.
+
+L4-cue_193
+00:15:38.656 --> 00:15:43.446
+Now, suppose that I watch a moving thing—for instance, I have worked out what happens
+
+L4-cue_194
+00:15:43.446 --> 00:15:47.436
+when a planet goes around a fixed sun—and now I want to work out what happens
+
+L4-cue_195
+00:15:47.436 --> 00:15:49.996
+when a planet’s going around a drifting sun.
+
+L4-cue_196
+00:15:49.996 --> 00:15:53.856
+Well, then, all of the velocities that I had in the first case are different
+
+L4-cue_197
+00:15:53.856 --> 00:15:57.046
+than in the second case; I just add a constant velocity on.
+
+L4-cue_198
+00:15:57.046 --> 00:16:03.126
+But the laws are stated in terms of changes in velocity, so that what happens is that the pull
+
+L4-cue_199
+00:16:03.126 --> 00:16:06.986
+of this planet for this changes this one’s speed—and for the other case,
+
+L4-cue_200
+00:16:06.986 --> 00:16:09.126
+changes its speed by the same amount.
+
+L4-cue_201
+00:16:09.126 --> 00:16:12.536
+#So anything that I started with—any initial speed that I started with—it just keeps
+
+L4-cue_202
+00:16:12.536 --> 00:16:16.716
+on going, and all the changes are accumulated on top of that.
+
+L4-cue_203
+00:16:16.716 --> 00:16:20.436
+That’s not a very good description, but the net result of the mathematics is
+
+L4-cue_204
+00:16:20.436 --> 00:16:26.046
+that if you add a constant speed, the laws will be exactly the same—so that we cannot,
+
+L4-cue_205
+00:16:26.046 --> 00:16:29.976
+by studying the solar system and the way the planets go around the sun,
+
+L4-cue_206
+00:16:29.976 --> 00:16:34.286
+figure out whether the sun is itself drifting through space: there’s no effect of such a drift
+
+L4-cue_207
+00:16:34.286 --> 00:16:38.026
+through space on the motion of the planets around the sun according to Newton’s laws.
+
+L4-cue_208
+00:16:38.026 --> 00:16:43.246
+So that Newton said, "The motion of bodies among themselves is the same in a space,
+
+L4-cue_209
+00:16:43.246 --> 00:16:46.346
+whether that space is itself at rest relative to fixed stars,
+
+L4-cue_210
+00:16:46.346 --> 00:16:51.166
+or is moving at a uniform velocity in a straight line."
+
+L4-cue_211
+00:16:51.166 --> 00:16:54.956
+#Now, it turns out that as time went on, that new laws were discovered after Newton;
+
+L4-cue_212
+00:16:54.956 --> 00:16:59.006
+those were the laws of electricity by Maxwell.
+
+L4-cue_213
+00:16:59.006 --> 00:17:01.326
+One of the consequences of the laws of electricity was
+
+L4-cue_214
+00:17:01.326 --> 00:17:04.456
+that there should be waves—electromagnetic waves (light, in fact,
+
+L4-cue_215
+00:17:04.456 --> 00:17:12.116
+is an example)—which should go at 186,000 miles a second—flat.
+
+L4-cue_216
+00:17:12.116 --> 00:17:17.066
+I mean, by that, 186,000 miles a second come what may.
+
+L4-cue_217
+00:17:17.066 --> 00:17:19.246
+So then it was easy to tell where rest was,
+
+L4-cue_218
+00:17:19.246 --> 00:17:24.566
+because a law like "light goes 186,000 miles a second" is certainly not one (or
+
+L4-cue_219
+00:17:24.566 --> 00:17:31.716
+at first sight is certainly not one) which is quite right,
+
+L4-cue_220
+00:17:31.716 --> 00:17:35.476
+which will permit one to move and get the same law.
+
+L4-cue_221
+00:17:35.476 --> 00:17:39.596
+#It’s evident, is it not, that if you’re in a spaceship going 100,000 miles a second
+
+L4-cue_222
+00:17:39.596 --> 00:17:44.596
+in that direction, and I’m standing still and shoot a light beam at 186,000 miles a second,
+
+L4-cue_223
+00:17:44.596 --> 00:17:48.246
+you look out the window-or if I shoot the beam through a little hole through your ship,
+
+L4-cue_224
+00:17:48.246 --> 00:17:51.176
+as it goes through your ship, since you’re going 100,000,
+
+L4-cue_225
+00:17:51.176 --> 00:17:54.096
+and the light’s going 186,000—light is only going to look
+
+L4-cue_226
+00:17:54.096 --> 00:17:57.476
+like it’s passing you at 86,000 miles a second.
+
+L4-cue_227
+00:17:57.476 --> 00:18:03.826
+#But if you do the experiment, it looks like it’s going 186,000 miles past you, and past me!
+
+L4-cue_228
+00:18:03.826 --> 00:18:12.396
+The facts of nature are not so easy to understand, and the fact of the experiment was
+
+L4-cue_229
+00:18:12.396 --> 00:18:16.366
+so obviously counter to common sense, that there are some people
+
+L4-cue_230
+00:18:16.366 --> 00:18:20.096
+who still don’t believe the result.
+
+L4-cue_231
+00:18:20.096 --> 00:18:23.716
+But experimentally, time after time, experiments indicated
+
+L4-cue_232
+00:18:23.716 --> 00:18:30.126
+that the speed is 186,000 miles a second, no matter how fast you’re moving.
+
+L4-cue_233
+00:18:30.126 --> 00:18:34.596
+#And now the question, how could that be?
+
+L4-cue_234
+00:18:34.596 --> 00:18:44.556
+Poincaré proposed that one take as one of the principles of nature that the principles
+
+L4-cue_235
+00:18:44.556 --> 00:18:48.496
+of Maxwell’s equations are right, and that the mathematical changes needed
+
+L4-cue_236
+00:18:48.496 --> 00:18:54.366
+to compare a system moving and a system standing still that come in that case should be—well,
+
+L4-cue_237
+00:18:54.366 --> 00:18:59.596
+that’s—I’m making it sound too complicated; I’ll come back and change the way of stating it:
+
+L4-cue_238
+00:18:59.596 --> 00:19:02.256
+#Einstein realized, and Poincaré, too (and it’s hard
+
+L4-cue_239
+00:19:02.256 --> 00:19:06.386
+to get the history right while you’re trying to explain the idea at the same time),
+
+L4-cue_240
+00:19:06.386 --> 00:19:11.456
+that the only possible way in which a person moving
+
+L4-cue_241
+00:19:11.456 --> 00:19:16.166
+and a person standing still could measure the speed to be the same was that their sense
+
+L4-cue_242
+00:19:16.166 --> 00:19:20.616
+of time and their sense of space are not the same—that the ticking clocks inside the
+
+L4-cue_243
+00:19:20.616 --> 00:19:24.856
+spaceship are ticking at a different speed than they are on the ground, and so forth.
+
+L4-cue_244
+00:19:24.856 --> 00:19:27.506
+Of course, you say, "Yeah, but if the clock is ticking, I look at the clock
+
+L4-cue_245
+00:19:27.506 --> 00:19:29.316
+in the spaceship, but I see it’s going slow."
+
+L4-cue_246
+00:19:29.316 --> 00:19:33.356
+"No, no: your brain is going slow too!"
+
+L4-cue_247
+00:19:33.356 --> 00:19:38.296
+#So by making sure that everything went just so inside the spaceship, it was possible to cook
+
+L4-cue_248
+00:19:38.296 --> 00:19:40.656
+up a system by which in the spaceship it would look
+
+L4-cue_249
+00:19:40.656 --> 00:19:45.956
+like 186,000 spaceship miles per spaceship second—whereas it looks
+
+L4-cue_250
+00:19:45.956 --> 00:19:48.966
+like 186,000 my miles in my seconds at the same thing.
+
+L4-cue_251
+00:19:48.966 --> 00:19:55.426
+#It was a very ingenious thing to be able to do; it turns out, remarkably enough, to be possible.
+
+L4-cue_252
+00:19:55.426 --> 00:19:58.626
+I mentioned already one of the consequences of this principle
+
+L4-cue_253
+00:19:58.626 --> 00:20:04.336
+of relativity-that you cannot tell how fast you’re moving in a straight line:
+
+L4-cue_254
+00:20:04.336 --> 00:20:12.826
+in which we had two cars, and there was an event that happened at each end
+
+L4-cue_255
+00:20:12.826 --> 00:20:15.706
+of this car-a man was standing in the middle of the car, and there was an event that happened
+
+L4-cue_256
+00:20:15.706 --> 00:20:21.026
+at each end of this car at a certain instant—which this man claimed was the same time
+
+L4-cue_257
+00:20:21.026 --> 00:20:26.186
+(because, standing in the middle of the car, he saw the light from both of these things
+
+L4-cue_258
+00:20:26.186 --> 00:20:29.786
+at the same time), whereas a man in another car, who happened to be moving this way
+
+L4-cue_259
+00:20:29.786 --> 00:20:34.586
+with a velocity, saw these same two events not at the same time,
+
+L4-cue_260
+00:20:34.586 --> 00:20:39.536
+but in fact saw the one here first, because the light reached him before the light
+
+L4-cue_261
+00:20:39.536 --> 00:20:42.096
+from here, because he was moving forward.
+
+L4-cue_262
+00:20:42.096 --> 00:20:46.546
+So, you see, that one of the consequences of the principle of symmetry for uniform velocity
+
+L4-cue_263
+00:20:46.546 --> 00:20:50.236
+in a straight line (that symmetry means you can’t tell who’s right),
+
+L4-cue_264
+00:20:50.236 --> 00:20:54.256
+is that when someone talks about something—like, when I talk about everything that’s happening
+
+L4-cue_265
+00:20:54.256 --> 00:20:57.976
+in the world now-that doesn’t mean anything.
+
+L4-cue_266
+00:20:57.976 --> 00:21:05.036
+If you’re moving along at a uniform velocity in a straight line, everything that happens at now—
+
+L4-cue_267
+00:21:05.036 --> 00:21:09.426
+simultaneous—is not the same events as my now, even though we’re passing each other,
+
+L4-cue_268
+00:21:09.426 --> 00:21:14.876
+and our instant here is the same, but somewhere else—we cannot agree what now means
+
+L4-cue_269
+00:21:14.876 --> 00:21:17.296
+at a distance.
+
+L4-cue_270
+00:21:17.296 --> 00:21:20.966
+#So this means a profound transformation of our ideas of space and time,
+
+L4-cue_271
+00:21:20.966 --> 00:21:28.786
+in order to maintain this principle that uniform velocity in a straight line cannot be detected.
+
+L4-cue_272
+00:21:28.786 --> 00:21:35.126
+Actually, what’s happening here is that the time—from one point of view,
+
+L4-cue_273
+00:21:35.126 --> 00:21:38.516
+two things that are simultaneous, seem, from another point of view,
+
+L4-cue_274
+00:21:38.516 --> 00:21:41.086
+to be not at the same time, provided they’re not
+
+L4-cue_275
+00:21:41.086 --> 00:21:44.116
+at the same place—that they’re far apart in distance.
+
+L4-cue_276
+00:21:44.116 --> 00:21:49.996
+That’s very much like my X and Y: two things which seem to me to be
+
+L4-cue_277
+00:21:49.996 --> 00:21:56.606
+at the same horizontal—well, let’s say the same distance in front—zero distance in front, will,
+
+L4-cue_278
+00:21:56.606 --> 00:22:01.706
+from somebody this way—he’ll say, "One of them is in front of me, and one is in back."
+
+L4-cue_279
+00:22:01.706 --> 00:22:03.546
+See, consider, from my point of view,
+
+L4-cue_280
+00:22:03.546 --> 00:22:06.526
+they’re both even with me—that wall and that wall—is even with me.
+
+L4-cue_281
+00:22:06.526 --> 00:22:09.676
+#But if I stand and turn like this, and look at the same pair of walls
+
+L4-cue_282
+00:22:09.676 --> 00:22:14.766
+but from a different point of view, that one’s in front of me, and that one’s behind.
+
+L4-cue_283
+00:22:14.766 --> 00:22:19.686
+And so it is that the two events, which from one point of view seem to be at the same time,
+
+L4-cue_284
+00:22:19.686 --> 00:22:22.376
+from the other point of view seem to be at different times.
+
+L4-cue_285
+00:22:22.376 --> 00:22:27.076
+And the generalization of the two—dimensional rotation that I’m talking about into space
+
+L4-cue_286
+00:22:27.076 --> 00:22:32.976
+and time was made, so that the time was added to the space to make a four—dimensional world.
+
+L4-cue_287
+00:22:32.976 --> 00:22:38.696
+#And it’s not merely an artificial addition to say, "Well, we add time to space, because,
+
+L4-cue_288
+00:22:38.696 --> 00:22:41.226
+as is seen in most of the popular books,
+
+L4-cue_289
+00:22:41.226 --> 00:22:44.646
+you cannot only locate a point, but you have to say when."
+
+L4-cue_290
+00:22:44.646 --> 00:22:50.586
+That’s all true, but that doesn’t make it real space; that just puts two things together.
+
+L4-cue_291
+00:22:50.586 --> 00:22:54.386
+Real space has, in a sense, the characteristic that ...
+
+L4-cue_292
+00:22:54.386 --> 00:22:57.926
+it’s possible to look at it from a different point of view,
+
+L4-cue_293
+00:22:57.926 --> 00:23:02.256
+that it has an existence that’s independent of the particular point of view.
+
+L4-cue_294
+00:23:02.256 --> 00:23:07.106
+There’s a commonness—there’s a certain amount of time that can get mixed up with a certain amount
+
+L4-cue_295
+00:23:07.106 --> 00:23:11.726
+of space, so that space and time must be completely interlocked.
+
+L4-cue_296
+00:23:11.726 --> 00:23:17.766
+#After this discovery, Minkowski said, "Space of itself, and time of itself,
+
+L4-cue_297
+00:23:17.766 --> 00:23:23.686
+shall sink into mere shadows, and only a kind of union of the two shall survive."
+
+L4-cue_298
+00:23:23.686 --> 00:23:29.106
+I bring this particular example up in such detail because it is really the beginning
+
+L4-cue_299
+00:23:29.106 --> 00:23:31.656
+of the study of symmetries and physical laws.
+
+L4-cue_300
+00:23:31.656 --> 00:23:35.886
+It was Poincaré’s suggestion to make this analysis of what you can do
+
+L4-cue_301
+00:23:35.886 --> 00:23:37.596
+to the equations and leave them alone.
+
+L4-cue_302
+00:23:37.596 --> 00:23:43.026
+It was Poincaré’s attitude to pay attention to the symmetries of physical laws:
+
+L4-cue_303
+00:23:43.026 --> 00:23:48.646
+the symmetries of translation in space, delay in time, and so on, were not very deep,
+
+L4-cue_304
+00:23:48.646 --> 00:23:54.126
+but the symmetry of uniform velocity in a straight line is very interesting,
+
+L4-cue_305
+00:23:54.126 --> 00:23:56.226
+and has all kinds of consequences.
+
+L4-cue_306
+00:23:56.226 --> 00:24:02.856
+#Furthermore, these consequences were extendable into laws that we did not know:
+
+L4-cue_307
+00:24:02.856 --> 00:24:05.966
+by guessing that this principle is true with the disintegration
+
+L4-cue_308
+00:24:05.966 --> 00:24:09.496
+of a mu meson (we don’t know why the mu meson disintegrates in the first place),
+
+L4-cue_309
+00:24:09.496 --> 00:24:14.196
+we can tell a lot about it by the proposition that we can’t use mu mesons
+
+L4-cue_310
+00:24:14.196 --> 00:24:17.796
+to tell how fast we’re going in the spaceship either—and that tells us something, at least,
+
+L4-cue_311
+00:24:17.796 --> 00:24:20.666
+about the mu meson disintegrations.
+
+L4-cue_312
+00:24:20.666 --> 00:24:24.316
+#There are many other symmetries of somewhat—some of are of different kinds.
+
+L4-cue_313
+00:24:24.316 --> 00:24:31.376
+#I just mentioned a—another one is that you can replace one atom by another of the same kind,
+
+L4-cue_314
+00:24:31.376 --> 00:24:35.046
+and it makes no difference to any phenomenon.
+
+L4-cue_315
+00:24:35.046 --> 00:24:39.786
+Now you say, "Yeah, what do you mean by the same kind?"—"I mean one where you replace it
+
+L4-cue_316
+00:24:39.786 --> 00:24:42.826
+by the other it doesn’t make any difference."
+
+L4-cue_317
+00:24:42.826 --> 00:24:46.916
+#It looks like physicists are always talking nonsense in a way, doesn’t it?
+
+L4-cue_318
+00:24:46.916 --> 00:24:49.736
+Because there are many different kinds, and if you replace one [atom] by one
+
+L4-cue_319
+00:24:49.736 --> 00:24:52.806
+of the different kind, it makes a difference, but if you replace one by the same kind,
+
+L4-cue_320
+00:24:52.806 --> 00:24:55.546
+it doesn’t make any difference—and that just seems like a circular definition.
+
+L4-cue_321
+00:24:55.546 --> 00:25:01.996
+But the meaning of the thing is, that there are atoms of the same kind, that it is possible
+
+L4-cue_322
+00:25:01.996 --> 00:25:07.146
+to find groups, classes of atoms, that you can replace one by another of the same kind,
+
+L4-cue_323
+00:25:07.146 --> 00:25:09.266
+and it doesn’t make any difference—there are such things.
+
+L4-cue_324
+00:25:09.266 --> 00:25:13.466
+#Since the number of atoms in any little tiny piece of material is one followed
+
+L4-cue_325
+00:25:13.466 --> 00:25:17.446
+by 23 naughts [zeros] or so, it’s very important
+
+L4-cue_326
+00:25:17.446 --> 00:25:21.016
+that they are the same—that they’re not all different kinds.
+
+L4-cue_327
+00:25:21.016 --> 00:25:24.406
+It’s really very interesting that we can classify them into a limited number
+
+L4-cue_328
+00:25:24.406 --> 00:25:28.966
+of a few hundred atoms, so that the statement that we can replace one atom by another
+
+L4-cue_329
+00:25:28.966 --> 00:25:32.756
+of the same kind has a very great amount of content.
+
+L4-cue_330
+00:25:32.756 --> 00:25:35.636
+It has the greatest amount of content in quantum mechanics,
+
+L4-cue_331
+00:25:35.636 --> 00:25:39.576
+and it is impossible for me to explain how, partly.
+
+L4-cue_332
+00:25:39.576 --> 00:25:44.956
+But only partly, because this is an audience that is mathematically untrained.
+
+L4-cue_333
+00:25:44.956 --> 00:25:47.106
+It’s quite subtle, anyhow.
+
+L4-cue_334
+00:25:47.106 --> 00:25:49.936
+But in quantum mechanics the proposition that you can replace one atom
+
+L4-cue_335
+00:25:49.936 --> 00:25:56.276
+by the same kind has marvelous consequences that produces peculiar phenomena—in liquid helium,
+
+L4-cue_336
+00:25:56.276 --> 00:26:01.496
+the liquid that flows through pipes without any resistance, just coasts on forever;
+
+L4-cue_337
+00:26:01.496 --> 00:26:07.976
+it has all kinds of consequences—in fact, it’s the origin of the whole periodic table
+
+L4-cue_338
+00:26:07.976 --> 00:26:15.766
+of the elements, and the force that keeps me from going through the floor.
+
+L4-cue_339
+00:26:15.766 --> 00:26:17.436
+But I can’t go into that particular thing, but I want
+
+L4-cue_340
+00:26:17.436 --> 00:26:21.326
+to emphasize the importance of looking at these principles.
+
+L4-cue_341
+00:26:21.326 --> 00:26:25.616
+#By this time, you’re probably convinced that all the laws of physics are symmetric under any kind
+
+L4-cue_342
+00:26:25.616 --> 00:26:30.926
+of change whatsoever, so I have to give a few ones that don’t work.
+
+L4-cue_343
+00:26:30.926 --> 00:26:37.296
+First one, change of scale: it is not true that if you build an apparatus, and come over here
+
+L4-cue_344
+00:26:37.296 --> 00:26:41.496
+and build one twice as big—every part made exactly the same, same kind of stuff but twice
+
+L4-cue_345
+00:26:41.496 --> 00:26:44.226
+as big-that it will work exactly the same way.
+
+L4-cue_346
+00:26:44.226 --> 00:26:46.956
+You who are familiar with atoms are aware of this fact,
+
+L4-cue_347
+00:26:46.956 --> 00:26:51.176
+because if I made it 10 billion times smaller, I would only have five atoms
+
+L4-cue_348
+00:26:51.176 --> 00:26:54.366
+in it-and I can’t make a machine tool, which this thing is,
+
+L4-cue_349
+00:26:54.366 --> 00:26:58.616
+with screw threads, and so on, out of five atoms.
+
+L4-cue_350
+00:26:58.616 --> 00:27:02.166
+#So it’s perfectly obvious, if we go far enough, that we can’t change the scale.
+
+L4-cue_351
+00:27:02.166 --> 00:27:06.346
+But even before the complete awareness of the atomic picture was developed,
+
+L4-cue_352
+00:27:06.346 --> 00:27:08.836
+it became apparent that this law isn’t right.
+
+L4-cue_353
+00:27:08.836 --> 00:27:12.966
+You’ve probably seen in the newspapers from time to time somebody who’s made a cathedral
+
+L4-cue_354
+00:27:12.966 --> 00:27:18.856
+with matchsticks-several floors, and beautifully delicate, and everything just-more Gothic
+
+L4-cue_355
+00:27:18.856 --> 00:27:22.296
+than any Gothic cathedral has ever been, more delicate.
+
+L4-cue_356
+00:27:22.296 --> 00:27:28.556
+Why don’t we build big ones like that, with great logs, with the same degree of ginger cake,
+
+L4-cue_357
+00:27:28.556 --> 00:27:30.536
+the same enormous degree of detail?
+
+L4-cue_358
+00:27:30.536 --> 00:27:35.816
+The answer is, if we did, it would be so high, and so heavy, it would collapse.
+
+L4-cue_359
+00:27:35.816 --> 00:27:38.946
+You say, "Yeah, but you forgot when you’re comparing two things,
+
+L4-cue_360
+00:27:38.946 --> 00:27:42.676
+you must change everything that’s in the system: the little cathedral made
+
+L4-cue_361
+00:27:42.676 --> 00:27:46.716
+with matchsticks is attracted to the earth, so to make the comparison,
+
+L4-cue_362
+00:27:46.716 --> 00:27:50.836
+I should make the big cathedral, like, attract it to an even bigger earth!"
+
+L4-cue_363
+00:27:50.836 --> 00:27:53.666
+Too bad: a bigger earth would attract it even more,
+
+L4-cue_364
+00:27:53.666 --> 00:27:55.566
+and the sticks would break even more surely."
+
+L4-cue_365
+00:27:55.566 --> 00:28:02.436
+#This fact, that the laws of physics were [not] unchanged
+
+L4-cue_366
+00:28:02.436 --> 00:28:06.026
+under scale was first discovered by Galileo.
+
+L4-cue_367
+00:28:06.026 --> 00:28:12.886
+He argued, in discussing the strength of rods and bones—he argued that if you need a bone
+
+L4-cue_368
+00:28:12.886 --> 00:28:16.806
+for a bigger animal (say, an animal is twice as high, wide, and thick),
+
+L4-cue_369
+00:28:16.806 --> 00:28:22.296
+you need eight times the weight—so you need a bone that can hold the strength eight times.
+
+L4-cue_370
+00:28:22.296 --> 00:28:27.056
+But what a bone can hold depends on its cross section, and if you made the bone twice as big,
+
+L4-cue_371
+00:28:27.056 --> 00:28:29.686
+it would only have four times the cross section, and would only be able
+
+L4-cue_372
+00:28:29.686 --> 00:28:31.126
+to support four times the weight.
+
+L4-cue_373
+00:28:31.126 --> 00:28:37.696
+#In Galileo’s book called Two New Sciences, you’ll see pictures of imaginary bones
+
+L4-cue_374
+00:28:37.696 --> 00:28:41.336
+of enormous dogs, way out of proportion.
+
+L4-cue_375
+00:28:41.336 --> 00:28:44.266
+Galileo felt that the discovery—I suppose he felt, I don’t know,
+
+L4-cue_376
+00:28:44.266 --> 00:28:47.786
+but the discovery-of the fact that the laws of nature are not unchanged on the change
+
+L4-cue_377
+00:28:47.786 --> 00:28:51.856
+of scale was as important as his laws of motion, because they’re both put together
+
+L4-cue_378
+00:28:51.856 --> 00:28:56.796
+in a tome called Two New Sciences.
+
+L4-cue_379
+00:28:56.796 --> 00:29:02.916
+#Now, I go on to another example of something that is not a symmetry law, and that is,
+
+L4-cue_380
+00:29:02.916 --> 00:29:08.136
+it is not true that if you’re spinning at a uniform angular speed in a spaceship,
+
+L4-cue_381
+00:29:08.136 --> 00:29:12.336
+you can’t tell if you’re going around; you can: everything gets thrown to the walls.
+
+L4-cue_382
+00:29:12.336 --> 00:29:16.616
+I was going to say you get dizzy, but that soon passes.
+
+L4-cue_383
+00:29:16.616 --> 00:29:21.666
+There are a lot of effects, however: things do get thrown to the walls
+
+L4-cue_384
+00:29:21.666 --> 00:29:24.546
+from the centrifugal force, or however you wish to describe it.
+
+L4-cue_385
+00:29:24.546 --> 00:29:31.256
+(I hope that there’s no teachers of freshman physics here to correct me!)
+
+L4-cue_386
+00:29:31.256 --> 00:29:38.566
+But it is possible to tell that the earth is rotating by a pendulum, or by a gyroscope,
+
+L4-cue_387
+00:29:38.566 --> 00:29:42.376
+and you’re probably aware, in various observatories and museums, and so on,
+
+L4-cue_388
+00:29:42.376 --> 00:29:46.806
+of these Foucault pendulums that prove the earth is rotating, without looking at the stars.
+
+L4-cue_389
+00:29:46.806 --> 00:29:51.416
+So it is possible to tell that we are going around at a uniform angular velocity
+
+L4-cue_390
+00:29:51.416 --> 00:29:56.256
+on the earth without looking outside, because the laws of physics are not unchanged by that.
+
+L4-cue_391
+00:29:56.256 --> 00:30:05.266
+Many people have proposed that really you’re rotating relative to the galaxies, see,
+
+L4-cue_392
+00:30:05.266 --> 00:30:09.876
+and if you would turn the galaxies, too, it wouldn’t make any difference.
+
+L4-cue_393
+00:30:09.876 --> 00:30:12.856
+#Well, I don’t know what would happen if you would turn the whole universe, and we have,
+
+L4-cue_394
+00:30:12.856 --> 00:30:19.446
+at the moment, no way to tell—nor, at the moment, do we have a theory
+
+L4-cue_395
+00:30:19.446 --> 00:30:25.116
+which describes the influence of a galaxy on things here so that it comes out of this theory
+
+L4-cue_396
+00:30:25.116 --> 00:30:28.816
+in a straightforward way (not by cheating, or forcing, or anything like that,
+
+L4-cue_397
+00:30:28.816 --> 00:30:33.646
+[but] in a straightforward way) that the inertia for rotation—that the effects of rotation,
+
+L4-cue_398
+00:30:33.646 --> 00:30:37.236
+the fact that a spinning bucket of water has a shape into a surface
+
+L4-cue_399
+00:30:37.236 --> 00:30:41.836
+like this-that this is a result of a force from the objects around.
+
+L4-cue_400
+00:30:41.836 --> 00:30:44.596
+That’s not known to be the case.
+
+L4-cue_401
+00:30:44.596 --> 00:30:47.756
+That this should be the case was called Mach’s principle—but
+
+L4-cue_402
+00:30:47.756 --> 00:30:51.206
+that it is the case has not yet been demonstrated.
+
+L4-cue_403
+00:30:51.206 --> 00:30:59.376
+#But the real question is—I mean, the more direct, experimental question is—that
+
+L4-cue_404
+00:30:59.376 --> 00:31:03.686
+if we’re rotating at a uniform velocity relative to the nebulae, do we see an effect?
+
+L4-cue_405
+00:31:03.686 --> 00:31:04.646
+The answer is yes.
+
+L4-cue_406
+00:31:04.646 --> 00:31:08.246
+If we’re moving in a spaceship at a uniform velocity in a straight line relative
+
+L4-cue_407
+00:31:08.246 --> 00:31:09.966
+to the nebulae, do we see an effect?
+
+L4-cue_408
+00:31:09.966 --> 00:31:11.986
+The answer is no—two different things.
+
+L4-cue_409
+00:31:11.986 --> 00:31:16.856
+So, don’t say all motion is relative; that’s not the content of relativity.
+
+L4-cue_410
+00:31:16.856 --> 00:31:21.016
+Relativity says that uniform velocity in a straight line,
+
+L4-cue_411
+00:31:21.016 --> 00:31:27.526
+relative to the nebulae, is undetectable.
+
+L4-cue_412
+00:31:27.526 --> 00:31:32.326
+#Now the next symmetry law that I would like to discuss is an interesting one,
+
+L4-cue_413
+00:31:32.326 --> 00:31:37.016
+because it has an interesting history, and that’s the question of reflection in space.
+
+L4-cue_414
+00:31:37.016 --> 00:31:42.336
+If I build a piece of apparatus, let’s say a clock, and then I come over here,
+
+L4-cue_415
+00:31:42.336 --> 00:31:47.386
+and I build another clock exactly the same way, but like this one looks in the mirror.
+
+L4-cue_416
+00:31:47.386 --> 00:31:51.516
+I don’t mean I look at this one in a mirror only; I mean I build another clock
+
+L4-cue_417
+00:31:51.516 --> 00:31:57.816
+which is exact built, to be a "Chinese copy" of what the other one looks like in a mirror.
+
+L4-cue_418
+00:31:57.816 --> 00:32:01.906
+In other words, I have the number 2 painted neatly on the dial here;
+
+L4-cue_419
+00:32:01.906 --> 00:32:04.776
+then I paint the number 2 the other way around over here.
+
+L4-cue_420
+00:32:04.776 --> 00:32:12.696
+(I got an opportunity to make a drawing: 2 on one part, [backwards] 2 on the other part.)
+
+L4-cue_421
+00:32:12.696 --> 00:32:18.126
+Each spring which is wound one way in one part, is wound in the corresponding opposite way
+
+L4-cue_422
+00:32:18.126 --> 00:32:23.436
+in the other clock; they match each other like two gloves, right and left.
+
+L4-cue_423
+00:32:23.436 --> 00:32:27.836
+Now we wind up the two clocks; we set them in corresponding positions (I was going
+
+L4-cue_424
+00:32:27.836 --> 00:32:32.506
+to say the same, but we set them to the mirrored positions) and we let them tick.
+
+L4-cue_425
+00:32:32.506 --> 00:32:36.176
+#Question: will they always agree with each other?
+
+L4-cue_426
+00:32:36.176 --> 00:32:43.466
+Will all the machinery of the clock go in the mirror image of the other one?
+
+L4-cue_427
+00:32:43.466 --> 00:32:47.856
+I don’t know what you would guess about that; you’d probably guess it’s true,
+
+L4-cue_428
+00:32:47.856 --> 00:32:54.426
+and most people did guess it was true.
+
+L4-cue_429
+00:32:54.426 --> 00:33:01.316
+Of course, we’re not talking about geography; we can distinguish right and left by geography:
+
+L4-cue_430
+00:33:01.316 --> 00:33:06.736
+we can say if we stand in Florida and look at New York, the ocean is on the right-and
+
+L4-cue_431
+00:33:06.736 --> 00:33:08.546
+that distinguishes right and left ...
+
+L4-cue_432
+00:33:08.546 --> 00:33:15.276
+and if the clock involved the water of the sea, and New York and so on, then it wouldn’t work
+
+L4-cue_433
+00:33:15.276 --> 00:33:19.306
+if you built it the other way because its ticker wouldn’t get in the water.
+
+L4-cue_434
+00:33:19.306 --> 00:33:23.096
+#But what we have to imagine, of course, is that the geography of the earth is turned around,
+
+L4-cue_435
+00:33:23.096 --> 00:33:26.376
+too, on the other clock—anything that’s involved must be turned around.
+
+L4-cue_436
+00:33:26.376 --> 00:33:31.176
+Nor are we interested in history: for example, if you pick up a screw in a machine shop,
+
+L4-cue_437
+00:33:31.176 --> 00:33:34.836
+the chances are it’s right—hand thread, and you might argue the other clock isn’t going
+
+L4-cue_438
+00:33:34.836 --> 00:33:36.266
+to be the same as this one, because it’s harder
+
+L4-cue_439
+00:33:36.266 --> 00:33:40.836
+to get the screws—but that’s just a question of what kind of things we make.
+
+L4-cue_440
+00:33:40.836 --> 00:33:45.576
+So that altogether, the first guess is, that it doesn’t make any difference.
+
+L4-cue_441
+00:33:45.576 --> 00:33:48.636
+#It turns out that the laws of gravitation are
+
+L4-cue_442
+00:33:48.636 --> 00:33:52.426
+such that it wouldn’t make any difference, if it worked by gravity.
+
+L4-cue_443
+00:33:52.426 --> 00:33:55.926
+The laws of electricity and magnetism are such that if, in addition, it had electric
+
+L4-cue_444
+00:33:55.926 --> 00:34:00.396
+and magnetic guts (currents and wires and whatnot),
+
+L4-cue_445
+00:34:00.396 --> 00:34:03.516
+it would still-the corresponding clock would run the same.
+
+L4-cue_446
+00:34:03.516 --> 00:34:08.926
+And if the clock involved nuclear reactions—ordinary nuclear reactions—to make it
+
+L4-cue_447
+00:34:08.926 --> 00:34:18.426
+run, it wouldn’t make any difference either, but it does make a little bit of difference;
+
+L4-cue_448
+00:34:18.426 --> 00:34:20.946
+I’ll come to what makes a difference in a minute.
+
+L4-cue_449
+00:34:20.946 --> 00:34:25.346
+#But the first possibility (it might suggest itself if you know anything much),
+
+L4-cue_450
+00:34:25.346 --> 00:34:30.446
+you may have heard that it’s possible to measure the concentration of sugar in water
+
+L4-cue_451
+00:34:30.446 --> 00:34:32.786
+by putting polarized light through the water.
+
+L4-cue_452
+00:34:32.786 --> 00:34:36.596
+If you put the piece of Polaroid that lets light through in a certain axis
+
+L4-cue_453
+00:34:36.596 --> 00:34:38.076
+through the water, then you’ll find ...
+
+L4-cue_454
+00:34:38.076 --> 00:34:41.736
+when you watch the light as it goes through deeper and deeper sugarwater,
+
+L4-cue_455
+00:34:41.736 --> 00:34:46.036
+you have to turn the Polaroid—another piece of Polaroid at the other end of the water—more
+
+L4-cue_456
+00:34:46.036 --> 00:34:49.296
+and more to the right, as the stuff goes through.
+
+L4-cue_457
+00:34:49.296 --> 00:34:53.366
+(Maybe it’s to the left; I can’t remember, but let’s say to the right,
+
+L4-cue_458
+00:34:53.366 --> 00:34:55.996
+as you go through deeper, deeper solution.)
+
+L4-cue_459
+00:34:55.996 --> 00:34:58.406
+And if you make the light go the other way through the solution,
+
+L4-cue_460
+00:34:58.406 --> 00:35:02.616
+it’s still to the right—so there’s a right—hand way; there’s a difference for right or left.
+
+L4-cue_461
+00:35:02.616 --> 00:35:07.056
+#So if we put sugarwater in the clocks, and light, then if we put, say,
+
+L4-cue_462
+00:35:07.056 --> 00:35:11.126
+in one tank of [sugar] water and make the light go through, and turn, and put the Polaroid
+
+L4-cue_463
+00:35:11.126 --> 00:35:14.816
+so it can just get through, and make the corresponding image on the other side,
+
+L4-cue_464
+00:35:14.816 --> 00:35:15.996
+hoping the light will turn this way,
+
+L4-cue_465
+00:35:15.996 --> 00:35:18.746
+it won’t-it’ll turn the other way, and it won’t go through right.
+
+L4-cue_466
+00:35:18.746 --> 00:35:25.506
+So by using sugarwater, our two clocks can be made differently.
+
+L4-cue_467
+00:35:25.506 --> 00:35:28.846
+So it’s a very remarkable fact.
+
+L4-cue_468
+00:35:28.846 --> 00:35:30.386
+#It isn’t true, therefore, at first [glance],
+
+L4-cue_469
+00:35:30.386 --> 00:35:37.636
+that the two clocks will be—that the physical laws are symmetric for reflections.
+
+L4-cue_470
+00:35:37.636 --> 00:35:40.006
+However, it’s possible to make sugar in the laboratory.
+
+L4-cue_471
+00:35:40.006 --> 00:35:42.386
+The sugar that we got that time might have been from sugar beets,
+
+L4-cue_472
+00:35:42.386 --> 00:35:46.676
+but sugar isn’t a complicated molecule, and it’s possible to make sugar in the laboratory (out
+
+L4-cue_473
+00:35:46.676 --> 00:35:50.236
+of carbon dioxide and water, and going through lots and lots of stages
+
+L4-cue_474
+00:35:50.236 --> 00:35:51.846
+in between), and make artificial sugar.
+
+L4-cue_475
+00:35:51.846 --> 00:35:53.936
+When you put the artificial sugar in there,
+
+L4-cue_476
+00:35:53.936 --> 00:35:56.496
+which is chemically (and we measure it) every way it seems
+
+L4-cue_477
+00:35:56.496 --> 00:36:00.596
+to be the same, it doesn’t turn the light.
+
+L4-cue_478
+00:36:00.596 --> 00:36:06.866
+#Then if you put bacteria in the sugarwater, bacteria eat the sugar—and
+
+L4-cue_479
+00:36:06.866 --> 00:36:10.896
+when you let the bacteria eat the sugar, and then try with what’s left, it turns out: first,
+
+L4-cue_480
+00:36:10.896 --> 00:36:15.816
+they only eat half the sugar—[half of] the artificial sugar; second, when you’re all done,
+
+L4-cue_481
+00:36:15.816 --> 00:36:19.716
+it’s turned to the left, the stuff that’s left.
+
+L4-cue_482
+00:36:19.716 --> 00:36:24.166
+#Now, you find the explanation to all this is the following:
+
+L4-cue_483
+00:36:24.166 --> 00:36:29.696
+that sugar is a complicated molecule—a set of balls (atoms) in some complicated arrangement.
+
+L4-cue_484
+00:36:29.696 --> 00:36:36.146
+If you make exactly the same arrangement, but left as right (like,
+
+L4-cue_485
+00:36:36.146 --> 00:36:39.666
+if the arrangement is complicated like this, then you make one the same way),
+
+L4-cue_486
+00:36:39.666 --> 00:36:46.526
+then every distance between every pair of atoms is the same in one as in the other;
+
+L4-cue_487
+00:36:46.526 --> 00:36:51.536
+the energy of the molecules is exactly the same—for all chemical phenomena not involving
+
+L4-cue_488
+00:36:51.536 --> 00:36:54.586
+light, they’re the same.
+
+L4-cue_489
+00:36:54.586 --> 00:37:00.996
+But living creatures find a difference: the bacteria eat one kind, and not the other.
+
+L4-cue_490
+00:37:00.996 --> 00:37:03.376
+The sugar that comes from sugar beets is only one kind,
+
+L4-cue_491
+00:37:03.376 --> 00:37:09.436
+all left—hand molecules—or right—hand, [I should say]—so it turns the light one way.
+
+L4-cue_492
+00:37:09.436 --> 00:37:11.886
+The bacteria can only eat that kind of molecule.
+
+L4-cue_493
+00:37:11.886 --> 00:37:14.336
+#When we manufacture the sugar from substances
+
+L4-cue_494
+00:37:14.336 --> 00:37:20.406
+which themselves are not asymmetrical (simple gasses), we make both kinds, in equal number.
+
+L4-cue_495
+00:37:20.406 --> 00:37:25.126
+Then, if we let the bacteria eat, they’ll eat the kind they can eat,
+
+L4-cue_496
+00:37:25.126 --> 00:37:28.286
+and the other is left—and that’s why it comes out the other way.
+
+L4-cue_497
+00:37:28.286 --> 00:37:31.486
+It’s possible to separate the two by looking through magnifying glasses
+
+L4-cue_498
+00:37:31.486 --> 00:37:33.316
+at the crystals, and separating them, ...
+
+L4-cue_499
+00:37:33.316 --> 00:37:35.506
+as Pasteur discovered, ...
+
+L4-cue_500
+00:37:35.506 --> 00:37:39.386
+so that I can definitely show that all this makes sense.
+
+L4-cue_501
+00:37:39.386 --> 00:37:42.406
+And even our artificial sugar, then, we can separate ourselves;
+
+L4-cue_502
+00:37:42.406 --> 00:37:44.876
+we don’t have to wait for the bacteria.
+
+L4-cue_503
+00:37:44.876 --> 00:37:47.046
+#But the interesting thing is that the bacteria can do this.
+
+L4-cue_504
+00:37:47.046 --> 00:37:51.196
+Does that mean that the living processes don’t obey the same laws of chemistry, and so on?
+
+L4-cue_505
+00:37:51.196 --> 00:37:52.506
+Apparently not.
+
+L4-cue_506
+00:37:52.506 --> 00:37:56.926
+It seems that in the living creatures there are many, many complicated molecules,
+
+L4-cue_507
+00:37:56.926 --> 00:37:58.906
+and they all have a kind of thread to them.
+
+L4-cue_508
+00:37:58.906 --> 00:38:02.566
+One of the most characteristic molecules in living creatures are proteins,
+
+L4-cue_509
+00:38:02.566 --> 00:38:06.086
+and it takes a little while to explain the details, but let’s put it very simply,
+
+L4-cue_510
+00:38:06.086 --> 00:38:10.496
+they have a corkscrew property and they go, let’s say, to the right.
+
+L4-cue_511
+00:38:10.496 --> 00:38:14.516
+#Now, as far as we can tell, chemically, we could make this,
+
+L4-cue_512
+00:38:14.516 --> 00:38:16.106
+chemically, the same thing to the left.
+
+L4-cue_513
+00:38:16.106 --> 00:38:18.316
+It would not function biologically, because it wouldn’t,
+
+L4-cue_514
+00:38:18.316 --> 00:38:20.626
+when it met the other proteins, fit the same way.
+
+L4-cue_515
+00:38:20.626 --> 00:38:23.666
+That is, a left—hand thread’ll fit a left—hand thread but a left
+
+L4-cue_516
+00:38:23.666 --> 00:38:26.106
+and right don’t fit very well the same way.
+
+L4-cue_517
+00:38:26.106 --> 00:38:28.666
+So the bacteria having a left—hand thread
+
+L4-cue_518
+00:38:28.666 --> 00:38:33.396
+in the chemical inside can distinguish the left and right sugar.
+
+L4-cue_519
+00:38:33.396 --> 00:38:35.196
+#How did they get that way?
+
+L4-cue_520
+00:38:35.196 --> 00:38:38.606
+Physics and chemistry cannot distinguish the molecules;
+
+L4-cue_521
+00:38:38.606 --> 00:38:42.626
+it can only make both kinds—but biology can.
+
+L4-cue_522
+00:38:42.626 --> 00:38:46.896
+It’s easy to believe that the explanation is, that long, long ago,
+
+L4-cue_523
+00:38:46.896 --> 00:38:51.456
+when the life processes first began, some accidental molecule got started
+
+L4-cue_524
+00:38:51.456 --> 00:38:56.786
+and propagated itself by reproducing itself, and so on, until, after many, many years,
+
+L4-cue_525
+00:38:56.786 --> 00:39:00.106
+these funny-looking blobs with the prongs sticking out yak
+
+L4-cue_526
+00:39:00.106 --> 00:39:06.276
+at each other-but they are nothing but the offspring of the first few molecules,
+
+L4-cue_527
+00:39:06.276 --> 00:39:09.176
+and it’s an accident of the first few molecules that it happened
+
+L4-cue_528
+00:39:09.176 --> 00:39:10.596
+to form one way instead of the other.
+
+L4-cue_529
+00:39:10.596 --> 00:39:16.706
+#It has to be one or the other, so the thing that reproduces itself is either left or right,
+
+L4-cue_530
+00:39:16.706 --> 00:39:19.836
+and then it goes on and propagates this on and on.
+
+L4-cue_531
+00:39:19.836 --> 00:39:23.846
+It’s much like the screws in the machine shop: we use right—hand thread screws
+
+L4-cue_532
+00:39:23.846 --> 00:39:26.796
+to make new right—hand thread screws, and so on.
+
+L4-cue_533
+00:39:26.796 --> 00:39:34.626
+So this is probably one of the deepest demonstrations—the fact
+
+L4-cue_534
+00:39:34.626 --> 00:39:38.986
+that the protein molecules are exactly the same in all life, they all have exactly the same kind
+
+L4-cue_535
+00:39:38.986 --> 00:39:46.086
+of thread-is probably one of the deepest demonstrations of the uniformity of the ancestry
+
+L4-cue_536
+00:39:46.086 --> 00:39:55.996
+of life, the common ancestry of all life—back, in fact, to the completely molecular level.
+
+L4-cue_537
+00:39:55.996 --> 00:40:01.826
+Now, in order to test better this question about whether the laws of physics are same right
+
+L4-cue_538
+00:40:01.826 --> 00:40:04.576
+and left, we can put the problem to ourselves this way.
+
+L4-cue_539
+00:40:04.576 --> 00:40:09.586
+#Suppose that we were in telephone conversation with a Martian or an Arcturian, or something.
+
+L4-cue_540
+00:40:09.586 --> 00:40:14.836
+We don’t know where he is and we would like to describe things to him.
+
+L4-cue_541
+00:40:14.836 --> 00:40:16.406
+We want to tell him about things.
+
+L4-cue_542
+00:40:16.406 --> 00:40:18.306
+You say, so how’s he going to understand the words, well,
+
+L4-cue_543
+00:40:18.306 --> 00:40:21.396
+that’s been studied very much by Professor Morrison here.
+
+L4-cue_544
+00:40:21.396 --> 00:40:25.406
+He has pointed out that one way would be to start out and say tick tick two,
+
+L4-cue_545
+00:40:25.406 --> 00:40:29.326
+tick tick tick three, and so on, and pretty soon the guy’d catch onto the numbers.
+
+L4-cue_546
+00:40:29.326 --> 00:40:35.346
+Then—as he understands your number system, then—you can write lots of numbers
+
+L4-cue_547
+00:40:35.346 --> 00:40:40.246
+and you could, for example, write a whole sequence of numbers that represents the weights,
+
+L4-cue_548
+00:40:40.246 --> 00:40:43.376
+the proportional weights, of the different atoms, in succession.
+
+L4-cue_549
+00:40:43.376 --> 00:40:47.416
+#Then say, hydrogen: 1.008, deuterium, and so on and so on.
+
+L4-cue_550
+00:40:47.416 --> 00:40:51.336
+And he would-after he sat down with all those numbers and piddled around a while,
+
+L4-cue_551
+00:40:51.336 --> 00:40:55.216
+would-discover that the mathematical ratios were the same as the ratios of the weights
+
+L4-cue_552
+00:40:55.216 --> 00:40:59.416
+of the elements and, therefore, those names must be for the elements—and so gradually, you could,
+
+L4-cue_553
+00:40:59.416 --> 00:41:04.206
+in talking to him, have a common language, in many ways, common.
+
+L4-cue_554
+00:41:04.206 --> 00:41:06.326
+There are many-now comes the problem.
+
+L4-cue_555
+00:41:06.326 --> 00:41:10.346
+#Suppose that he says, you fellas—after we get familiar with him, he says, "You’re very nice;
+
+L4-cue_556
+00:41:10.346 --> 00:41:12.236
+now I’d like to know what you look like."
+
+L4-cue_557
+00:41:12.236 --> 00:41:15.316
+And you start out, "Well, we’re about six feet tall."
+
+L4-cue_558
+00:41:15.316 --> 00:41:18.296
+He says, "Six feet, how big is a foot?"
+
+L4-cue_559
+00:41:18.296 --> 00:41:25.286
+"It’s very easy," you say; "six feet tall is 170 thousand million hydrogen atoms high."
+
+L4-cue_560
+00:41:25.286 --> 00:41:29.776
+Well, it’s not a joke; it’s a possible way of describing six feet to someone
+
+L4-cue_561
+00:41:29.776 --> 00:41:33.716
+that has no measure, assuming that we cannot send him any samples,
+
+L4-cue_562
+00:41:33.716 --> 00:41:35.486
+nor can we both look at the same object.
+
+L4-cue_563
+00:41:35.486 --> 00:41:38.646
+#If we have to tell him how big we are; we can do it.
+
+L4-cue_564
+00:41:38.646 --> 00:41:44.016
+That’s because the laws of physics are not unchanged under a scale change.
+
+L4-cue_565
+00:41:44.016 --> 00:41:48.466
+We can use that factor, use the properties of the scale to determine—I mean,
+
+L4-cue_566
+00:41:48.466 --> 00:41:51.436
+you can use that fact to determine the scale.
+
+L4-cue_567
+00:41:51.436 --> 00:41:54.386
+#Well, here we’ve described ourselves after telling six feet tall,
+
+L4-cue_568
+00:41:54.386 --> 00:41:57.126
+and we’re so-and-so bilateral on the outside, and we look like this,
+
+L4-cue_569
+00:41:57.126 --> 00:41:59.556
+and there are these prongs sticking out, and all this.
+
+L4-cue_570
+00:41:59.556 --> 00:42:02.076
+And he says, "That’s very interesting; what do you look like on the inside?"
+
+L4-cue_571
+00:42:02.076 --> 00:42:06.326
+So we describe the heart and so on, and we say, "Now, put the heart in on the left side."
+
+L4-cue_572
+00:42:06.326 --> 00:42:12.066
+#Now the question is, how can we tell him which side is the left side?
+
+L4-cue_573
+00:42:12.066 --> 00:42:14.936
+By what possible-you say, "Aw, you take beet sugar, see,
+
+L4-cue_574
+00:42:14.936 --> 00:42:21.996
+and you put it in water, and it turns."
+
+L4-cue_575
+00:42:21.996 --> 00:42:24.066
+Only trouble is, he has no beets up there.
+
+L4-cue_576
+00:42:24.066 --> 00:42:29.176
+Or, we have no way of knowing whether the evolution, if it was even corresponding
+
+L4-cue_577
+00:42:29.176 --> 00:42:32.576
+to the same proteins on Mars as here, whether the accidents
+
+L4-cue_578
+00:42:32.576 --> 00:42:38.556
+of the evolution would have started with maybe the wrong—handed threads—there’s no way to tell.
+
+L4-cue_579
+00:42:38.556 --> 00:42:43.986
+After much thought, you see you can’t do it, so you conclude it’s impossible.
+
+L4-cue_580
+00:42:43.986 --> 00:42:48.586
+#However, about five or six years ago, certain experiments ...
+
+L4-cue_581
+00:42:48.586 --> 00:42:54.076
+produced all kinds of puzzles (I won’t go into details); we got into tighter
+
+L4-cue_582
+00:42:54.076 --> 00:42:58.386
+and tighter difficulties, more and more paradoxical situations, until ...
+
+L4-cue_583
+00:42:58.386 --> 00:43:01.766
+Lee and Yang proposed [that] maybe the principle that right
+
+L4-cue_584
+00:43:01.766 --> 00:43:06.246
+and left symmetry—that nature’s the same for right and left—is not right, and that would help
+
+L4-cue_585
+00:43:06.246 --> 00:43:09.596
+to explain a number of mysteries.
+
+L4-cue_586
+00:43:09.596 --> 00:43:13.196
+#Lee and Yang proposed some more direct experiments to demonstrate this.
+
+L4-cue_587
+00:43:13.196 --> 00:43:18.056
+I’ll just mention the most direct of all the experiments, the easiest way to tell ...
+
+L4-cue_588
+00:43:18.056 --> 00:43:23.426
+(well, there were several "first" experiments which were quite clear,
+
+L4-cue_589
+00:43:23.426 --> 00:43:26.376
+but the one that’s easiest to explain) is this:
+
+L4-cue_590
+00:43:26.376 --> 00:43:29.916
+that when we have a radioactive disintegration ...
+
+L4-cue_591
+00:43:29.916 --> 00:43:36.586
+in which an electron and a neutrino are emitted (for example, this is one that we talked
+
+L4-cue_592
+00:43:36.586 --> 00:43:42.566
+about before, electron and antineutrino); this is a neutron disintegrating into a proton,
+
+L4-cue_593
+00:43:42.566 --> 00:43:44.506
+an electron, and an antineutrino,
+
+L4-cue_594
+00:43:44.506 --> 00:43:47.246
+or this corresponding thing can happen to a neutron in a nucleus.
+
+L4-cue_595
+00:43:47.246 --> 00:43:51.946
+Anyway, there are many radioactivities in which the charge of the nucleus increases
+
+L4-cue_596
+00:43:51.946 --> 00:43:55.096
+by one, and an electron comes out.
+
+L4-cue_597
+00:43:55.096 --> 00:43:59.906
+#The thing that’s interesting is that if you measure the spin—electrons are spinning
+
+L4-cue_598
+00:43:59.906 --> 00:44:05.166
+as they come out; if you measure the spin—you find out that they’re spinning to the left.
+
+L4-cue_599
+00:44:05.166 --> 00:44:09.046
+That is a definite significance: that the electron, when it comes out of disintegration,
+
+L4-cue_600
+00:44:09.046 --> 00:44:14.506
+is turning this way; that helical description is a left—hand thread.
+
+L4-cue_601
+00:44:14.506 --> 00:44:19.736
+It’s as though, in the beta decay, the gun that was shooting out the electron were a rifled gun,
+
+L4-cue_602
+00:44:19.736 --> 00:44:22.046
+and there’s two ways to rifle a gun,
+
+L4-cue_603
+00:44:22.046 --> 00:44:25.056
+because there’s a direction—out—and then there’s a question:
+
+L4-cue_604
+00:44:25.056 --> 00:44:27.446
+do you turn it this way, or that way, as you go out?
+
+L4-cue_605
+00:44:27.446 --> 00:44:33.266
+The experiment is, that the electrons come from a rifled gun, rifled and twisted to the left.
+
+L4-cue_606
+00:44:33.266 --> 00:44:37.976
+And so, using this fact, we can call up the Martian and say, "Listen:
+
+L4-cue_607
+00:44:37.976 --> 00:44:42.096
+take radioactive stuff" (I ought to have prepared a particular example)
+
+L4-cue_608
+00:44:42.096 --> 00:44:49.976
+"a neutron-and look at the electrons which come from such a beta decay."
+
+L4-cue_609
+00:44:49.976 --> 00:44:53.646
+#Then you define "left" by this screw thread.
+
+L4-cue_610
+00:44:53.646 --> 00:44:54.066
+Let’s see ...
+
+L4-cue_611
+00:44:54.066 --> 00:45:01.016
+it’ll take me some while to figure out how to do it in detail: say the electron’s going
+
+L4-cue_612
+00:45:01.016 --> 00:45:06.336
+up in the direction of motion, and the way it’s spinning is into the body [from the back]
+
+L4-cue_613
+00:45:06.336 --> 00:45:10.936
+on the left side—and that’s where the heart goes—something like that.
+
+L4-cue_614
+00:45:10.936 --> 00:45:14.316
+I’d have to think a little bit more on it.
+
+L4-cue_615
+00:45:14.316 --> 00:45:17.596
+#But anyway, it is possible to tell right from left, and thus,
+
+L4-cue_616
+00:45:17.596 --> 00:45:25.236
+the law of this—that the world was symmetrical for left and right—has collapsed.
+
+L4-cue_617
+00:45:25.236 --> 00:45:31.926
+#... The next thing I would like to talk about is the relationship
+
+L4-cue_618
+00:45:31.926 --> 00:45:34.756
+of conservation laws to symmetry laws.
+
+L4-cue_619
+00:45:34.756 --> 00:45:44.416
+We last time talked about conservation principles—conservation of energy, of momentum,
+
+L4-cue_620
+00:45:44.416 --> 00:45:47.476
+angular momentum, and so on; now we’re talking about symmetry laws.
+
+L4-cue_621
+00:45:47.476 --> 00:45:51.626
+It’s extremely interesting that there seems to be a deep connection
+
+L4-cue_622
+00:45:51.626 --> 00:45:54.656
+between the conservation laws and the symmetry laws.
+
+L4-cue_623
+00:45:54.656 --> 00:45:58.906
+This connection has its proper interpretation, at least as we understand it today,
+
+L4-cue_624
+00:45:58.906 --> 00:46:02.096
+only in the knowledge of quantum mechanics.
+
+L4-cue_625
+00:46:02.096 --> 00:46:09.716
+#Nevertheless, I will show you the following; I will try to explain the following:
+
+L4-cue_626
+00:46:09.716 --> 00:46:14.856
+if we will assume that the laws of physics are describable
+
+L4-cue_627
+00:46:14.856 --> 00:46:18.836
+by a minimum principle—that the paths are taken
+
+L4-cue_628
+00:46:18.836 --> 00:46:25.046
+so that some quantity is least (an idea I described once before); if we add that the laws
+
+L4-cue_629
+00:46:25.046 --> 00:46:29.486
+of nature come from a minimum principle—then we can show that if the law is
+
+L4-cue_630
+00:46:29.486 --> 00:46:33.826
+such that you can move all the equipment to one side (in other words, if it’s translatable
+
+L4-cue_631
+00:46:33.826 --> 00:46:39.056
+in space), then there must be conservation of momentum, that there’s a deep connection
+
+L4-cue_632
+00:46:39.056 --> 00:46:42.236
+between the symmetry principles and the conservation laws,
+
+L4-cue_633
+00:46:42.236 --> 00:46:46.456
+but that that connection requires that the minimum principle be assumed.
+
+L4-cue_634
+00:46:46.456 --> 00:46:52.006
+#You remember at one time we discussed one way of describing physical laws,
+
+L4-cue_635
+00:46:52.006 --> 00:46:57.126
+by saying that a particle goes from one place to another in a given length of time
+
+L4-cue_636
+00:46:57.126 --> 00:47:02.576
+by trying different paths, and the actual path taken has this property:
+
+L4-cue_637
+00:47:02.576 --> 00:47:05.826
+that there’s a certain quantity, which unfortunately happens
+
+L4-cue_638
+00:47:05.826 --> 00:47:09.466
+to be called the action (which is not to be taken to signify anything,
+
+L4-cue_639
+00:47:09.466 --> 00:47:12.286
+because it’s got nothing to do with action); anyway,
+
+L4-cue_640
+00:47:12.286 --> 00:47:15.936
+there’s a certain quantity called the action, which you calculate on this path,
+
+L4-cue_641
+00:47:15.936 --> 00:47:20.796
+and if you will calculate it for any other path, the answer’s bigger.
+
+L4-cue_642
+00:47:20.796 --> 00:47:25.056
+It’s least for the real path, and that one way of describing the laws of nature is to say
+
+L4-cue_643
+00:47:25.056 --> 00:47:29.266
+that the action—a certain mathematical quantity—is least
+
+L4-cue_644
+00:47:29.266 --> 00:47:33.386
+for the actual path, than for any other path.
+
+L4-cue_645
+00:47:33.386 --> 00:47:36.776
+#Now, another way of saying the thing is least is to say this:
+
+L4-cue_646
+00:47:36.776 --> 00:47:42.676
+that if you move the path a little bit, at first it doesn’t make any difference.
+
+L4-cue_647
+00:47:42.676 --> 00:47:44.346
+Suppose you were walking around ...
+
+L4-cue_648
+00:47:44.346 --> 00:47:50.616
+on mountains, on hills—but smooth hills, please, smooth—the mathematical things
+
+L4-cue_649
+00:47:50.616 --> 00:47:54.226
+that are involved here correspond to smooth things.
+
+L4-cue_650
+00:47:54.226 --> 00:47:59.396
+We’re walking around on hills and valleys, and we come to a place where we’re lowest.
+
+L4-cue_651
+00:47:59.396 --> 00:48:04.816
+Then I say, if you take a small step forward you won’t change your height.
+
+L4-cue_652
+00:48:04.816 --> 00:48:09.286
+When you’re at the lowest (or at the highest) point, a step doesn’t make any difference
+
+L4-cue_653
+00:48:09.286 --> 00:48:13.176
+in the altitude, in first approximation, whereas, if you’re on a slope,
+
+L4-cue_654
+00:48:13.176 --> 00:48:16.886
+you can walk down the slope with a step—and then if you take the step
+
+L4-cue_655
+00:48:16.886 --> 00:48:19.246
+in the opposite direction, you walk up.
+
+L4-cue_656
+00:48:19.246 --> 00:48:22.856
+That’s the key to the reason why, when you’re at the lowest place,
+
+L4-cue_657
+00:48:22.856 --> 00:48:24.796
+taking a step doesn’t make much difference,
+
+L4-cue_658
+00:48:24.796 --> 00:48:27.856
+because if it did make any difference you could put the step in the opposite direction,
+
+L4-cue_659
+00:48:27.856 --> 00:48:31.486
+you’d go down-I mean, if it went up one way, it would go down another way,
+
+L4-cue_660
+00:48:31.486 --> 00:48:34.476
+but since this is the lowest point and you can’t go down,
+
+L4-cue_661
+00:48:34.476 --> 00:48:38.586
+in first approximation the step doesn’t make any difference.
+
+L4-cue_662
+00:48:38.586 --> 00:48:43.726
+We therefore know that if we move this path a little bit,
+
+L4-cue_663
+00:48:43.726 --> 00:48:47.656
+in first approximation it doesn’t make any difference to the action.
+
+L4-cue_664
+00:48:47.656 --> 00:48:51.726
+#Now, I want you to consider the following possible other path.
+
+L4-cue_665
+00:48:51.726 --> 00:48:55.896
+First, we jump immediately over to another place here nearby.
+
+L4-cue_666
+00:48:55.896 --> 00:49:03.856
+Then, we go along—(this sticks out too far to make the diagram clear, so if you’ll permit me
+
+L4-cue_667
+00:49:03.856 --> 00:49:11.216
+to just change the shape of the path)—we move on exactly the corresponding path to another point,
+
+L4-cue_668
+00:49:11.216 --> 00:49:13.296
+here, which is displaced the same amount, of course;
+
+L4-cue_669
+00:49:13.296 --> 00:49:16.656
+this is the corresponding path, to the side.
+
+L4-cue_670
+00:49:16.656 --> 00:49:21.796
+Now we have just discovered that the laws of nature are such that the action—the total amount
+
+L4-cue_671
+00:49:21.796 --> 00:49:27.956
+of action—going on this path is the same, in first approximation, to that path.
+
+L4-cue_672
+00:49:27.956 --> 00:49:31.806
+That’s from a minimum principle, when it’s the real motion.
+
+L4-cue_673
+00:49:31.806 --> 00:49:33.366
+#Now, I show you something else.
+
+L4-cue_674
+00:49:33.366 --> 00:49:37.506
+That the action on this path is the same as the action from this little cross
+
+L4-cue_675
+00:49:37.506 --> 00:49:42.416
+to that little cross if the world is the same when you move everything over,
+
+L4-cue_676
+00:49:42.416 --> 00:49:46.816
+because the difference of these two is only that you moved everything over.
+
+L4-cue_677
+00:49:46.816 --> 00:49:52.326
+If the symmetry principle of translation in space is right, if that’s right,
+
+L4-cue_678
+00:49:52.326 --> 00:49:56.906
+then the total action between the crosses is the same as between the dots.
+
+L4-cue_679
+00:49:56.906 --> 00:50:00.196
+But for the true motion, the total action
+
+L4-cue_680
+00:50:00.196 --> 00:50:04.416
+on this cockeyed path here is about—is very closely—the same
+
+L4-cue_681
+00:50:04.416 --> 00:50:08.366
+as for the original one (subtracting equals from equals, and so on, and so on); anyway,
+
+L4-cue_682
+00:50:08.366 --> 00:50:12.866
+you could probably see, therefore, that the contribution from this little section
+
+L4-cue_683
+00:50:12.866 --> 00:50:15.276
+and from this little section are equal.
+
+L4-cue_684
+00:50:15.276 --> 00:50:17.796
+But in making this little motion, we’re going this way,
+
+L4-cue_685
+00:50:17.796 --> 00:50:21.556
+and making this one, we’re going the other way.
+
+L4-cue_686
+00:50:21.556 --> 00:50:27.536
+#... So the contribution of this, taken as the effect of moving that way, and the contribution
+
+L4-cue_687
+00:50:27.536 --> 00:50:29.786
+of this, thinking of it as an effect of moving that way,
+
+L4-cue_688
+00:50:29.786 --> 00:50:35.776
+but making it the other sign (because it’s the other way), we see that there is a quantity here
+
+L4-cue_689
+00:50:35.776 --> 00:50:40.896
+which has to match the quantity here, to cancel out—which is the effect on the action
+
+L4-cue_690
+00:50:40.896 --> 00:50:47.326
+of a little tiny step in the X direction: there is that quantity, the effect on the action
+
+L4-cue_691
+00:50:47.326 --> 00:50:51.856
+of a small step in the X direction, [that] is the same at the beginning as at the end.
+
+L4-cue_692
+00:50:51.856 --> 00:50:55.536
+There is a quantity, therefore, that doesn’t change as time goes on,
+
+L4-cue_693
+00:50:55.536 --> 00:51:00.496
+provided the minimum principle works, and the symmetry principle
+
+L4-cue_694
+00:51:00.496 --> 00:51:02.256
+of displacement in space is right.
+
+L4-cue_695
+00:51:02.256 --> 00:51:05.276
+#Now, this quantity which doesn’t change is, in fact,
+
+L4-cue_696
+00:51:05.276 --> 00:51:10.146
+exactly the momentum that we discussed last time.
+
+L4-cue_697
+00:51:10.146 --> 00:51:14.706
+A corresponding argument for the displacement in time, the delay in time,
+
+L4-cue_698
+00:51:14.706 --> 00:51:21.126
+comes out as a conservation of energy; the case that if we rotate
+
+L4-cue_699
+00:51:21.126 --> 00:51:22.896
+in space doesn’t make any difference,
+
+L4-cue_700
+00:51:22.896 --> 00:51:26.976
+comes out as the conservation of angular momentum, and so on.
+
+L4-cue_701
+00:51:26.976 --> 00:51:30.836
+That we can reflect and it makes no difference doesn’t come out to be anything simple,
+
+L4-cue_702
+00:51:30.836 --> 00:51:36.316
+in the classical sense; it hasn’t, therefore, got a simple classical interpretation.
+
+L4-cue_703
+00:51:36.316 --> 00:51:41.206
+People have called it parity, and they have a conservation law called the conservation
+
+L4-cue_704
+00:51:41.206 --> 00:51:46.256
+of parity, but those are just complicated words in the case of the quantum mechanics;
+
+L4-cue_705
+00:51:46.256 --> 00:51:50.906
+all we’re saying is, that the right and left symmetry law is not valid.
+
+L4-cue_706
+00:51:50.906 --> 00:51:55.206
+#I have to mention that conservation of parity, because you may have read in the papers
+
+L4-cue_707
+00:51:55.206 --> 00:51:58.976
+that the law of conservation of parity has been proved wrong; it should have been written,
+
+L4-cue_708
+00:51:58.976 --> 00:52:01.726
+because it’s much easier to understand, [that] the principle
+
+L4-cue_709
+00:52:01.726 --> 00:52:06.916
+that you can’t distinguish right and left has been proved wrong.
+
+L4-cue_710
+00:52:06.916 --> 00:52:10.656
+#Now, I would like to say, as we go on about other symmetries,
+
+L4-cue_711
+00:52:10.656 --> 00:52:17.706
+that there are a few problems—new problems: for instance, for every particle, like an electron,
+
+L4-cue_712
+00:52:17.706 --> 00:52:20.656
+there’s an antiparticle (a positron).
+
+L4-cue_713
+00:52:20.656 --> 00:52:22.266
+For a proton, there’s an antiproton.
+
+L4-cue_714
+00:52:22.266 --> 00:52:26.906
+We can make, in principle, what we call antimatter,
+
+L4-cue_715
+00:52:26.906 --> 00:52:30.806
+in which every atom has its corresponding anti pieces put together.
+
+L4-cue_716
+00:52:30.806 --> 00:52:33.156
+For example, a hydrogen atom is a proton and an electron.
+
+L4-cue_717
+00:52:33.156 --> 00:52:37.466
+If we take an antiproton, which is electrically negative, and a positron, and put them together,
+
+L4-cue_718
+00:52:37.466 --> 00:52:41.186
+they will also make a kind of hydrogen atom, an antihydrogen atom—in principle;
+
+L4-cue_719
+00:52:41.186 --> 00:52:44.176
+it’s never been made, in fact, but this is figured out,
+
+L4-cue_720
+00:52:44.176 --> 00:52:49.646
+that we could make this—we could make all kinds of antimatter in the same manner.
+
+L4-cue_721
+00:52:49.646 --> 00:52:55.606
+#Well, the question is, whether the matter works the same as the antimatter.
+
+L4-cue_722
+00:52:55.606 --> 00:52:57.606
+As far as we know, it does.
+
+L4-cue_723
+00:52:57.606 --> 00:53:01.066
+One of the laws of symmetry is that if we make stuff out of antimatter,
+
+L4-cue_724
+00:53:01.066 --> 00:53:04.356
+it’ll behave the same way as do when we make the corresponding stuff out of matter.
+
+L4-cue_725
+00:53:04.356 --> 00:53:06.166
+(Of course if they come together they annihilate;
+
+L4-cue_726
+00:53:06.166 --> 00:53:09.136
+there would be sparks and everything else.)
+
+L4-cue_727
+00:53:09.136 --> 00:53:12.616
+It was believed that this is true: that matter and antimatter have the same laws.
+
+L4-cue_728
+00:53:12.616 --> 00:53:20.886
+#Now, the next question is this: once it’s found that the left and right is wrong (the left
+
+L4-cue_729
+00:53:20.886 --> 00:53:25.476
+and right symmetry is wrong), an important question comes.
+
+L4-cue_730
+00:53:25.476 --> 00:53:29.246
+#... If I look at this disintegration, but with antimatter—an antineutron goes
+
+L4-cue_731
+00:53:29.246 --> 00:53:36.196
+into an antiproton plus an antielectron (that’s a positron) plus a neutrino—the question is,
+
+L4-cue_732
+00:53:36.196 --> 00:53:39.836
+does the antimatter behave like the matter in the sense that it comes
+
+L4-cue_733
+00:53:39.836 --> 00:53:43.626
+out left-hand thread, or does it behave the other way?
+
+L4-cue_734
+00:53:43.626 --> 00:53:49.266
+It turns out, we think (up until a few months ago), that it behaves the opposite way;
+
+L4-cue_735
+00:53:49.266 --> 00:53:57.976
+that the antimatter behaves like it goes to the right, where matter goes to the left.
+
+L4-cue_736
+00:53:57.976 --> 00:54:01.186
+And so there was another principle—and [therefore], in fact,
+
+L4-cue_737
+00:54:01.186 --> 00:54:05.046
+we really can’t tell a Martian which is right and left, because if he happens to be made
+
+L4-cue_738
+00:54:05.046 --> 00:54:08.606
+out of antimatter, he’d get the thing the other way, because when he does his experiment,
+
+L4-cue_739
+00:54:08.606 --> 00:54:11.886
+his positrons are coming out, puts the heart on the wrong side.
+
+L4-cue_740
+00:54:11.886 --> 00:54:14.926
+And so you can see that if the Martian—if you telephone the Martian,
+
+L4-cue_741
+00:54:14.926 --> 00:54:20.026
+and explain how to make a man, and suppose he makes one and it works, ...
+
+L4-cue_742
+00:54:20.026 --> 00:54:25.586
+and you explain to him also all our social conventions, and so on.
+
+L4-cue_743
+00:54:25.586 --> 00:54:28.406
+#Then when we go finally to meet this man (after he tells us how
+
+L4-cue_744
+00:54:28.406 --> 00:54:32.456
+to build a sufficiently good spaceship), we go to meet this man, and you walk up to him
+
+L4-cue_745
+00:54:32.456 --> 00:54:37.406
+and you put out your right hand to shake hands—if he puts out his right hand, okay,
+
+L4-cue_746
+00:54:37.406 --> 00:54:47.546
+but if he puts out his left hand, watch out,
+
+L4-cue_747
+00:54:47.546 --> 00:55:00.806
+because the two of you will annihilate with each other!
+
+L4-cue_748
+00:55:00.806 --> 00:55:05.846
+#Now, these are all the symmetries that I have time to tell you about; I wish I could tell you
+
+L4-cue_749
+00:55:05.846 --> 00:55:09.576
+about a few more, but they become more difficult technically to explain.
+
+L4-cue_750
+00:55:09.576 --> 00:55:15.996
+... There are some very remarkable things, which are the near symmetries, the remarkable feature
+
+L4-cue_751
+00:55:15.996 --> 00:55:19.906
+of this effect (that we can distinguish right and left) is that we can distinguish right
+
+L4-cue_752
+00:55:19.906 --> 00:55:24.836
+and left only with a very weak effect, with this beta disintegration.
+
+L4-cue_753
+00:55:24.836 --> 00:55:30.246
+#What it means, that nature is 99.99 indistinguishable right from left,
+
+L4-cue_754
+00:55:30.246 --> 00:55:34.026
+but that there’s just one little piece, one little characteristic phenomenon,
+
+L4-cue_755
+00:55:34.026 --> 00:55:39.256
+which is completely different in the sense that it’s absolutely lopsided,
+
+L4-cue_756
+00:55:39.256 --> 00:55:43.376
+is a mystery that no one has the slightest idea about yet.
+
+L4-cue_757
+00:55:43.376 --> 00:57:06.000
+#Thank you.

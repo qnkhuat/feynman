@@ -1,0 +1,2961 @@
+WEBVTT
+
+L6-cue_0a
+00:00:00.250 --> 00:00:20.000
+##front [BBC TV Film Leader]
+
+L6-cue_0b
+00:00:20.000 --> 00:01:15.700
+##front Credits: Cornell University U.S.A., The Character of Physical Law, Professor Richard Feynman gives the Messenger Lectures
+
+L6-cue_0
+00:01:16.200 --> 00:01:31.316
+##Title Probability and Uncertainty: the quantum mechanical view of nature
+
+L6-cue_1
+00:01:31.316 --> 00:01:35.496
+#In the beginning of the history of experimental observation,
+
+L6-cue_2
+00:01:35.496 --> 00:01:38.836
+or any other kind of observation on scientific things,
+
+L6-cue_3
+00:01:38.836 --> 00:01:42.326
+it’s intuition-which is really based just on experience
+
+L6-cue_4
+00:01:42.326 --> 00:01:47.286
+with everyday objects—that suggests reasonable explanations for things.
+
+L6-cue_5
+00:01:47.286 --> 00:01:53.556
+#But as we try to widen, and make more consistent, our description of what we see,
+
+L6-cue_6
+00:01:53.556 --> 00:01:57.526
+as it gets wider and wider and we see a greater range of phenomena,
+
+L6-cue_7
+00:01:57.526 --> 00:02:02.086
+the explanations become what we call laws, instead of simple explanations.
+
+L6-cue_8
+00:02:02.086 --> 00:02:05.736
+But the one important odd characteristic is that they often seem to become more
+
+L6-cue_9
+00:02:05.736 --> 00:02:11.476
+and more unreasonable, and more and more intuitively far from obvious.
+
+L6-cue_10
+00:02:11.476 --> 00:02:18.776
+#To take an example is the relativity theory, in which, for instance, the proposition is
+
+L6-cue_11
+00:02:18.776 --> 00:02:23.996
+that if you think that two things occur at the same time, that’s just a subjective opinion:
+
+L6-cue_12
+00:02:23.996 --> 00:02:28.476
+someone else could conclude that those two events, one was before the other,
+
+L6-cue_13
+00:02:28.476 --> 00:02:33.946
+and that simultaneity is merely a subjective impression.
+
+L6-cue_14
+00:02:33.946 --> 00:02:38.766
+#Now, there’s no reason why this should be otherwise, really.
+
+L6-cue_15
+00:02:38.766 --> 00:02:44.316
+The things of the direct everyday experience involve large numbers of particles,
+
+L6-cue_16
+00:02:44.316 --> 00:02:50.616
+or involve things moving very slowly, or involve other conditions that are very special
+
+L6-cue_17
+00:02:50.616 --> 00:02:55.176
+and represent, in fact, a very limited experience with nature.
+
+L6-cue_18
+00:02:55.176 --> 00:03:00.786
+It’s a small section only that one gets of natural phenomena from a direct experience;
+
+L6-cue_19
+00:03:00.786 --> 00:03:04.816
+it’s only through the refined measurements and careful experimentation
+
+L6-cue_20
+00:03:04.816 --> 00:03:10.856
+that we can get a wider vision—and then we see unexpected things.
+
+L6-cue_21
+00:03:10.856 --> 00:03:18.776
+#We see things that are far from what we would guess; we see things that are very far
+
+L6-cue_22
+00:03:18.776 --> 00:03:21.156
+from what we would—could have imagined.
+
+L6-cue_23
+00:03:21.156 --> 00:03:26.266
+And so our imagination is stretched to the utmost—not as in fiction,
+
+L6-cue_24
+00:03:26.266 --> 00:03:32.686
+to imagine things which aren’t really there, but our imagination is stretched to the utmost just
+
+L6-cue_25
+00:03:32.686 --> 00:03:39.576
+to comprehend those things which are there—and it’s this kind of a situation
+
+L6-cue_26
+00:03:39.576 --> 00:03:41.546
+that I want to talk about tonight.
+
+L6-cue_27
+00:03:41.546 --> 00:03:46.026
+Start, for instance, with the history of light.
+
+L6-cue_28
+00:03:46.026 --> 00:03:52.786
+#At first, light was seen to behave—it would appear to behave—very much like a rain
+
+L6-cue_29
+00:03:52.786 --> 00:04:00.046
+of particles, of "corpuscles," like rain, bullets from a gun, same idea.
+
+L6-cue_30
+00:04:00.046 --> 00:04:04.466
+Then, with further research, it was clear that it was not right,
+
+L6-cue_31
+00:04:04.466 --> 00:04:09.576
+but that light actually behaved like waves, like water waves, for instance.
+
+L6-cue_32
+00:04:09.576 --> 00:04:13.086
+And then in the 20th century, on further research,
+
+L6-cue_33
+00:04:13.086 --> 00:04:18.596
+it appeared that light actually behaved, in many ways, again like particles.
+
+L6-cue_34
+00:04:18.596 --> 00:04:23.096
+In the photoelectric effect you could count these particles—they’re called photons now—and
+
+L6-cue_35
+00:04:23.096 --> 00:04:25.576
+so forth.
+
+L6-cue_36
+00:04:25.576 --> 00:04:28.556
+#Again: electrons, when they were first discovered,
+
+L6-cue_37
+00:04:28.556 --> 00:04:32.396
+behaved exactly like particles—bullets—very simple.
+
+L6-cue_38
+00:04:32.396 --> 00:04:36.296
+Further research showed—in electron diffraction experiments,
+
+L6-cue_39
+00:04:36.296 --> 00:04:40.056
+and so on-that they behaved like waves.
+
+L6-cue_40
+00:04:40.056 --> 00:04:44.186
+As time went on, there was a growing confusion in the question
+
+L6-cue_41
+00:04:44.186 --> 00:04:46.936
+of how the things really behaved—waves or particles,
+
+L6-cue_42
+00:04:46.936 --> 00:04:50.606
+particle or waves—everything looked like both.
+
+L6-cue_43
+00:04:50.606 --> 00:04:56.696
+#Now, this growing confusion was resolved in 1925 or 1926 with the advent
+
+L6-cue_44
+00:04:56.696 --> 00:04:59.766
+of the correct equations for quantum mechanics.
+
+L6-cue_45
+00:04:59.766 --> 00:05:07.306
+Now we know how the particles—how the electrons and how light—behave, but what can I call it?
+
+L6-cue_46
+00:05:07.306 --> 00:05:09.466
+I can say they behave like a particle wave,
+
+L6-cue_47
+00:05:09.466 --> 00:05:14.736
+or they behave in [a] "typical quantum mechanical manner"—there isn’t any word for it.
+
+L6-cue_48
+00:05:14.736 --> 00:05:17.826
+#If I say they behave like particles, I give the wrong impression; if I say they behave
+
+L6-cue_49
+00:05:17.826 --> 00:05:23.076
+like waves, they behave in their own inimitable way—which, technically,
+
+L6-cue_50
+00:05:23.076 --> 00:05:28.286
+could be called the "quantum mechanical way"—they behave in a way that is
+
+L6-cue_51
+00:05:28.286 --> 00:05:31.356
+like nothing that you have ever seen before!
+
+L6-cue_52
+00:05:31.356 --> 00:05:39.666
+Your experience with things that you have seen before is inadequate, is incomplete.
+
+L6-cue_53
+00:05:39.666 --> 00:05:47.106
+The behavior of things on a very tiny scale is simply different: they do not behave just
+
+L6-cue_54
+00:05:47.106 --> 00:05:51.306
+like particles; they do not behave just like waves.
+
+L6-cue_55
+00:05:51.306 --> 00:05:56.996
+#Atoms do not behave like weights hanging on a spring and oscillating, nor do they behave
+
+L6-cue_56
+00:05:56.996 --> 00:06:00.616
+like miniature representations of the solar system, with little planets going
+
+L6-cue_57
+00:06:00.616 --> 00:06:04.536
+around in orbits, nor does it appear to be somewhat like a cloud
+
+L6-cue_58
+00:06:04.536 --> 00:06:11.956
+or fog of some sort surrounding a nucleus—it behaves like nothing that you’ve seen before.
+
+L6-cue_59
+00:06:11.956 --> 00:06:16.176
+#Well, there’s one simplification: at least electrons behave exactly the same,
+
+L6-cue_60
+00:06:16.176 --> 00:06:26.466
+in this respect, as photons—that is, they’re both screwy, but in exactly the same way.
+
+L6-cue_61
+00:06:26.466 --> 00:06:31.776
+How they behave, therefore, takes a great deal of imagination to appreciate,
+
+L6-cue_62
+00:06:31.776 --> 00:06:37.456
+because we are going to describe something which is different than anything you know about.
+
+L6-cue_63
+00:06:37.456 --> 00:06:42.366
+#This—in that respect at least—makes this perhaps the most difficult lecture of the series,
+
+L6-cue_64
+00:06:42.366 --> 00:06:47.776
+in the sense that it’s abstract, in the sense that it is not close
+
+L6-cue_65
+00:06:47.776 --> 00:06:51.406
+to experience-and I cannot avoid that.
+
+L6-cue_66
+00:06:51.406 --> 00:06:55.076
+I could give a series of lectures on the character of physical law,
+
+L6-cue_67
+00:06:55.076 --> 00:07:00.126
+and to leave out from this series the description of the actual behavior of particles
+
+L6-cue_68
+00:07:00.126 --> 00:07:04.796
+on a small scale, I would certainly not be doing the job,
+
+L6-cue_69
+00:07:04.796 --> 00:07:08.936
+because this thing is completely characteristic of all of the particles of nature,
+
+L6-cue_70
+00:07:08.936 --> 00:07:14.606
+and is a universal character; it is, if you want to hear about the character of physical law,
+
+L6-cue_71
+00:07:14.606 --> 00:07:17.966
+essential to talk about this particular aspect.
+
+L6-cue_72
+00:07:17.966 --> 00:07:21.816
+#So it will be difficult.
+
+L6-cue_73
+00:07:21.816 --> 00:07:27.776
+But the difficulty, really, is psychological, and exists in the perpetual torment that results
+
+L6-cue_74
+00:07:27.776 --> 00:07:34.426
+from your saying to yourself, "But how can it be like that!"—which really is a reflection
+
+L6-cue_75
+00:07:34.426 --> 00:07:38.816
+of an uncontrolled, but I say utterly vain desire, to see it in terms
+
+L6-cue_76
+00:07:38.816 --> 00:07:40.976
+of some analogy with something familiar.
+
+L6-cue_77
+00:07:40.976 --> 00:07:43.166
+#I will not describe it in terms of an analogy
+
+L6-cue_78
+00:07:43.166 --> 00:07:48.236
+with something familiar; I will simply describe it.
+
+L6-cue_79
+00:07:48.236 --> 00:07:50.746
+#There was a time when the newspaper said
+
+L6-cue_80
+00:07:50.746 --> 00:07:53.216
+that only twelve men understood the theory of relativity.
+
+L6-cue_81
+00:07:53.216 --> 00:07:55.986
+I don’t believe there ever was such a time: there might have been of time
+
+L6-cue_82
+00:07:55.986 --> 00:08:01.126
+when only one man did, because he’s the only guy who caught on, before he wrote his paper.
+
+L6-cue_83
+00:08:01.126 --> 00:08:06.196
+But after people read the paper, a lot of people kind of understood the theory of relativity
+
+L6-cue_84
+00:08:06.196 --> 00:08:10.056
+in some way or other, but more than twelve.
+
+L6-cue_85
+00:08:10.056 --> 00:08:16.646
+#On the other hand, I think I can safely say that nobody understands quantum mechanics!
+
+L6-cue_86
+00:08:16.646 --> 00:08:19.876
+Now, if you appreciate this, and don’t take the lecture too seriously that you really have
+
+L6-cue_87
+00:08:19.876 --> 00:08:24.516
+to understand, in terms of some model, what I’m going to describe, and just relax and enjoy it,
+
+L6-cue_88
+00:08:24.516 --> 00:08:27.476
+I’m going to tell you what nature behaves like, and if you will simply admit
+
+L6-cue_89
+00:08:27.476 --> 00:08:32.736
+that maybe she does behave like this, you will find her a delightful, entrancing thing.
+
+L6-cue_90
+00:08:32.736 --> 00:08:35.836
+#So that’s the way to look at the lectures—not to try to understand.
+
+L6-cue_91
+00:08:35.836 --> 00:08:39.826
+(Well, you have to understand the English, of course.)
+
+L6-cue_92
+00:08:39.826 --> 00:08:44.626
+But, in any sense, in terms of something else, don’t keep saying to yourself,
+
+L6-cue_93
+00:08:44.626 --> 00:08:47.086
+if you can possibly avoid it, "But how could it be like that!"
+
+L6-cue_94
+00:08:47.086 --> 00:08:51.926
+Of course, you’ll get down the drain; you’ll get down into a blind alley which nobody has
+
+L6-cue_95
+00:08:51.926 --> 00:08:54.956
+yet escaped-nobody knows how it can be like that.
+
+L6-cue_96
+00:08:54.956 --> 00:09:02.216
+#So then just let me describe to you the behavior of electrons, or a photon,
+
+L6-cue_97
+00:09:02.216 --> 00:09:04.926
+in their typical quantum mechanical way.
+
+L6-cue_98
+00:09:04.926 --> 00:09:09.986
+Now, the way I’m going to do this is by a mixture of analogy and contrast.
+
+L6-cue_99
+00:09:09.986 --> 00:09:15.496
+If I made a pure analogy we would fail, so it must be analogy and contrast
+
+L6-cue_100
+00:09:15.496 --> 00:09:17.666
+to things that you’re familiar with.
+
+L6-cue_101
+00:09:17.666 --> 00:09:22.386
+#And so I make it, by analogy and contrast, first to the behavior of particles,
+
+L6-cue_102
+00:09:22.386 --> 00:09:28.376
+for which I will use bullets, and second, to the behavior of waves, for which I will use,
+
+L6-cue_103
+00:09:28.376 --> 00:09:31.826
+say, water waves, or sound waves.
+
+L6-cue_104
+00:09:31.826 --> 00:09:32.646
+#So we begin.
+
+L6-cue_105
+00:09:32.646 --> 00:09:35.246
+First, to discuss in a particular—what I’m going to do is,
+
+L6-cue_106
+00:09:35.246 --> 00:09:41.546
+I’m going to invent a particular experiment, and first tell how it would behave,
+
+L6-cue_107
+00:09:41.546 --> 00:09:45.496
+what the situation would be, in that experiment using particles, [then] what you would expect
+
+L6-cue_108
+00:09:45.496 --> 00:09:48.906
+to happen if waves were involved, and then what happens
+
+L6-cue_109
+00:09:48.906 --> 00:09:52.326
+when there are actually electrons or photons in the system.
+
+L6-cue_110
+00:09:52.326 --> 00:09:58.616
+#I will just take this one experiment which has been designed to contain all of the mystery
+
+L6-cue_111
+00:09:58.616 --> 00:10:03.026
+of quantum mechanics to put you up against the paradoxes and mysteries
+
+L6-cue_112
+00:10:03.026 --> 00:10:06.156
+and peculiarities of nature 100 percent.
+
+L6-cue_113
+00:10:06.156 --> 00:10:12.416
+Any other situation in quantum mechanics, it turns out, can always be explained afterwards
+
+L6-cue_114
+00:10:12.416 --> 00:10:16.806
+by saying, "You remember the case of the experiment with the two holes?
+
+L6-cue_115
+00:10:16.806 --> 00:10:18.256
+It’s the same thing."
+
+L6-cue_116
+00:10:18.256 --> 00:10:21.636
+#So I’m going to tell you about the experiment with the two holes,
+
+L6-cue_117
+00:10:21.636 --> 00:10:25.926
+which is the general mystery: it contains, it does contain,
+
+L6-cue_118
+00:10:25.926 --> 00:10:28.186
+the general mystery; I am avoiding nothing.
+
+L6-cue_119
+00:10:28.186 --> 00:10:35.856
+I am baring nature in her most elegant and difficult form.
+
+L6-cue_120
+00:10:35.856 --> 00:10:36.976
+#So you start with bullets.
+
+L6-cue_121
+00:10:36.976 --> 00:10:42.756
+All the experiments are going to be in the same general design, so I’ll draw it this way:
+
+L6-cue_122
+00:10:42.756 --> 00:10:47.466
+suppose that we have some source of bullets, which just represents the source,
+
+L6-cue_123
+00:10:47.466 --> 00:10:54.556
+which we call "the source"—and is, in fact, in the case of bullets, a machine gun.
+
+L6-cue_124
+00:10:54.556 --> 00:10:58.876
+Then we have a plate in front here, with a hole in it for the bullets to come out of,
+
+L6-cue_125
+00:10:58.876 --> 00:11:02.226
+and this plate, in the case of bullets, is armor plate.
+
+L6-cue_126
+00:11:02.226 --> 00:11:09.396
+Then a long distance from here we have another plate, which I’m drawing only a short distance,
+
+L6-cue_127
+00:11:09.396 --> 00:11:13.286
+because I haven’t got room on the blackboard for everything, but this distance is supposed
+
+L6-cue_128
+00:11:13.286 --> 00:11:16.276
+to be much longer in proportion to the width.
+
+L6-cue_129
+00:11:16.276 --> 00:11:20.566
+#Please expand that; that’s a small point, and it has two holes
+
+L6-cue_130
+00:11:20.566 --> 00:11:23.686
+in it—that’s the famous "two—hole" business.
+
+L6-cue_131
+00:11:23.686 --> 00:11:26.866
+#I’m going to talk a lot about these holes, so I’ll talk about this hole
+
+L6-cue_132
+00:11:26.866 --> 00:11:30.356
+as Number 1 Hole, and the other hole as Number 2.
+
+L6-cue_133
+00:11:30.356 --> 00:11:33.886
+And I’m only drawing it in two dimensions.
+
+L6-cue_134
+00:11:33.886 --> 00:11:37.726
+You can, if you wish, imagine these as round holes in three dimensions,
+
+L6-cue_135
+00:11:37.726 --> 00:11:40.256
+but just say it’s a cross section.
+
+L6-cue_136
+00:11:40.256 --> 00:11:44.166
+#And then again, a long distance away (but we’ll draw it relatively short distance,
+
+L6-cue_137
+00:11:44.166 --> 00:11:48.876
+because of the limitations of this blackboard), we have another screen here,
+
+L6-cue_138
+00:11:48.876 --> 00:11:53.676
+which is just a backstop of some sort, into and on which we can put
+
+L6-cue_139
+00:11:53.676 --> 00:11:58.736
+in various places what I will call a detector—I’m going to mark
+
+L6-cue_140
+00:11:58.736 --> 00:12:03.506
+that "detector"—which, in the case of the bullets,
+
+L6-cue_141
+00:12:03.506 --> 00:12:07.346
+is a box of sand into which the bullets will be caught,
+
+L6-cue_142
+00:12:07.346 --> 00:12:12.606
+and we can count them—that’s the detector for bullets.
+
+L6-cue_143
+00:12:12.606 --> 00:12:17.306
+#I don’t want to have to redraw the experiment each time so I’ll label everything in this way,
+
+L6-cue_144
+00:12:17.306 --> 00:12:22.786
+and then we’ll be able to catch on to situations for different cases.
+
+L6-cue_145
+00:12:22.786 --> 00:12:27.356
+Also, I’m going to do experiments in which I count how many bullets come into this detector,
+
+L6-cue_146
+00:12:27.356 --> 00:12:32.316
+or box of sand, when the box is here, or here, or here, or here; and to describe that,
+
+L6-cue_147
+00:12:32.316 --> 00:12:37.526
+I’ll measure the distance of the box from somewhere out here, and call that X—and I talk
+
+L6-cue_148
+00:12:37.526 --> 00:12:41.736
+about what happens when we change X: it means only you move the doggone thing up and down.
+
+L6-cue_149
+00:12:41.736 --> 00:12:43.396
+#All right.
+
+L6-cue_150
+00:12:43.396 --> 00:12:49.916
+#Now first, I would like to make a few modifications from real bullets
+
+L6-cue_151
+00:12:49.916 --> 00:12:53.636
+into idealizations: the first is, the machine gun is very shaky and wobbly,
+
+L6-cue_152
+00:12:53.636 --> 00:12:58.946
+and that the bullets go in various directions, not just exactly straight on and bounce back,
+
+L6-cue_153
+00:12:58.946 --> 00:13:02.536
+and they can ricochet off the edges of the slips—the slits,
+
+L6-cue_154
+00:13:02.536 --> 00:13:06.336
+rather-the holes in these armor plates.
+
+L6-cue_155
+00:13:06.336 --> 00:13:11.636
+#Let’s say, for instance, that the bullets have all the same speed or energy,
+
+L6-cue_156
+00:13:11.636 --> 00:13:15.346
+if you want (but that’s not very important), but the most important idealization
+
+L6-cue_157
+00:13:15.346 --> 00:13:20.666
+in which it differs from real bullets is: I want these bullets to be absolutely indestructible,
+
+L6-cue_158
+00:13:20.666 --> 00:13:24.726
+so that what we find in the box is not pieces of lead of some bullet that broke
+
+L6-cue_159
+00:13:24.726 --> 00:13:27.076
+in half; we get the whole bullet, please.
+
+L6-cue_160
+00:13:27.076 --> 00:13:34.456
+So imagine indestructible bullets, or hard bullets and soft armor plate, or something.
+
+L6-cue_161
+00:13:34.456 --> 00:13:40.736
+#Now, the first thing that we will notice about bullets is that the things that arrive come
+
+L6-cue_162
+00:13:40.736 --> 00:13:46.886
+in lumps: when the energy comes, it’s all in one bullet—full of bang.
+
+L6-cue_163
+00:13:46.886 --> 00:13:51.916
+If you count the bullets, there’s 1, 2, 3, 4 bullets—the things come in lumps;
+
+L6-cue_164
+00:13:51.916 --> 00:13:55.186
+they’re equal in size, we suppose, in this case.
+
+L6-cue_165
+00:13:55.186 --> 00:13:57.726
+When a thing comes into the box, it’s either all in the box
+
+L6-cue_166
+00:13:57.726 --> 00:14:00.546
+or it’s not in the box—it comes in lumps.
+
+L6-cue_167
+00:14:00.546 --> 00:14:06.586
+#More: if I put up two boxes here, I never get two bullets in the boxes at the same time.
+
+L6-cue_168
+00:14:06.586 --> 00:14:12.436
+(Well—if the gun isn’t going off too fast and I have enough time between—slow down the gun
+
+L6-cue_169
+00:14:12.436 --> 00:14:17.726
+so they go off very slowly, bing, bing—bing, bing—then put the two things here,
+
+L6-cue_170
+00:14:17.726 --> 00:14:22.876
+and look very quickly in the two boxes, you’ll never get two bullets at the time
+
+L6-cue_171
+00:14:22.876 --> 00:14:27.816
+in the two boxes, because a bullet is a single identifiable lump.)
+
+L6-cue_172
+00:14:27.816 --> 00:14:32.426
+I call that characteristic of the object that it comes in lumps.
+
+L6-cue_173
+00:14:32.426 --> 00:14:43.536
+#The first thing about bullets is that they come in lumps.
+
+L6-cue_174
+00:14:43.536 --> 00:14:46.546
+Now, what I’m going to measure is how many bullets arrive here
+
+L6-cue_175
+00:14:46.546 --> 00:14:49.716
+on the average in a long period of time.
+
+L6-cue_176
+00:14:49.716 --> 00:14:51.706
+Say you wait an hour, and you count how many bullets are
+
+L6-cue_177
+00:14:51.706 --> 00:14:56.456
+in the can-in the sand-and average that.
+
+L6-cue_178
+00:14:56.456 --> 00:15:03.056
+#Now, we call that, if you want per—let’s say we take a definite time, like, per hour,
+
+L6-cue_179
+00:15:03.056 --> 00:15:06.906
+and say the number of bullets that arrive per hour, and sometimes you could call
+
+L6-cue_180
+00:15:06.906 --> 00:15:10.696
+that what’s called the probability of arrival, because it just gives the chance
+
+L6-cue_181
+00:15:10.696 --> 00:15:13.036
+that a bullet going through this thing arrives
+
+L6-cue_182
+00:15:13.036 --> 00:15:16.056
+in this particular box—at least it’s proportionate to the chance.
+
+L6-cue_183
+00:15:16.056 --> 00:15:18.306
+#One way to measure is to measure the average number of bullets
+
+L6-cue_184
+00:15:18.306 --> 00:15:21.166
+that arrive over a period of time.
+
+L6-cue_185
+00:15:21.166 --> 00:15:26.746
+Now, the number of bullets that arrive in this box here will vary as I vary X:
+
+L6-cue_186
+00:15:26.746 --> 00:15:33.176
+I’m going to make a graph here in which I plot horizontally the number of bullets that I get
+
+L6-cue_187
+00:15:33.176 --> 00:15:35.336
+if I hold this thing here for an hour.
+
+L6-cue_188
+00:15:35.336 --> 00:15:41.086
+I’ll get a curve that will probably look more or less like this
+
+L6-cue_189
+00:15:41.086 --> 00:15:47.346
+because when the box is behind one of these holes, it gets a lot of bullets—it gets the ones
+
+L6-cue_190
+00:15:47.346 --> 00:15:50.616
+that went through this hole—and otherwise it gets in the one through this hole,
+
+L6-cue_191
+00:15:50.616 --> 00:15:53.486
+and if it’s a little bit out of line it doesn’t get as many (they have
+
+L6-cue_192
+00:15:53.486 --> 00:15:58.066
+to bounce a little off the edges of the hole, and so it disappears like this).
+
+L6-cue_193
+00:15:58.066 --> 00:16:03.166
+#This is the number that we get in an hour when both holes are open.
+
+L6-cue_194
+00:16:03.166 --> 00:16:08.876
+I call that by an abbreviation, N—1—2, which merely means the number which arrives
+
+L6-cue_195
+00:16:08.876 --> 00:16:12.226
+when Hole Number 1 and Hole Number 2 are both open.
+
+L6-cue_196
+00:16:12.226 --> 00:16:15.406
+Looks like that, say.
+
+L6-cue_197
+00:16:15.406 --> 00:16:20.096
+#Now, I must insist that the number that we’re plotting here doesn’t come in lumps;
+
+L6-cue_198
+00:16:20.096 --> 00:16:24.916
+it can have any size it wants—for example, there can be two and a half bullets in an hour.
+
+L6-cue_199
+00:16:24.916 --> 00:16:28.226
+In spite of the fact that the bullets come in lumps, what I mean by two and a half bullets
+
+L6-cue_200
+00:16:28.226 --> 00:16:32.366
+in an hour is, that if you run a long time, like 10 hours, you get 25 bullets,
+
+L6-cue_201
+00:16:32.366 --> 00:16:34.816
+so it’s on the average two and a half bullets.
+
+L6-cue_202
+00:16:34.816 --> 00:16:38.266
+The N can have any size; it doesn’t have to be in lumps because it’s an average.
+
+L6-cue_203
+00:16:38.266 --> 00:16:41.916
+#I’m sure you’re all familiar with the joke about the fact that the average family
+
+L6-cue_204
+00:16:41.916 --> 00:16:45.706
+in the United States seems to have two and a half children.
+
+L6-cue_205
+00:16:45.706 --> 00:16:50.626
+It doesn’t mean that there’s a half a child in any family whatever; the children come in lumps.
+
+L6-cue_206
+00:16:50.626 --> 00:16:56.046
+But nevertheless, when you take the average number per family,
+
+L6-cue_207
+00:16:56.046 --> 00:16:57.546
+it can be any number whatsoever.
+
+L6-cue_208
+00:16:57.546 --> 00:17:01.976
+#And so this number N, which is the number that will arrive in this container per hour
+
+L6-cue_209
+00:17:01.976 --> 00:17:06.416
+on the average, need not be an integer—it can be a tenth,
+
+L6-cue_210
+00:17:06.416 --> 00:17:09.276
+which would mean under those circumstances that you’d have to wait
+
+L6-cue_211
+00:17:09.276 --> 00:17:16.066
+on the average 10 hours, more or less, per bullet.
+
+L6-cue_212
+00:17:16.066 --> 00:17:19.586
+What we measure, then, is the probability of arrival,
+
+L6-cue_213
+00:17:19.586 --> 00:17:24.716
+which is a technical measure, the probability of arrival.
+
+L6-cue_214
+00:17:24.716 --> 00:17:32.896
+It is a technical term, really, for the average number that arrive in a given length of time.
+
+L6-cue_215
+00:17:32.896 --> 00:17:38.876
+#Now, finally, if we go to analyze this curve N—1—2, we can interpret it very nicely:
+
+L6-cue_216
+00:17:38.876 --> 00:17:42.726
+we can interpret it as a sum of two curves, which I will draw here.
+
+L6-cue_217
+00:17:42.726 --> 00:17:47.886
+(That’s why I need the blackboard where I’ve got several cases, so I draw two curves here.)
+
+L6-cue_218
+00:17:47.886 --> 00:17:51.176
+One which would represent what I’ll call N—1.
+
+L6-cue_219
+00:17:51.176 --> 00:17:57.146
+The number which would come if Hole Number 2 is closed by another piece of armor plate in front,
+
+L6-cue_220
+00:17:57.146 --> 00:17:59.426
+and so they all come through Number 1.
+
+L6-cue_221
+00:17:59.426 --> 00:18:04.816
+N-2 would be the number that come through Hole Number 2 alone.
+
+L6-cue_222
+00:18:04.816 --> 00:18:08.466
+So N—1 is the number that come through Hole Number 1 alone, and N—2 is the number that come
+
+L6-cue_223
+00:18:08.466 --> 00:18:12.556
+through Hole Number 2 alone, those numbers being determined by closing the respective holes.
+
+L6-cue_224
+00:18:12.556 --> 00:18:16.926
+#Then we discover a very important law, which is that the number that arrive
+
+L6-cue_225
+00:18:16.926 --> 00:18:19.276
+with both holes open is the number that arrive by coming
+
+L6-cue_226
+00:18:19.276 --> 00:18:23.656
+through Number 1 Hole plus the number that come through Number 2 Hole.
+
+L6-cue_227
+00:18:23.656 --> 00:18:25.576
+This proposition-the fact that all you have
+
+L6-cue_228
+00:18:25.576 --> 00:18:31.586
+to do is add these two together—I’d call "nice," or "no interference."
+
+L6-cue_229
+00:18:31.586 --> 00:18:36.426
+That is, what you get from the two holes open is the same as you’d get
+
+L6-cue_230
+00:18:36.426 --> 00:18:39.666
+by simply adding each hole separately.
+
+L6-cue_231
+00:18:39.666 --> 00:18:40.396
+That’s for bullets.
+
+L6-cue_232
+00:18:40.396 --> 00:18:43.866
+#Done-we’re done with bullets.
+
+L6-cue_233
+00:18:43.866 --> 00:18:44.226
+#All right.
+
+L6-cue_234
+00:18:44.226 --> 00:18:48.636
+I begin again, this time with water waves.
+
+L6-cue_235
+00:18:48.636 --> 00:18:54.626
+Here is standing some kind of a big mass of stuff which is being shaken up and down.
+
+L6-cue_236
+00:18:54.626 --> 00:19:01.346
+This is a long line of barges, or jetties, with a gap in the water inbetween.
+
+L6-cue_237
+00:19:01.346 --> 00:19:03.296
+(Perhaps it’s better to do it with ripples than it is to do it
+
+L6-cue_238
+00:19:03.296 --> 00:19:05.246
+with big ocean waves; it sounds more sensible.)
+
+L6-cue_239
+00:19:05.246 --> 00:19:08.796
+I wiggle my finger up and down here, and I have a little piece of wood here,
+
+L6-cue_240
+00:19:08.796 --> 00:19:13.926
+and ripples start out here, and then I’ve arranged in a tank to put boards in the way here
+
+L6-cue_241
+00:19:13.926 --> 00:19:18.786
+so that I have these two holes, and then I have this so—called detector.
+
+L6-cue_242
+00:19:18.786 --> 00:19:23.546
+#Then what I do with the detector—what the detector detects is how much the water is
+
+L6-cue_243
+00:19:23.546 --> 00:19:28.436
+jiggling: for instance, I put a cork in the water and measure how it moves up and down.
+
+L6-cue_244
+00:19:28.436 --> 00:19:33.166
+What I’m going to measure, in fact, is the energy of the agitation of the cork,
+
+L6-cue_245
+00:19:33.166 --> 00:19:41.146
+which is exactly proportional to the energy carried by the waves.
+
+L6-cue_246
+00:19:41.146 --> 00:19:45.076
+#Also, I forgot to say that this jiggling is made very regular and perfect,
+
+L6-cue_247
+00:19:45.076 --> 00:19:48.556
+so that the waves are all of the same spacing from one another,
+
+L6-cue_248
+00:19:48.556 --> 00:19:52.606
+and then I’ll describe what we get under those circumstances.
+
+L6-cue_249
+00:19:52.606 --> 00:20:02.026
+#For that, I first remark—well, let’s see: first we can measure the energy of the cork.
+
+L6-cue_250
+00:20:02.026 --> 00:20:07.696
+But then another thing is important for light, or for water waves—for waves,
+
+L6-cue_251
+00:20:07.696 --> 00:20:14.076
+water waves—is that the thing that we’re measuring can have any size at all:
+
+L6-cue_252
+00:20:14.076 --> 00:20:17.466
+we’re measuring the intensity of the waves, or the energy in the cork;
+
+L6-cue_253
+00:20:17.466 --> 00:20:22.436
+if the waves are very quiet, if the fellow over here is only jiggling a little bit,
+
+L6-cue_254
+00:20:22.436 --> 00:20:23.756
+then there will be very little motion
+
+L6-cue_255
+00:20:23.756 --> 00:20:26.626
+to the cork-no matter how much it is, it’s proportional.
+
+L6-cue_256
+00:20:26.626 --> 00:20:34.436
+So I can have any size.
+
+L6-cue_257
+00:20:34.436 --> 00:20:37.696
+It doesn’t come in lumps, it’s not all there or nothing.
+
+L6-cue_258
+00:20:37.696 --> 00:20:46.986
+#What we’re going to measure is the intensity of the waves, which to be precise, if you want,
+
+L6-cue_259
+00:20:46.986 --> 00:20:51.976
+is the energy generated by the waves at a point.
+
+L6-cue_260
+00:20:51.976 --> 00:20:57.186
+Now, what happens if we measure the intensity, which I’ll draw on a third curve here,
+
+L6-cue_261
+00:20:57.186 --> 00:21:00.726
+which I’ll call "I"-to remind you it’s an intensity, and not a number of particles
+
+L6-cue_262
+00:21:00.726 --> 00:21:10.316
+of any kind, and I-1-2 when both holes are open—is a curve that looks something like this:
+
+L6-cue_263
+00:21:10.316 --> 00:21:14.936
+another interesting, complicated—looking curve, which ought to be symmetrical.
+
+L6-cue_264
+00:21:14.936 --> 00:21:19.846
+#(I didn’t do too badly, actually.)
+
+L6-cue_265
+00:21:19.846 --> 00:21:21.566
+#A very complicated—looking curve.
+
+L6-cue_266
+00:21:21.566 --> 00:21:24.806
+That is, if we put the [detector] in different places, we get a very, very different intensity
+
+L6-cue_267
+00:21:24.806 --> 00:21:28.096
+which varies very rapidly in a peculiar manner.
+
+L6-cue_268
+00:21:28.096 --> 00:21:30.866
+You’re probably all familiar with the reason for that.
+
+L6-cue_269
+00:21:30.866 --> 00:21:35.466
+The reason is that the ripples, as they come out of here, have crests and troughs spreading
+
+L6-cue_270
+00:21:35.466 --> 00:21:39.206
+from here, and they have crests and troughs spreading from here.
+
+L6-cue_271
+00:21:39.206 --> 00:21:45.506
+#Now, if we’re at a place which, say, is exactly even between these two things
+
+L6-cue_272
+00:21:45.506 --> 00:21:50.136
+so that the two waves arrive at the same time, the crests will come on top of each other
+
+L6-cue_273
+00:21:50.136 --> 00:21:59.826
+and there’ll be plenty of jiggling, which is the exact opposite of this curve—so I’ll have
+
+L6-cue_274
+00:21:59.826 --> 00:22:03.176
+to put-there should be another bump.
+
+L6-cue_275
+00:22:03.176 --> 00:22:07.776
+You have a lot of jiggling right in dead center.
+
+L6-cue_276
+00:22:07.776 --> 00:22:13.596
+#On the other hand, if I were to move to some point here, since I’m further from Hole 2
+
+L6-cue_277
+00:22:13.596 --> 00:22:19.346
+than Hole 1, it takes a little longer for the waves to come from 2 than from 1.
+
+L6-cue_278
+00:22:19.346 --> 00:22:24.916
+When 1 has a crest arriving, the crest hasn’t quite reached there yet from 2—in fact,
+
+L6-cue_279
+00:22:24.916 --> 00:22:30.106
+it’s a trough from 2—so that water tries to move up, and it tries to move down,
+
+L6-cue_280
+00:22:30.106 --> 00:22:34.756
+from the influences of the waves coming from the two holes, and the net result is it doesn’t move
+
+L6-cue_281
+00:22:34.756 --> 00:22:39.466
+at all, or practically not at all, and so we have these low bumps at that place.
+
+L6-cue_282
+00:22:39.466 --> 00:22:45.386
+And then if you move still further over, you get enough delay that when a crest is here,
+
+L6-cue_283
+00:22:45.386 --> 00:22:51.196
+this other crest is one whole wave behind, so it’s a crest that—two crests are coming on top
+
+L6-cue_284
+00:22:51.196 --> 00:22:54.016
+of each other, but not the same crest, so to speak.
+
+L6-cue_285
+00:22:54.016 --> 00:22:58.276
+#The fourth crest from here, and the fifth crest from there on top, so you get a big one again,
+
+L6-cue_286
+00:22:58.276 --> 00:23:01.446
+then a small one, a big one, a small one, depending upon the way the crests
+
+L6-cue_287
+00:23:01.446 --> 00:23:04.986
+and troughs interfere, as we say.
+
+L6-cue_288
+00:23:04.986 --> 00:23:09.416
+#The word "interference," again, is used in science in a funny way,
+
+L6-cue_289
+00:23:09.416 --> 00:23:13.976
+because we’ll have what we call "constructive interference":
+
+L6-cue_290
+00:23:13.976 --> 00:23:17.676
+when they both interfere here, it makes it stronger.
+
+L6-cue_291
+00:23:17.676 --> 00:23:22.366
+Well, they call it interference anyway, but the very important thing is
+
+L6-cue_292
+00:23:22.366 --> 00:23:29.626
+that I-1-2 is not the same as I-1 plus I-2, and we say it shows interference—yes, interference;
+
+L6-cue_293
+00:23:29.626 --> 00:23:36.216
+that’s a funny term, we use it—constructive and destructive interference.
+
+L6-cue_294
+00:23:36.216 --> 00:23:38.266
+#I didn’t mention what I-1 and I-2 look like,
+
+L6-cue_295
+00:23:38.266 --> 00:23:42.046
+but we can find out by closing this, for instance, to find I-1.
+
+L6-cue_296
+00:23:42.046 --> 00:23:48.836
+The intensity that you get here, if the hole is closed, is simply the waves from one hole,
+
+L6-cue_297
+00:23:48.836 --> 00:23:51.236
+for which there’s no interference, and that’s this curve.
+
+L6-cue_298
+00:23:51.236 --> 00:23:54.076
+N-1 is the same as I-1, and the same way, otherwise,
+
+L6-cue_299
+00:23:54.076 --> 00:23:57.816
+I-2—and this curve is quite different than the sum of these two.
+
+L6-cue_300
+00:23:57.816 --> 00:24:01.596
+#As a matter of fact, the mathematics of this curve is rather an interesting one.
+
+L6-cue_301
+00:24:01.596 --> 00:24:07.246
+What is true is this: that the height of the water, when both holes are open,
+
+L6-cue_302
+00:24:07.246 --> 00:24:10.316
+is equal to the height that you would get from Number 1 open,
+
+L6-cue_303
+00:24:10.316 --> 00:24:12.796
+plus the height that you would get from Number 2 open.
+
+L6-cue_304
+00:24:12.796 --> 00:24:17.596
+#Thus, if it’s a trough, the height from 2 is negative, and cancels out the height from 1.
+
+L6-cue_305
+00:24:17.596 --> 00:24:20.666
+#So you can represent it by talking about the height of the water,
+
+L6-cue_306
+00:24:20.666 --> 00:24:23.656
+but it turns out that the intensity, in any case (for instance,
+
+L6-cue_307
+00:24:23.656 --> 00:24:29.616
+when both holes are open) is not the same as the height, but it’s proportional to the square
+
+L6-cue_308
+00:24:29.616 --> 00:24:33.896
+of the height, and it’s because of this fact, that we’re dealing with the squares,
+
+L6-cue_309
+00:24:33.896 --> 00:24:38.026
+that we get these very interesting curves.
+
+L6-cue_310
+00:24:38.026 --> 00:24:38.836
+#All right.
+
+L6-cue_311
+00:24:38.836 --> 00:24:49.366
+#Now we erase the machinery and start over; this time we start with electrons.
+
+L6-cue_312
+00:24:49.366 --> 00:24:53.626
+We have a filament here, tungsten plate, holes in the tungsten plate,
+
+L6-cue_313
+00:24:53.626 --> 00:24:57.846
+and for a detector any electrical system which is sufficiently sensitive to pick up the charge
+
+L6-cue_314
+00:24:57.846 --> 00:25:02.316
+of an electron arriving with whatever energy the source has.
+
+L6-cue_315
+00:25:02.316 --> 00:25:06.726
+#Or, if you would prefer, we could use photons: this is a black paper with a hole in it,
+
+L6-cue_316
+00:25:06.726 --> 00:25:09.806
+two holes in another sheet of black paper (paper isn’t very good,
+
+L6-cue_317
+00:25:09.806 --> 00:25:14.446
+because the fibers don’t make a sharp hole, so use something better), and here, for a detector,
+
+L6-cue_318
+00:25:14.446 --> 00:25:19.126
+a photomultiplier that can detect the individual photons arriving.
+
+L6-cue_319
+00:25:19.126 --> 00:25:22.226
+#Now, what happens with either case—and I’ll discuss only the electron case;
+
+L6-cue_320
+00:25:22.226 --> 00:25:27.026
+the other case is exactly the same, the case with photons—is this: first,
+
+L6-cue_321
+00:25:27.026 --> 00:25:30.156
+that what we receive in this electrical detector,
+
+L6-cue_322
+00:25:30.156 --> 00:25:34.986
+with a sufficiently powerful amplifier behind it, are clicks.
+
+L6-cue_323
+00:25:34.986 --> 00:25:43.096
+Click, click-click-click, and so on, with the source here—lumps, absolutely lumps:
+
+L6-cue_324
+00:25:43.096 --> 00:25:46.216
+when the click comes it’s a certain size, and the size is the same.
+
+L6-cue_325
+00:25:46.216 --> 00:25:51.766
+#If you turn the source weaker, the clicks come further apart, but it’s the same size click.
+
+L6-cue_326
+00:25:51.766 --> 00:25:54.436
+If you turn it up, they go click- click-click-click-click,
+
+L6-cue_327
+00:25:54.436 --> 00:25:59.506
+and it jams the amplifier-you have to turn it down enough that there aren’t too many clicks
+
+L6-cue_328
+00:25:59.506 --> 00:26:01.746
+for the machinery that you’re using to detect.
+
+L6-cue_329
+00:26:01.746 --> 00:26:07.536
+#Next, if you were to put up another detector here, and listen to both of them,
+
+L6-cue_330
+00:26:07.536 --> 00:26:11.446
+you’d never get two clicks at the same time (at least if the source is weak enough)
+
+L6-cue_331
+00:26:11.446 --> 00:26:15.826
+because of the precision with which you measure the same time: if you cut down the intensity
+
+L6-cue_332
+00:26:15.826 --> 00:26:21.156
+of the source so they come few and far between, they never come a click in both detectors.
+
+L6-cue_333
+00:26:21.156 --> 00:26:25.966
+#That means that the thing which is coming, comes in lumps: it has a definite size,
+
+L6-cue_334
+00:26:25.966 --> 00:26:29.176
+and it only comes to one place at a time.
+
+L6-cue_335
+00:26:29.176 --> 00:26:44.136
+#All right, so for electrons—or for photons, we’ll just use electrons—it comes in lumps.
+
+L6-cue_336
+00:26:44.136 --> 00:26:48.216
+#Therefore, what we can do is the same thing as we did with the bullets:
+
+L6-cue_337
+00:26:48.216 --> 00:26:52.516
+we measure how many come; we measure the probability of arrival.
+
+L6-cue_338
+00:26:52.516 --> 00:26:57.226
+What we do is we hold the detector in a certain place.
+
+L6-cue_339
+00:26:57.226 --> 00:27:00.916
+(Actually, if we wanted to, although it’s expensive, we could put detectors all
+
+L6-cue_340
+00:27:00.916 --> 00:27:04.586
+over at the same time, and make the whole curve simultaneously.)
+
+L6-cue_341
+00:27:04.586 --> 00:27:07.006
+#But let’s suppose we put it at a certain place, and we measure at the end
+
+L6-cue_342
+00:27:07.006 --> 00:27:11.746
+of an hour how many electrons came, and we average it.
+
+L6-cue_343
+00:27:11.746 --> 00:27:16.426
+(By the way, if I put detectors all along the back here, when one comes it comes into one,
+
+L6-cue_344
+00:27:16.426 --> 00:27:19.186
+but not [into] others: it’s just one goes off, then the other goes off, and this goes off,
+
+L6-cue_345
+00:27:19.186 --> 00:27:22.606
+and that one goes off, and so on—just like with bullets.)
+
+L6-cue_346
+00:27:22.606 --> 00:27:26.126
+#We measure, then, the probability of arrival of the electrons.
+
+L6-cue_347
+00:27:26.126 --> 00:27:29.056
+And what do we get?
+
+L6-cue_348
+00:27:29.056 --> 00:27:33.196
+The number of electrons that arrive—the same kind of an N-1-2 as before.
+
+L6-cue_349
+00:27:33.196 --> 00:27:41.356
+This is what we get for N-1-2.
+
+L6-cue_350
+00:27:41.356 --> 00:27:46.656
+N-1-2, this is what we get with both holes open!
+
+L6-cue_351
+00:27:46.656 --> 00:27:51.576
+#That’s the phenomena of nature: that she produces the curve which is the same
+
+L6-cue_352
+00:27:51.576 --> 00:27:56.046
+as you would get from an interference of waves.
+
+L6-cue_353
+00:27:56.046 --> 00:27:57.136
+#But she produces a curve for what?
+
+L6-cue_354
+00:27:57.136 --> 00:28:02.286
+Not for the energy in a way but for the probability of arrival of one of these lumps.
+
+L6-cue_355
+00:28:02.286 --> 00:28:03.686
+The mathematics is simple.
+
+L6-cue_356
+00:28:03.686 --> 00:28:08.726
+You change I to N, and you have to change H to something else, which is new,
+
+L6-cue_357
+00:28:08.726 --> 00:28:11.926
+and you call it something, because it’s not the height of anything,
+
+L6-cue_358
+00:28:11.926 --> 00:28:16.826
+but it in order [to express this] curve as a simple mathematical form, there’s an A,
+
+L6-cue_359
+00:28:16.826 --> 00:28:19.926
+which can be represented as an A-1 plus an A-2,
+
+L6-cue_360
+00:28:19.926 --> 00:28:23.546
+which we call a probability amplitude (because we don’t know what it means), which,
+
+L6-cue_361
+00:28:23.546 --> 00:28:28.226
+to arrive from Hole 1, plus the probability amplitude to arrive from Hole 2,
+
+L6-cue_362
+00:28:28.226 --> 00:28:33.616
+and you add the two together to get the total probability amplitude to arrive, and square it.
+
+L6-cue_363
+00:28:33.616 --> 00:28:37.006
+#It’s a direct imitation of what happens with the waves, because we’ve got to get the same curve
+
+L6-cue_364
+00:28:37.006 --> 00:28:43.096
+out so we use the same mathematics.
+
+L6-cue_365
+00:28:43.096 --> 00:28:47.396
+#Let’s find out if-I’d better check on one point, though, about the interference:
+
+L6-cue_366
+00:28:47.396 --> 00:28:50.506
+I forgot to say what happens if we close one of the holes.
+
+L6-cue_367
+00:28:50.506 --> 00:28:56.636
+Let’s try to analyze this interesting curve, which now, for electrons (I erase all the stuff
+
+L6-cue_368
+00:28:56.636 --> 00:29:02.756
+with the light, so everything with light is erased, and now we’re talking about electrons;
+
+L6-cue_369
+00:29:02.756 --> 00:29:07.766
+this curve isn’t important in our case) this is the number which arrives.
+
+L6-cue_370
+00:29:07.766 --> 00:29:17.276
+#Now, we would like to analyze this curve.
+
+L6-cue_371
+00:29:17.276 --> 00:29:22.996
+We try this: we say, "Maybe it comes—we can analyze this—by thinking that the electrons come
+
+L6-cue_372
+00:29:22.996 --> 00:29:26.626
+through this hole or through the other"—so we can close one hole and measure how many come
+
+L6-cue_373
+00:29:26.626 --> 00:29:30.836
+through Hole Number 1, and we get that curve; or, we can close this hole,
+
+L6-cue_374
+00:29:30.836 --> 00:29:34.636
+and measure how many come through Hole Number 2, and we get that curve.
+
+L6-cue_375
+00:29:34.636 --> 00:29:38.406
+These two added together is not this, and so this is not the same
+
+L6-cue_376
+00:29:38.406 --> 00:29:47.166
+as N-1 plus N-2—it does show interference; it shows interference.
+
+L6-cue_377
+00:29:47.166 --> 00:29:51.656
+#And in fact the mathematics is given by this funny formula that the probability
+
+L6-cue_378
+00:29:51.656 --> 00:30:02.396
+of arrival is the square of an amplitude, which itself is the sum of two pieces.
+
+L6-cue_379
+00:30:02.396 --> 00:30:07.506
+Now, nobody-a question is, how can that come about, that when they go through Hole 1,
+
+L6-cue_380
+00:30:07.506 --> 00:30:10.436
+they would be distributed this way; when they go through Hole 2, they would be distributed
+
+L6-cue_381
+00:30:10.436 --> 00:30:15.476
+that way; how could it be that when both holes are open, you don’t get the sum of the two?
+
+L6-cue_382
+00:30:15.476 --> 00:30:20.936
+#Instance: if I hold the detector at this point here, I get practically nothing.
+
+L6-cue_383
+00:30:20.936 --> 00:30:25.506
+If I close one of the holes, I get plenty.
+
+L6-cue_384
+00:30:25.506 --> 00:30:28.776
+If I close the other hole, I get something.
+
+L6-cue_385
+00:30:28.776 --> 00:30:33.186
+If I leave both holes open, I get nothing—if I let them go
+
+L6-cue_386
+00:30:33.186 --> 00:30:35.976
+through both holes, they don’t come anymore.
+
+L6-cue_387
+00:30:35.976 --> 00:30:40.436
+#Or take the point in the center: you can show that that’s higher than the sum that it was
+
+L6-cue_388
+00:30:40.436 --> 00:30:44.856
+in the other case, than the sum of these two; I get more here when both holes are open,
+
+L6-cue_389
+00:30:44.856 --> 00:30:47.126
+than I would get with either one of the two closed.
+
+L6-cue_390
+00:30:47.126 --> 00:30:50.606
+#Now you might think that if you were clever enough, you could argue that they have some way
+
+L6-cue_391
+00:30:50.606 --> 00:30:53.536
+of going around through the holes, back and forth, and they do something complicated,
+
+L6-cue_392
+00:30:53.536 --> 00:30:56.506
+or it splits in half and goes through the two holes, and so forth,
+
+L6-cue_393
+00:30:56.506 --> 00:30:58.646
+in order to explain this phenomenon.
+
+L6-cue_394
+00:30:58.646 --> 00:31:04.986
+#Nobody, however, has succeeded to get an explanation of this that’s satisfactory,
+
+L6-cue_395
+00:31:04.986 --> 00:31:09.306
+because the mathematics in the end is so very simple—the curve is so very simple.
+
+L6-cue_396
+00:31:09.306 --> 00:31:16.206
+#I will summarize, then, by saying that electrons arrive in lumps, like particles.
+
+L6-cue_397
+00:31:16.206 --> 00:31:22.966
+But the probability of arrival of these lumps is determined like the intensity of waves would be.
+
+L6-cue_398
+00:31:22.966 --> 00:31:29.836
+It is in this sense that the electron behaves, as you might say, sometimes like a particle,
+
+L6-cue_399
+00:31:29.836 --> 00:31:32.446
+and sometimes like a wave; it behaves in these two different ways
+
+L6-cue_400
+00:31:32.446 --> 00:31:35.486
+at the same time-that’s all there is to say.
+
+L6-cue_401
+00:31:35.486 --> 00:31:39.696
+#I give a mathematical description to figure out the probability of arrival of electrons
+
+L6-cue_402
+00:31:39.696 --> 00:31:45.826
+on any circumstances, and that would, in principle, be the end of the lecture-except
+
+L6-cue_403
+00:31:45.826 --> 00:31:50.896
+that there are a number of subtleties involved in the fact that nature works this way;
+
+L6-cue_404
+00:31:50.896 --> 00:31:58.546
+there’s a number of peculiar things, and I would like to discuss those peculiarities,
+
+L6-cue_405
+00:31:58.546 --> 00:32:01.286
+because they may not be self—evident at this point.
+
+L6-cue_406
+00:32:01.286 --> 00:32:05.866
+#To discuss the subtleties, we begin by discussing a proposition
+
+L6-cue_407
+00:32:05.866 --> 00:32:10.056
+which we would have thought to use since these things are lumps:
+
+L6-cue_408
+00:32:10.056 --> 00:32:14.996
+since what comes is always one complete "p ah" (which I’ll call an electron—one complete lump,
+
+L6-cue_409
+00:32:14.996 --> 00:32:20.386
+one complete electron), it’s obvious that it’s reasonable
+
+L6-cue_410
+00:32:20.386 --> 00:32:31.026
+that either an electron arrives—or goes, let’s say—that either an electron goes
+
+L6-cue_411
+00:32:31.026 --> 00:32:39.296
+through Hole Number 1, or it goes through Hole Number 2.
+
+L6-cue_412
+00:32:39.296 --> 00:32:39.916
+#That seems like .
+
+L6-cue_413
+00:32:39.916 --> 00:32:46.676
+. . that seems very obvious that it can’t do anything else if it’s a lump.
+
+L6-cue_414
+00:32:46.676 --> 00:32:50.806
+#I’m going to discuss this proposition, so I have to give it a name;
+
+L6-cue_415
+00:32:50.806 --> 00:32:55.466
+I’ll call it Proposition A. Now, we’ve already discussed a little bit what happens
+
+L6-cue_416
+00:32:55.466 --> 00:32:59.266
+with Proposition A. If it were true that an electron either goes through Hole Number 1
+
+L6-cue_417
+00:32:59.266 --> 00:33:03.936
+or it goes through Hole Number 2, then the total number which arrive here would have
+
+L6-cue_418
+00:33:03.936 --> 00:33:08.696
+to be analyzable as the sum of two contributions—the total number
+
+L6-cue_419
+00:33:08.696 --> 00:33:12.736
+which arrive here will be the number that come here via Hole 1 plus the number
+
+L6-cue_420
+00:33:12.736 --> 00:33:18.646
+that come via Hole 2—and since this curve cannot easily be analyzed as the sum of two pieces
+
+L6-cue_421
+00:33:18.646 --> 00:33:22.096
+in such a nice manner, and since the experiments
+
+L6-cue_422
+00:33:22.096 --> 00:33:27.226
+which determine how many would have arriven—would have arrived—if only Hole Number 1
+
+L6-cue_423
+00:33:27.226 --> 00:33:32.436
+were open don’t give the result that this number is the sum of these two,
+
+L6-cue_424
+00:33:32.436 --> 00:33:38.126
+it is obvious that we should conclude that this Proposition is false—it is not true,
+
+L6-cue_425
+00:33:38.126 --> 00:33:41.876
+that the electron either comes through Hole Number 1 or Hole Number 2;
+
+L6-cue_426
+00:33:41.876 --> 00:33:45.326
+maybe [the electron] divides itself in half temporarily, and so on.
+
+L6-cue_427
+00:33:45.326 --> 00:33:47.476
+#So Proposition A is false.
+
+L6-cue_428
+00:33:47.476 --> 00:33:48.616
+#That’s logic.
+
+L6-cue_429
+00:33:48.616 --> 00:33:55.476
+#Unfortunately (or otherwise), we can test logic by experiment, and so we just have to do—to find
+
+L6-cue_430
+00:33:55.476 --> 00:34:00.376
+out whether it’s true or not that the electrons come through Hole 1 and Hole 2 (or maybe they go
+
+L6-cue_431
+00:34:00.376 --> 00:34:02.616
+around through both holes, or they split up, and so on).
+
+L6-cue_432
+00:34:02.616 --> 00:34:05.846
+. . —all we have to do is watch them.
+
+L6-cue_433
+00:34:05.846 --> 00:34:07.696
+#To watch them we need light.
+
+L6-cue_434
+00:34:07.696 --> 00:34:14.146
+So we put back here, behind the holes, a source of light—very intense light.
+
+L6-cue_435
+00:34:14.146 --> 00:34:17.916
+Light is scattered by electrons; it’s bounced off electrons—in other words,
+
+L6-cue_436
+00:34:17.916 --> 00:34:20.356
+you can see electrons as they go by if the light’s strong enough.
+
+L6-cue_437
+00:34:20.356 --> 00:34:26.406
+#We stand back here, and we look to see whether we see, when the electron is counted here,
+
+L6-cue_438
+00:34:26.406 --> 00:34:31.476
+a flash-or have seen, the moment before the electron is counted here, a flash behind Hole 1,
+
+L6-cue_439
+00:34:31.476 --> 00:34:36.076
+or a flash behind Hole 2, or maybe a sort of "half flash" in each place
+
+L6-cue_440
+00:34:36.076 --> 00:34:41.416
+at the same time—because we’re going to find out, now, how it goes, by looking!
+
+L6-cue_441
+00:34:41.416 --> 00:34:43.926
+#Well, you turn on the light and look.
+
+L6-cue_442
+00:34:43.926 --> 00:34:48.506
+And lo, you discover that you see flashes behind either one hole
+
+L6-cue_443
+00:34:48.506 --> 00:34:51.496
+or the other hole every time you get a count here.
+
+L6-cue_444
+00:34:51.496 --> 00:34:55.766
+Every time there’s a count here, you see a flash behind Number 1, or behind Number 2.
+
+L6-cue_445
+00:34:55.766 --> 00:35:00.866
+#What you see is that the electron comes 100 percent complete
+
+L6-cue_446
+00:35:00.866 --> 00:35:04.066
+through Hole 1 or through Hole 2—when you look.
+
+L6-cue_447
+00:35:04.066 --> 00:35:07.416
+#Kind of a paradox.
+
+L6-cue_448
+00:35:07.416 --> 00:35:13.226
+#Well, let’s squeeze nature into some kind of a difficulty here:
+
+L6-cue_449
+00:35:13.226 --> 00:35:14.706
+I’ll show you what we’re going to do, see .
+
+L6-cue_450
+00:35:14.706 --> 00:35:18.956
+. . We’re going to keep the light on; we’re going to watch.
+
+L6-cue_451
+00:35:18.956 --> 00:35:23.636
+And you’re going to count—we’re going to count how many electrons come through.
+
+L6-cue_452
+00:35:23.636 --> 00:35:29.036
+We’re going to make two columns.
+
+L6-cue_453
+00:35:29.036 --> 00:35:31.986
+I’ll watch the holes very carefully while you, please,
+
+L6-cue_454
+00:35:31.986 --> 00:35:35.276
+count how many are arriving in the detector.
+
+L6-cue_455
+00:35:35.276 --> 00:35:36.766
+#All right, you say, one arrived.
+
+L6-cue_456
+00:35:36.766 --> 00:35:40.446
+I said, I saw that when it went through Hole Number 1.
+
+L6-cue_457
+00:35:40.446 --> 00:35:48.576
+We put here two columns, which is column one for Number 1 Hole and [Column 2 for] Number 2 Hole.
+
+L6-cue_458
+00:35:48.576 --> 00:35:52.096
+Every time you get one, you tell me you got one I have seen it,
+
+L6-cue_459
+00:35:52.096 --> 00:35:53.926
+of course, and I say either Number 1 or 2.
+
+L6-cue_460
+00:35:53.926 --> 00:35:55.616
+#The first one was 1, what’s the next one?
+
+L6-cue_461
+00:35:55.616 --> 00:35:56.396
+Number 2. All right.
+
+L6-cue_462
+00:35:56.396 --> 00:35:59.606
+Number 2, Number 2, Number 1, so on.
+
+L6-cue_463
+00:35:59.606 --> 00:36:04.056
+#As we watch the electrons—as I watch the electrons, for every one that you count,
+
+L6-cue_464
+00:36:04.056 --> 00:36:10.686
+I can separate them experimentally into two columns: them that have arrived via Hole 1
+
+L6-cue_465
+00:36:10.686 --> 00:36:16.746
+and those (I know the English is right; I’m just trying to) that arrived via Hole 2.
+
+L6-cue_466
+00:36:16.746 --> 00:36:23.256
+So the number—the total number that arrived—well, first, what does this column look
+
+L6-cue_467
+00:36:23.256 --> 00:36:26.796
+like when you add it all together for different positions here, which is just the number
+
+L6-cue_468
+00:36:26.796 --> 00:36:28.356
+that have supposed to have come through 1.
+
+L6-cue_469
+00:36:28.356 --> 00:36:31.296
+#I watch behind 1 and what do I see?
+
+L6-cue_470
+00:36:31.296 --> 00:36:37.196
+#I see this curve-that column is distributed this way, just like we thought when we closed Hole 2;
+
+L6-cue_471
+00:36:37.196 --> 00:36:39.746
+it works the same way whether we’re looking or not: if we close Hole 2,
+
+L6-cue_472
+00:36:39.746 --> 00:36:45.026
+we get the same distribution—those that arrive [are] as if we were watching.
+
+L6-cue_473
+00:36:45.026 --> 00:36:47.276
+Likewise, in this column that is supposed
+
+L6-cue_474
+00:36:47.276 --> 00:36:51.476
+to have arrived via Hole Number 2, is also the simple curve.
+
+L6-cue_475
+00:36:51.476 --> 00:36:55.006
+#Now, look, the total number which arrives has
+
+L6-cue_476
+00:36:55.006 --> 00:36:58.896
+to be the total number—I’m just counting little marks!
+
+L6-cue_477
+00:36:58.896 --> 00:37:02.346
+It has to be the sum of this number plus that number.
+
+L6-cue_478
+00:37:02.346 --> 00:37:06.996
+The total number which arrived absolutely has to be the sum of these two;
+
+L6-cue_479
+00:37:06.996 --> 00:37:08.636
+it has to be distributed this way!
+
+L6-cue_480
+00:37:08.636 --> 00:37:11.776
+I said it was distributed this way;
+
+L6-cue_481
+00:37:11.776 --> 00:37:18.886
+it’s distributed this way—it really is, of course; it has to be.
+
+L6-cue_482
+00:37:18.886 --> 00:37:22.236
+It is. It’s distributed this way.
+
+L6-cue_483
+00:37:22.236 --> 00:37:27.656
+#If, then, we mark with a prime the results when a light is lit (prime means with a light lit),
+
+L6-cue_484
+00:37:27.656 --> 00:37:32.166
+then we find N-1-prime is practically the same as N-1 without the light,
+
+L6-cue_485
+00:37:32.166 --> 00:37:35.276
+and N-2-prime is almost the same as N-2.
+
+L6-cue_486
+00:37:35.276 --> 00:37:42.146
+But the number that we see when the light is on is not—is equal, is equal—to the number
+
+L6-cue_487
+00:37:42.146 --> 00:37:45.566
+that we see through 1 plus the number that we see through 2.
+
+L6-cue_488
+00:37:45.566 --> 00:37:48.856
+#This is the result that we get when the light is on.
+
+L6-cue_489
+00:37:48.856 --> 00:37:55.496
+In other words, we get a different answer whether I turned on the light or not.
+
+L6-cue_490
+00:37:55.496 --> 00:38:00.386
+If I have the light turned on, this is the distribution which you measure over here.
+
+L6-cue_491
+00:38:00.386 --> 00:38:04.456
+If I turn off the light, this is the distribution that you measure over here.
+
+L6-cue_492
+00:38:04.456 --> 00:38:08.196
+Turn on the light, this is the answer; turn off the light, that’s the answer.
+
+L6-cue_493
+00:38:08.196 --> 00:38:10.606
+#See, nature’s squeezed out.
+
+L6-cue_494
+00:38:10.606 --> 00:38:19.806
+#Now, we could say then, that the light affects the result.
+
+L6-cue_495
+00:38:19.806 --> 00:38:23.616
+If the light is on, you get a different answer than if the light is off.
+
+L6-cue_496
+00:38:23.616 --> 00:38:26.076
+If you want to, you could say there are light effects, it does affect.
+
+L6-cue_497
+00:38:26.076 --> 00:38:29.766
+In fact, we’ve found by this experiment we get a difference with the light on and off.
+
+L6-cue_498
+00:38:29.766 --> 00:38:31.776
+#Light affects the behavior of electrons.
+
+L6-cue_499
+00:38:31.776 --> 00:38:34.816
+#If you want to talk about the motion of the electrons through here,
+
+L6-cue_500
+00:38:34.816 --> 00:38:39.006
+which is a little inaccurate, you can: you can say that the light affects the motion,
+
+L6-cue_501
+00:38:39.006 --> 00:38:44.286
+so that those which might have arrived at the maximum are somehow been deviated or kicked
+
+L6-cue_502
+00:38:44.286 --> 00:38:52.106
+by the light and arrived at the minimum instead, thus smoothing the curve to produce this thing.
+
+L6-cue_503
+00:38:52.106 --> 00:38:54.916
+#You see, electrons are very delicate.
+
+L6-cue_504
+00:38:54.916 --> 00:38:57.916
+#Although, when you’re looking at a baseball and you shine light on it,
+
+L6-cue_505
+00:38:57.916 --> 00:39:00.086
+it doesn’t make any difference, the baseball goes the same way.
+
+L6-cue_506
+00:39:00.086 --> 00:39:04.376
+#Electrons are very flimsy, very delicate, and when you shine a light on,
+
+L6-cue_507
+00:39:04.376 --> 00:39:08.876
+a little tough on the electron, it knocks them about a bit, and instead of doing that,
+
+L6-cue_508
+00:39:08.876 --> 00:39:12.826
+they do this, because you turned the light on so strong—you hit ’em with a hammer;
+
+L6-cue_509
+00:39:12.826 --> 00:39:16.946
+it’s not just a delicate thing like when you’re looking at a baseball with light.
+
+L6-cue_510
+00:39:16.946 --> 00:39:19.456
+#There, you hit ’em with a hammer.
+
+L6-cue_511
+00:39:19.456 --> 00:39:23.616
+#But you used-you turned up the light too strong: turn it weaker and weaker and weaker
+
+L6-cue_512
+00:39:23.616 --> 00:39:26.346
+until it’s very dim, and then use very careful detectors
+
+L6-cue_513
+00:39:26.346 --> 00:39:30.406
+that can see very dim light, and look with the dim light.
+
+L6-cue_514
+00:39:30.406 --> 00:39:33.556
+Now, as the light gets dimmer and dimmer, you can’t expect with very, very,
+
+L6-cue_515
+00:39:33.556 --> 00:39:39.846
+very weak light to affect the electron so completely as to change the pattern 100 percent
+
+L6-cue_516
+00:39:39.846 --> 00:39:43.096
+from this pattern to this pattern; as the light gets weaker and weaker and weaker,
+
+L6-cue_517
+00:39:43.096 --> 00:39:46.926
+somehow it should get more and more like no light at all.
+
+L6-cue_518
+00:39:46.926 --> 00:39:48.656
+#How, then, does this turn into that?
+
+L6-cue_519
+00:39:48.656 --> 00:39:55.576
+#Well, it turns out that light is not like a wave of water, but light also comes
+
+L6-cue_520
+00:39:55.576 --> 00:40:01.796
+in particle-like character called photon: as you turn down the intensity of the light,
+
+L6-cue_521
+00:40:01.796 --> 00:40:06.886
+you’re not turning down the effect; you’re turning down the of photon particle—like things
+
+L6-cue_522
+00:40:06.886 --> 00:40:08.766
+that are coming out of the source.
+
+L6-cue_523
+00:40:08.766 --> 00:40:12.816
+So as I turn down the light, I’m getting fewer and fewer photons.
+
+L6-cue_524
+00:40:12.816 --> 00:40:18.826
+The least I can scatter from an electron is one photon, and if I have too few photons, well,
+
+L6-cue_525
+00:40:18.826 --> 00:40:20.096
+sometimes the electron will get through,
+
+L6-cue_526
+00:40:20.096 --> 00:40:23.646
+and it just happened there wasn’t enough light—there was no photon coming by;
+
+L6-cue_527
+00:40:23.646 --> 00:40:25.026
+I didn’t see it.
+
+L6-cue_528
+00:40:25.026 --> 00:40:29.236
+A very weak light doesn’t mean a small disturbance; it just means a few photons.
+
+L6-cue_529
+00:40:29.236 --> 00:40:33.026
+#What happens is that I have to invent a third column.
+
+L6-cue_530
+00:40:33.026 --> 00:40:34.886
+#You see, you get a click over here.
+
+L6-cue_531
+00:40:34.886 --> 00:40:40.436
+I say, "I saw that one, that was in Number 1 Hole; this was behind Hole Number 2."
+
+L6-cue_532
+00:40:40.436 --> 00:40:45.596
+Then another comes: "Sorry, I didn’t see that"—there wasn’t enough light to give a photon
+
+L6-cue_533
+00:40:45.596 --> 00:40:49.146
+at that time, so there must be a third column under "didn’t see."
+
+L6-cue_534
+00:40:49.146 --> 00:40:53.756
+When the light is very strong there are very few in there.
+
+L6-cue_535
+00:40:53.756 --> 00:40:56.506
+When the light is very weak, most of them end in there.
+
+L6-cue_536
+00:40:56.506 --> 00:41:00.776
+That there are three columns, this one, this one, and, sometimes, in here.
+
+L6-cue_537
+00:41:00.776 --> 00:41:02.726
+#You can guess what happens.
+
+L6-cue_538
+00:41:02.726 --> 00:41:08.026
+#The ones I do see are distributed this way; the ones I didn’t see are distributed that way,
+
+L6-cue_539
+00:41:08.026 --> 00:41:12.766
+and as I turn the light weaker and weaker, well, I see less and less of them—with greater
+
+L6-cue_540
+00:41:12.766 --> 00:41:14.846
+and greater fraction are not seen.
+
+L6-cue_541
+00:41:14.846 --> 00:41:19.856
+The actual curve, in any case, is a mixture of this and this, and as the light gets weaker
+
+L6-cue_542
+00:41:19.856 --> 00:41:28.926
+so that fewer and fewer are seen, [it] gets more and more like that, in a continuous fashion.
+
+L6-cue_543
+00:41:28.926 --> 00:41:31.926
+In this case, if the electrons are not seen, and nothing bounced off the light
+
+L6-cue_544
+00:41:31.926 --> 00:41:35.466
+under those circumstances, you get this complicated pattern for those electrons
+
+L6-cue_545
+00:41:35.466 --> 00:41:38.966
+which were not seen—the ones in the column "didn’t see" are exactly distributed
+
+L6-cue_546
+00:41:38.966 --> 00:41:48.656
+in this complicated way, and the other two columns are in these two ways here.
+
+L6-cue_547
+00:41:48.656 --> 00:41:52.916
+#Now, you say, "I got another way to measure which hole it goes through."
+
+L6-cue_548
+00:41:52.916 --> 00:41:57.296
+I’m sorry, I haven’t got enough time to discuss a large number of different inventions
+
+L6-cue_549
+00:41:57.296 --> 00:42:01.166
+that you might have, to find out which hole the electron went through,
+
+L6-cue_550
+00:42:01.166 --> 00:42:03.326
+and what happens in each case.
+
+L6-cue_551
+00:42:03.326 --> 00:42:09.356
+It always turns out, however, that it’s impossible to arrange the light in any way,
+
+L6-cue_552
+00:42:09.356 --> 00:42:14.616
+so that you can tell through which hole the thing is going, without disturbing the pattern
+
+L6-cue_553
+00:42:14.616 --> 00:42:20.956
+of arrival of the electrons from this form to this form, without destroying the interference.
+
+L6-cue_554
+00:42:20.956 --> 00:42:24.386
+Not only light, but anything else—you use neutrinos—you use anything,
+
+L6-cue_555
+00:42:24.386 --> 00:42:28.106
+there’s [a] principle that it’s impossible to do it.
+
+L6-cue_556
+00:42:28.106 --> 00:42:31.796
+#You can, if you want, invent a way to tell which hole the electron’s going through.
+
+L6-cue_557
+00:42:31.796 --> 00:42:34.696
+Then it turns out it’s going through one or the other.
+
+L6-cue_558
+00:42:34.696 --> 00:42:38.716
+If you try to make that instrument so that at the same time it doesn’t disturb the motion
+
+L6-cue_559
+00:42:38.716 --> 00:42:43.186
+of the electrons, then what happens is you get back—you can’t tell anymore
+
+L6-cue_560
+00:42:43.186 --> 00:42:47.536
+which one it goes through, and you get this; if you can tell, you get this.
+
+L6-cue_561
+00:42:47.536 --> 00:42:50.966
+Heisenberg noticed, when he discovered the laws of quantum mechanics,
+
+L6-cue_562
+00:42:50.966 --> 00:42:55.316
+that the new laws of nature that he discovered could only be consistent
+
+L6-cue_563
+00:42:55.316 --> 00:42:58.836
+if there was some basic limitation to our experimental abilities
+
+L6-cue_564
+00:42:58.836 --> 00:43:01.946
+that had not been previously recognized.
+
+L6-cue_565
+00:43:01.946 --> 00:43:04.526
+#In other words, you can’t experimentally be as delicate
+
+L6-cue_566
+00:43:04.526 --> 00:43:09.846
+as you wish-and he proposed his uncertainty principle, which,
+
+L6-cue_567
+00:43:09.846 --> 00:43:14.116
+stated in terms of our experiment, is the following (he stated it in another way,
+
+L6-cue_568
+00:43:14.116 --> 00:43:17.256
+but they’re exactly equivalent; you can get from one to the other, but unfortunately,
+
+L6-cue_569
+00:43:17.256 --> 00:43:21.246
+I haven’t time to explain that)—in our experiment,
+
+L6-cue_570
+00:43:21.246 --> 00:43:24.366
+his uncertainty principle would be stated in this manner:
+
+L6-cue_571
+00:43:24.366 --> 00:43:29.106
+"it is impossible to design any apparatus whatsoever to determine
+
+L6-cue_572
+00:43:29.106 --> 00:43:32.536
+which hole the electron passes (if one succeeds in determining
+
+L6-cue_573
+00:43:32.536 --> 00:43:38.216
+which hole the electron passes—through which hole the elec—which can determine
+
+L6-cue_574
+00:43:38.216 --> 00:43:40.306
+through which hole the electron passes) that will not
+
+L6-cue_575
+00:43:40.306 --> 00:43:45.766
+at the same time disturb the electron enough to destroy the interference pattern."
+
+L6-cue_576
+00:43:45.766 --> 00:43:50.716
+#No one has found a way around this, and I’m sure you’re all itching with inventions as to methods
+
+L6-cue_577
+00:43:50.716 --> 00:43:53.306
+of detecting which hole the electron went through,
+
+L6-cue_578
+00:43:53.306 --> 00:43:56.376
+but if each one of them is analyzed carefully, you’ll find out there’s something the matter
+
+L6-cue_579
+00:43:56.376 --> 00:43:59.976
+with it— that if, without disturbing the electron, you think you can do it,
+
+L6-cue_580
+00:43:59.976 --> 00:44:03.916
+but it turns out there’s always something the matter—and you can account for the difference
+
+L6-cue_581
+00:44:03.916 --> 00:44:07.376
+in the patterns due to the disturbance of the instruments used to determine
+
+L6-cue_582
+00:44:07.376 --> 00:44:09.036
+through which hole the electron comes.
+
+L6-cue_583
+00:44:09.036 --> 00:44:15.786
+#Now this, therefore, is a basic characteristic of nature
+
+L6-cue_584
+00:44:15.786 --> 00:44:18.546
+and tells us something about everything.
+
+L6-cue_585
+00:44:18.546 --> 00:44:24.256
+If a new particle is found tomorrow, the kaon (actually it’s already been found—something,
+
+L6-cue_586
+00:44:24.256 --> 00:44:29.046
+give it a name)—let’s say a kaon, and I use kaons to interact with electrons to determine
+
+L6-cue_587
+00:44:29.046 --> 00:44:34.166
+which hole the electron is going through, I already know ahead of time (I hope) enough
+
+L6-cue_588
+00:44:34.166 --> 00:44:40.626
+about the behavior of the kaon to say that it cannot be of such a type that I could tell
+
+L6-cue_589
+00:44:40.626 --> 00:44:45.236
+through which hole the electron would go, without at the same time producing a disturbance
+
+L6-cue_590
+00:44:45.236 --> 00:44:48.216
+on the electron to change the pattern from here to here.
+
+L6-cue_591
+00:44:48.216 --> 00:44:52.836
+#The uncertainty principle is used as a general principle to guess ahead at many
+
+L6-cue_592
+00:44:52.836 --> 00:44:56.446
+of the characteristics of unknown objects, Think how?
+
+L6-cue_593
+00:44:56.446 --> 00:44:58.096
+limited in their character.
+
+L6-cue_594
+00:44:58.096 --> 00:45:00.486
+Well, then, let’s go back.
+
+L6-cue_595
+00:45:00.486 --> 00:45:01.866
+#What about this Proposition A?
+
+L6-cue_596
+00:45:01.866 --> 00:45:06.606
+Does it go either through one hole or the other, or not?
+
+L6-cue_597
+00:45:06.606 --> 00:45:12.606
+Well, physicists have a convention, a way of avoiding the pitfalls which exist,
+
+L6-cue_598
+00:45:12.606 --> 00:45:16.486
+and they make their game, their rules of thinking, as follows.
+
+L6-cue_599
+00:45:16.486 --> 00:45:21.886
+That if you have an apparatus which is capable of telling which hole the electron goes
+
+L6-cue_600
+00:45:21.886 --> 00:45:24.826
+through (and you can have such apparati),
+
+L6-cue_601
+00:45:24.826 --> 00:45:28.926
+then one can say that it either goes through one hole or the other.
+
+L6-cue_602
+00:45:28.926 --> 00:45:34.736
+#It does, when you look; it always is going through one hole or the other—when you look.
+
+L6-cue_603
+00:45:34.736 --> 00:45:39.126
+But when you do not try to determine, or you have no disturbance—no apparatus there
+
+L6-cue_604
+00:45:39.126 --> 00:45:43.206
+to determine through which hole a thing goes— under those circumstances,
+
+L6-cue_605
+00:45:43.206 --> 00:45:47.486
+you cannot say that it either goes through one hole or the other.
+
+L6-cue_606
+00:45:47.486 --> 00:45:50.636
+You could always say it, provided you stop thinking immediately
+
+L6-cue_607
+00:45:50.636 --> 00:45:53.086
+and don’t make any deduction from it; we prefer not to say it,
+
+L6-cue_608
+00:45:53.086 --> 00:45:56.726
+rather than to stop thinking at the moment.
+
+L6-cue_609
+00:45:56.726 --> 00:45:59.846
+#In other words, when we don’t look, we can’t say through which hole it’s going,
+
+L6-cue_610
+00:45:59.846 --> 00:46:03.386
+but if you try to look to see, you find that it always goes through one hole or the other.
+
+L6-cue_611
+00:46:03.386 --> 00:46:07.206
+#Still, to conclude that it goes either through one hole or the other when you’re not looking is
+
+L6-cue_612
+00:46:07.206 --> 00:46:11.066
+to produce an error in prediction.
+
+L6-cue_613
+00:46:11.066 --> 00:46:20.636
+That is the logical tightrope on which we have to walk if we wish to interpret nature.
+
+L6-cue_614
+00:46:20.636 --> 00:46:24.236
+This proposition that I’m talking about is more general.
+
+L6-cue_615
+00:46:24.236 --> 00:46:29.956
+It’s not just for two holes; it’s a general proposition—[it] reads something like this:
+
+L6-cue_616
+00:46:29.956 --> 00:46:34.456
+that the probability of any event in an ideal experiment (that just means
+
+L6-cue_617
+00:46:34.456 --> 00:46:38.826
+when everything is specified as well as it can be), the probability of an event is the square
+
+L6-cue_618
+00:46:38.826 --> 00:46:44.766
+of something, which I call "A" here, is called the probability amplitude—and
+
+L6-cue_619
+00:46:44.766 --> 00:46:49.826
+when an event can occur in several alternative ways, the probability amplitude—this
+
+L6-cue_620
+00:46:49.826 --> 00:46:56.426
+"A" number—is the sum of the A’s for each of the various alternatives; and finally,
+
+L6-cue_621
+00:46:56.426 --> 00:47:01.766
+if an experiment is performed which is capable of determining which alternative is taken,
+
+L6-cue_622
+00:47:01.766 --> 00:47:05.356
+the probability of the event is the sum of the probabilities
+
+L6-cue_623
+00:47:05.356 --> 00:47:07.926
+for each alternative—that is, you lose the interference.
+
+L6-cue_624
+00:47:07.926 --> 00:47:11.066
+Now, the question is, how does it really work?
+
+L6-cue_625
+00:47:11.066 --> 00:47:15.556
+#By what machinery is actually producing this thing?
+
+L6-cue_626
+00:47:15.556 --> 00:47:18.596
+#Well, nobody knows any machinery.
+
+L6-cue_627
+00:47:18.596 --> 00:47:22.446
+Nobody can give you a deeper explanation of this phenomenon
+
+L6-cue_628
+00:47:22.446 --> 00:47:24.796
+that I have given-that is, a description of it.
+
+L6-cue_629
+00:47:24.796 --> 00:47:30.696
+#They can give you a wider explanation, in the sense that they could do more examples
+
+L6-cue_630
+00:47:30.696 --> 00:47:33.106
+to show how it’s impossible to tell which hole it goes through,
+
+L6-cue_631
+00:47:33.106 --> 00:47:36.526
+and at the same time not destroy the interference pattern.
+
+L6-cue_632
+00:47:36.526 --> 00:47:41.246
+They can give a wider class of experiments than just the two—slit interference experiment,
+
+L6-cue_633
+00:47:41.246 --> 00:47:45.776
+and so on, but they’re all—it’s just repeating the same thing to drive it in.
+
+L6-cue_634
+00:47:45.776 --> 00:47:49.246
+#It’s not any deeper, it’s only wider: the mathematics can be made more precise;
+
+L6-cue_635
+00:47:49.246 --> 00:47:52.076
+you can mention that they’re complex numbers instead of real numbers,
+
+L6-cue_636
+00:47:52.076 --> 00:47:56.256
+and a couple of other minor points, which have nothing to do with the main idea.
+
+L6-cue_637
+00:47:56.256 --> 00:48:05.276
+#The deep mystery is what I describe, and no one can go any deeper today—but only wider.
+
+L6-cue_638
+00:48:05.276 --> 00:48:13.076
+#Now, I mentioned probabilities in this calculation.
+
+L6-cue_639
+00:48:13.076 --> 00:48:20.756
+What we’re calculating here, this curve, is the probability of arrival of an electron.
+
+L6-cue_640
+00:48:20.756 --> 00:48:26.296
+The question is, is there any way to determine where it really arrives?
+
+L6-cue_641
+00:48:26.296 --> 00:48:29.656
+We are not averse to using the theory of probability—that is,
+
+L6-cue_642
+00:48:29.656 --> 00:48:32.946
+calculating odds when a situation’s very complicated: you throw up a die,
+
+L6-cue_643
+00:48:32.946 --> 00:48:37.776
+and it spins so many times in the air with the various resistance, and atoms,
+
+L6-cue_644
+00:48:37.776 --> 00:48:41.276
+and all this complicated business that we’re perfectly willing to allow
+
+L6-cue_645
+00:48:41.276 --> 00:48:45.586
+that we don’t know enough details—and so we calculate the odds
+
+L6-cue_646
+00:48:45.586 --> 00:48:48.816
+that the thing’ll come this way or that way.
+
+L6-cue_647
+00:48:48.816 --> 00:48:54.586
+But here, what we’re proposing, is it not, is that there be probability all the way back
+
+L6-cue_648
+00:48:54.586 --> 00:49:01.106
+at the fundamental laws, that in the fundamental laws of physics there are odds.
+
+L6-cue_649
+00:49:01.106 --> 00:49:05.946
+For example, suppose that I have an experiment so set up that with the light out,
+
+L6-cue_650
+00:49:05.946 --> 00:49:10.486
+I get this interference situation, and know that.
+
+L6-cue_651
+00:49:10.486 --> 00:49:15.026
+Then I say that with the light on, I can’t predict through which hole it will go.
+
+L6-cue_652
+00:49:15.026 --> 00:49:19.726
+I only know that each time I look it’ll be one hole or the other, but there is no way
+
+L6-cue_653
+00:49:19.726 --> 00:49:23.166
+to predict ahead of time through which hole it goes.
+
+L6-cue_654
+00:49:23.166 --> 00:49:29.096
+The future, in other words, is unpredictable: it is impossible to predict in any way,
+
+L6-cue_655
+00:49:29.096 --> 00:49:33.446
+from any information ahead of time, through which hole the thing will go—or
+
+L6-cue_656
+00:49:33.446 --> 00:49:39.976
+which hole it will be seen behind.
+
+L6-cue_657
+00:49:39.976 --> 00:49:43.286
+That means that physics has kind of given up,
+
+L6-cue_658
+00:49:43.286 --> 00:49:47.036
+if the original purpose was (and everybody thought it was) to know enough
+
+L6-cue_659
+00:49:47.036 --> 00:49:50.816
+that in given a situation you could predict what’s going to happen next,
+
+L6-cue_660
+00:49:50.816 --> 00:49:53.176
+that given the circumstances you can predict what happens.
+
+L6-cue_661
+00:49:53.176 --> 00:49:55.946
+Here are the circumstances: source, strong light source; tell me,
+
+L6-cue_662
+00:49:55.946 --> 00:49:58.146
+behind which hole will I see the electron?
+
+L6-cue_663
+00:49:58.146 --> 00:50:02.256
+#You say, "Well, the reason you can’t tell through which hole you’re going
+
+L6-cue_664
+00:50:02.256 --> 00:50:07.196
+to see the electron is, it’s determined by some very complicated things back here:
+
+L6-cue_665
+00:50:07.196 --> 00:50:11.226
+if I knew enough about that electron—it has internal wheels, internal gears,
+
+L6-cue_666
+00:50:11.226 --> 00:50:15.786
+and so forth-and that this is what determines through which hole it goes.
+
+L6-cue_667
+00:50:15.786 --> 00:50:22.006
+It’s 50/50 probability because, like a die, it’s set sort of at random—and if I were
+
+L6-cue_668
+00:50:22.006 --> 00:50:24.646
+to have studied it carefully enough, your physics is incomplete:
+
+L6-cue_669
+00:50:24.646 --> 00:50:27.296
+if you get a complete enough physics, then you’ll be able
+
+L6-cue_670
+00:50:27.296 --> 00:50:29.636
+to predict through which hole it goes."
+
+L6-cue_671
+00:50:29.636 --> 00:50:32.846
+That’s the "hidden variable" theory, so called.
+
+L6-cue_672
+00:50:32.846 --> 00:50:34.226
+#Well, that’s not possible.
+
+L6-cue_673
+00:50:34.226 --> 00:50:37.836
+#It is not due to a lack of detailed knowledge that we cannot make a prediction,
+
+L6-cue_674
+00:50:37.836 --> 00:50:43.606
+because I said that if I didn’t turn on the light, I should get this interference pattern.
+
+L6-cue_675
+00:50:43.606 --> 00:50:47.296
+If I have a circumstance in which I get that interference pattern, then it is impossible
+
+L6-cue_676
+00:50:47.296 --> 00:50:51.436
+to analyze it in terms of saying, it goes through here or here, because that curve is
+
+L6-cue_677
+00:50:51.436 --> 00:50:54.806
+so simple, mathematically—a different thing than the contribution
+
+L6-cue_678
+00:50:54.806 --> 00:50:57.586
+of this and this as probabilities.
+
+L6-cue_679
+00:50:57.586 --> 00:51:03.606
+#So if it were possible for you to have determined through which hole it was going to go
+
+L6-cue_680
+00:51:03.606 --> 00:51:08.286
+if I had the light on, the fact that I had the light on hasn’t got anything to do with it!
+
+L6-cue_681
+00:51:08.286 --> 00:51:11.806
+Whatever gears there are back here that you observe, which permitted you
+
+L6-cue_682
+00:51:11.806 --> 00:51:14.456
+to tell me whether it was going to go through 1 or 2,
+
+L6-cue_683
+00:51:14.456 --> 00:51:17.586
+you could have observed if I had the light off.
+
+L6-cue_684
+00:51:17.586 --> 00:51:20.456
+And therefore you could have told me with the light off
+
+L6-cue_685
+00:51:20.456 --> 00:51:24.956
+which hole—each time an electron goes—which hole it’s going to go through.
+
+L6-cue_686
+00:51:24.956 --> 00:51:28.766
+But if you can do this, then that curve would have to be represented as the sum of those
+
+L6-cue_687
+00:51:28.766 --> 00:51:33.036
+that go through there and those that go through there—and it ain’t.
+
+L6-cue_688
+00:51:33.036 --> 00:51:38.716
+#Therefore, it’s impossible to have information ahead of time as to which hole it’s going to go
+
+L6-cue_689
+00:51:38.716 --> 00:51:43.646
+through when the light is out—or when the light is on, or out—in a circumstance
+
+L6-cue_690
+00:51:43.646 --> 00:51:47.366
+where the experiment is set up that can produce this interference pattern.
+
+L6-cue_691
+00:51:47.366 --> 00:51:51.776
+#It is not a lack of unknown gears—a lack
+
+L6-cue_692
+00:51:51.776 --> 00:51:55.606
+of internal complications—that makes nature have probability in it;
+
+L6-cue_693
+00:51:55.606 --> 00:51:58.046
+it seems to be in some sense intrinsic.
+
+L6-cue_694
+00:51:58.046 --> 00:52:01.726
+Someone has said it this way: "nature herself doesn’t know
+
+L6-cue_695
+00:52:01.726 --> 00:52:07.136
+which way the electron is going to go."
+
+L6-cue_696
+00:52:07.136 --> 00:52:14.076
+#A philosopher once said (a pompous one): "it is necessary for the very existence of science
+
+L6-cue_697
+00:52:14.076 --> 00:52:19.276
+that the same conditions always produce the same result."
+
+L6-cue_698
+00:52:19.276 --> 00:52:26.856
+#Well, they don’t: if you set up electrons in any way—I mean, you set up the circumstance here,
+
+L6-cue_699
+00:52:26.856 --> 00:52:30.196
+in the same conditions every time, and you cannot predict behind
+
+L6-cue_700
+00:52:30.196 --> 00:52:36.756
+which hole you’ll see the electron.
+
+L6-cue_701
+00:52:36.756 --> 00:52:39.516
+They don’t-and yet the science goes on in spite of him.
+
+L6-cue_702
+00:52:39.516 --> 00:52:42.756
+Although, the same conditions don’t produce the same results, that makes us unhappy,
+
+L6-cue_703
+00:52:42.756 --> 00:52:44.786
+that we can’t predict exactly what’ll happen.
+
+L6-cue_704
+00:52:44.786 --> 00:52:48.456
+#Incidentally, you can make a circumstance which is very dangerous and serious
+
+L6-cue_705
+00:52:48.456 --> 00:52:50.836
+and man must know and you still can’t predict.
+
+L6-cue_706
+00:52:50.836 --> 00:52:53.496
+For instance, we could cook up (I don’t know if we’d want to do that or not),
+
+L6-cue_707
+00:52:53.496 --> 00:52:56.126
+but we could cook up a scheme by which we arrange photo cells so that
+
+L6-cue_708
+00:52:56.126 --> 00:53:01.006
+if you see the electron—one electron’s going to go through—if we see it behind Hole Number 1,
+
+L6-cue_709
+00:53:01.006 --> 00:53:04.846
+we set off the atomic bomb, and start World War III.
+
+L6-cue_710
+00:53:04.846 --> 00:53:11.056
+If we see it behind Hole 2, we have—just make peace feelers,
+
+L6-cue_711
+00:53:11.056 --> 00:53:12.996
+and delay the war a little longer.
+
+L6-cue_712
+00:53:12.996 --> 00:53:18.356
+#Then the thing is, that the future of man would then be dependent upon something
+
+L6-cue_713
+00:53:18.356 --> 00:53:21.446
+which no amount of science can predict.
+
+L6-cue_714
+00:53:21.446 --> 00:53:23.886
+The world is-the future is unpredictable.
+
+L6-cue_715
+00:53:23.886 --> 00:53:30.236
+What is necessary for the very existence of science, and what the characteristics
+
+L6-cue_716
+00:53:30.236 --> 00:53:34.526
+of nature are, are not to be determined by pompous preconditions.
+
+L6-cue_717
+00:53:34.526 --> 00:53:37.956
+They’re to be determined—they are determined always by the material with which we work,
+
+L6-cue_718
+00:53:37.956 --> 00:53:41.896
+by nature herself: we look and we see what we’re going to find—what we find.
+
+L6-cue_719
+00:53:41.896 --> 00:53:45.946
+We cannot say ahead of time, successfully, what it’s going to look like.
+
+L6-cue_720
+00:53:45.946 --> 00:53:51.366
+The most reasonable possibilities turn out often not to be the situation.
+
+L6-cue_721
+00:53:51.366 --> 00:53:57.546
+What is necessary for the very existence of science is just the ability to experiment,
+
+L6-cue_722
+00:53:57.546 --> 00:54:00.906
+the honesty in reporting results—the results must be reported
+
+L6-cue_723
+00:54:00.906 --> 00:54:06.056
+without somebody saying what they’d like the results to have had been—and finally,
+
+L6-cue_724
+00:54:06.056 --> 00:54:10.526
+an important thing, is the intelligence to interpret the results, but important point
+
+L6-cue_725
+00:54:10.526 --> 00:54:14.706
+about this intelligence is: that it must not—it should not—be sure ahead
+
+L6-cue_726
+00:54:14.706 --> 00:54:17.496
+of time about what must be.
+
+L6-cue_727
+00:54:17.496 --> 00:54:22.786
+#Now, it can be prejudiced, and say, "That’s very unlikely—I don’t like that."
+
+L6-cue_728
+00:54:22.786 --> 00:54:25.046
+Prejudice is different than absolute certainty.
+
+L6-cue_729
+00:54:25.046 --> 00:54:31.356
+I don’t mean absolute prejudice, just bias—but not strict bias, not complete prejudice.
+
+L6-cue_730
+00:54:31.356 --> 00:54:35.356
+As long as you’re biased, it doesn’t make any difference, because if the fact is true,
+
+L6-cue_731
+00:54:35.356 --> 00:54:40.006
+there will be a perpetual accumulation of experiments to perpetually annoy you,
+
+L6-cue_732
+00:54:40.006 --> 00:54:42.746
+until they cannot be disregarded any longer.
+
+L6-cue_733
+00:54:42.746 --> 00:54:45.486
+#[They] only can be disregarded if you’re absolutely sure ahead of time
+
+L6-cue_734
+00:54:45.486 --> 00:54:49.486
+of some precondition that science has to have.
+
+L6-cue_735
+00:54:49.486 --> 00:54:55.936
+In fact, it is necessary for the very existence of science that minds exist, which do not allow
+
+L6-cue_736
+00:54:55.936 --> 00:55:02.246
+that nature must satisfy some preconceived conditions like those of our philosophers.
+
+L6-cue_737
+00:55:02.246 --> 00:56:32.000
+#Thank you.

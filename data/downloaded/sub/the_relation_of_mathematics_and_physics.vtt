@@ -1,0 +1,3017 @@
+WEBVTT
+
+L2-cue_0a
+00:00:00.250 --> 00:00:20.000
+##front [BBC TV Film Leader]
+
+L2-cue_0b
+00:00:20.000 --> 00:01:15.700
+##front Credits: Cornell University U.S.A., The Character of Physical Law, Professor Richard Feynman gives the Messenger Lectures
+
+L2-cue_0
+00:01:16.200 --> 00:01:29.876
+##Title The Relation of Mathematics and Physics
+
+L2-cue_3
+00:01:29.876 --> 00:01:34.306
+#Hi. I can see the audience tonight, so I can see also from the size
+
+L2-cue_4
+00:01:34.306 --> 00:01:39.906
+of it (which last time was a black splot in front of my eyes), that there must be many
+
+L2-cue_5
+00:01:39.906 --> 00:01:43.376
+of you here who are not thoroughly familiar with physics,
+
+L2-cue_6
+00:01:43.376 --> 00:01:49.796
+and also a number that are not too versed in mathematics—and I don’t doubt
+
+L2-cue_7
+00:01:49.796 --> 00:01:54.186
+that there are some who know neither physics nor mathematics very well.
+
+L2-cue_8
+00:01:54.186 --> 00:01:58.796
+That puts a considerable challenge on a speaker who is going to speak on the relation of physics
+
+L2-cue_9
+00:01:58.796 --> 00:02:08.246
+and mathematics—a challenge which I, however, will not accept: I published the title
+
+L2-cue_10
+00:02:08.246 --> 00:02:11.956
+of the talk in clear and precise language, and didn’t make it sound
+
+L2-cue_11
+00:02:11.956 --> 00:02:15.056
+like it was something it wasn’t—it’s the relation of physics and mathematics—and
+
+L2-cue_12
+00:02:15.056 --> 00:02:19.626
+if you find that in some spots it assumes some minor knowledge of physics
+
+L2-cue_13
+00:02:19.626 --> 00:02:22.796
+or mathematics, I cannot help it.
+
+L2-cue_14
+00:02:22.796 --> 00:02:25.826
+It was named so.
+
+L2-cue_15
+00:02:25.826 --> 00:02:32.996
+#In thinking of the applications of mathematics to physics, it’s perfectly natural
+
+L2-cue_16
+00:02:32.996 --> 00:02:40.076
+that mathematics will be useful when large numbers are involved in complex situations.
+
+L2-cue_17
+00:02:40.076 --> 00:02:45.586
+Although, for example, if we took biology, the action of a virus on a bacterium is,
+
+L2-cue_18
+00:02:45.586 --> 00:02:49.896
+if you watch it under the microscope, unmathematical: a jiggling virus finds some spot
+
+L2-cue_19
+00:02:49.896 --> 00:02:54.046
+on this odd—shape bacterium—they’re all different shapes—and finds some spot;
+
+L2-cue_20
+00:02:54.046 --> 00:03:00.006
+maybe it pushes its DNA in, and maybe it doesn’t, and so forth.
+
+L2-cue_21
+00:03:00.006 --> 00:03:05.706
+And yet, if we do the experiment with millions and billions of bacteria and viruses,
+
+L2-cue_22
+00:03:05.706 --> 00:03:09.196
+then we can learn a great deal about the virus—it’s like taking averages and working
+
+L2-cue_23
+00:03:09.196 --> 00:03:14.156
+with large numbers: we can use the mathematics involved in the averaging;
+
+L2-cue_24
+00:03:14.156 --> 00:03:19.126
+we can see whether the viruses develop in the bacteria some new strains, and what percentage,
+
+L2-cue_25
+00:03:19.126 --> 00:03:24.376
+so we can study the genetics, the mutation, and so forth.
+
+L2-cue_26
+00:03:24.376 --> 00:03:27.626
+#To take another—more trivial—example,
+
+L2-cue_27
+00:03:27.626 --> 00:03:38.416
+imagine an enormous board—a checkerboard—to play checkers (or draughts):
+
+L2-cue_28
+00:03:38.416 --> 00:03:42.026
+if the board is very large, the actual operation
+
+L2-cue_29
+00:03:42.026 --> 00:03:47.926
+of any one step is not mathematical—or very simple, if it is mathematical:
+
+L2-cue_30
+00:03:47.926 --> 00:03:51.496
+it either goes one side or the other on the diagonal, or it reaches [the end]
+
+L2-cue_31
+00:03:51.496 --> 00:03:54.466
+and becomes a king, and can go backwards when it reaches the end.
+
+L2-cue_32
+00:03:54.466 --> 00:03:56.186
+In other words, the statement of the rules are very simple,
+
+L2-cue_33
+00:03:56.186 --> 00:03:59.246
+and do not really involve any mathematics.
+
+L2-cue_34
+00:03:59.246 --> 00:04:02.736
+But you could imagine that on an enormous board with lots and lots of pieces,
+
+L2-cue_35
+00:04:02.736 --> 00:04:07.866
+some analysis of the best move—or good moves or bad moves—might be made by a deep kind
+
+L2-cue_36
+00:04:07.866 --> 00:04:11.596
+of reasoning, which would involve somebody having gone off first and thought about it
+
+L2-cue_37
+00:04:11.596 --> 00:04:15.576
+in great depth-and that becomes mathematics, this abstract reasoning.
+
+L2-cue_38
+00:04:15.576 --> 00:04:18.066
+#Another example is switching, in computers.
+
+L2-cue_39
+00:04:18.066 --> 00:04:22.086
+If you have one switch, it’s either on or off, and there’s nothing very mathematical
+
+L2-cue_40
+00:04:22.086 --> 00:04:26.036
+about that (although mathematicians like to start there with their mathematics).
+
+L2-cue_41
+00:04:26.036 --> 00:04:29.446
+But with all the interconnections and wires to figure
+
+L2-cue_42
+00:04:29.446 --> 00:04:33.636
+out what a very large system will do, one requires a mathematics.
+
+L2-cue_43
+00:04:33.636 --> 00:04:35.886
+#I would like immediately to say
+
+L2-cue_44
+00:04:35.886 --> 00:04:40.546
+that a mathematics has its primary application—it has a tremendous application—in
+
+L2-cue_45
+00:04:40.546 --> 00:04:45.336
+physics in the discussion of the detailed phenomena in complicated situations,
+
+L2-cue_46
+00:04:45.336 --> 00:04:48.846
+granting the fundamental rules of the game.
+
+L2-cue_47
+00:04:48.846 --> 00:04:52.766
+And that is something which, if I were talking only about the relation of mathematics
+
+L2-cue_48
+00:04:52.766 --> 00:04:56.106
+and physics, I would spend most of my time discussing.
+
+L2-cue_49
+00:04:56.106 --> 00:05:00.126
+But since this is part of a series of lectures on the character of physical law,
+
+L2-cue_50
+00:05:00.126 --> 00:05:04.856
+I do not have the time to discuss the applications of mathematics and physics
+
+L2-cue_51
+00:05:04.856 --> 00:05:07.766
+to calculating what happens in complicated situations.
+
+L2-cue_52
+00:05:07.766 --> 00:05:12.306
+But we’ll go immediately to another question, which is the character of the fundamental law.
+
+L2-cue_53
+00:05:12.306 --> 00:05:14.676
+#If we go back to our checker game,
+
+L2-cue_54
+00:05:14.676 --> 00:05:18.546
+the fundamental laws are the rules by which the checkers move.
+
+L2-cue_55
+00:05:18.546 --> 00:05:22.226
+The mathematics may be applied in a complex situation—to figure out what happens
+
+L2-cue_56
+00:05:22.226 --> 00:05:24.596
+in the next move, what’s a good move to make
+
+L2-cue_57
+00:05:24.596 --> 00:05:29.506
+in a complicated situation—but very little mathematics is needed in the fundamental,
+
+L2-cue_58
+00:05:29.506 --> 00:05:34.996
+simple character of the basic laws.
+
+L2-cue_59
+00:05:34.996 --> 00:05:37.446
+#Now, the strange thing about physics is,
+
+L2-cue_60
+00:05:37.446 --> 00:05:42.236
+that for the fundamental laws, we still need mathematics.
+
+L2-cue_61
+00:05:42.236 --> 00:05:48.226
+For example-well, I give two examples: one in which we really do not, and one in which we do.
+
+L2-cue_62
+00:05:48.226 --> 00:05:53.216
+#There’s a law in physics called Faraday’s Law, which says that in electrolysis the amount
+
+L2-cue_63
+00:05:53.216 --> 00:05:56.836
+of material which is deposited is proportional to the current,
+
+L2-cue_64
+00:05:56.836 --> 00:06:00.736
+and to the time that the current is acting—and that means that the amount
+
+L2-cue_65
+00:06:00.736 --> 00:06:04.216
+of material is proportional to the charge which goes through the system.
+
+L2-cue_66
+00:06:04.216 --> 00:06:05.606
+Well, it sounds very mathematical.
+
+L2-cue_67
+00:06:05.606 --> 00:06:11.706
+But what’s actually happening is that electrons going through the wire each carry one charge.
+
+L2-cue_68
+00:06:11.706 --> 00:06:14.336
+To take an example, a particular example,
+
+L2-cue_69
+00:06:14.336 --> 00:06:19.666
+it may be that to deposit one atom requires one electron to come, and so the number of atoms
+
+L2-cue_70
+00:06:19.666 --> 00:06:23.746
+that are deposited are necessarily proportional to the number of electrons that flow,
+
+L2-cue_71
+00:06:23.746 --> 00:06:25.236
+and thus to the charge that goes through the wire.
+
+L2-cue_72
+00:06:25.236 --> 00:06:30.386
+So the mathematically-appearing law has as its basis nothing very deep,
+
+L2-cue_73
+00:06:30.386 --> 00:06:35.036
+requiring no real knowledge of mathematics, that one electron is needed for each atom
+
+L2-cue_74
+00:06:35.036 --> 00:06:36.496
+in order for it to deposit itself.
+
+L2-cue_75
+00:06:36.496 --> 00:06:40.866
+That’s not a deep-that’s mathematics, if I had to say, number one, but it’s not the kind
+
+L2-cue_76
+00:06:40.866 --> 00:06:43.676
+of mathematics I’m talking about tonight.
+
+L2-cue_77
+00:06:43.676 --> 00:06:49.026
+#Now, if we take, on the other hand, Newton’s law for gravitation (which has these aspects
+
+L2-cue_78
+00:06:49.026 --> 00:06:52.406
+which I wrote down last time just to impress you with the speed
+
+L2-cue_79
+00:06:52.406 --> 00:06:56.296
+at which mathematical symbols can convey—can carry—information),
+
+L2-cue_80
+00:06:56.296 --> 00:07:00.266
+we said that the force was proportional to the product of the masses of two objects,
+
+L2-cue_81
+00:07:00.266 --> 00:07:04.866
+and inversely as the square of the distance between them, and that bodies react to forces
+
+L2-cue_82
+00:07:04.866 --> 00:07:09.706
+by changing their speeds—or changing their motions—in a direction of the force
+
+L2-cue_83
+00:07:09.706 --> 00:07:14.666
+by amounts proportional to the force, and inversely proportional to their masses.
+
+L2-cue_84
+00:07:14.666 --> 00:07:20.356
+Now that’s words all right, and I didn’t have to write the equation, but nevertheless it’s kind
+
+L2-cue_85
+00:07:20.356 --> 00:07:25.316
+of mathematical, and we would wonder: how can this be a fundamental law?
+
+L2-cue_86
+00:07:25.316 --> 00:07:28.086
+How can this planet out there look—what does it do?
+
+L2-cue_87
+00:07:28.086 --> 00:07:32.146
+It looks at the sun, and it sees how far away it is, and it decides to calculate
+
+L2-cue_88
+00:07:32.146 --> 00:07:34.706
+on its internal adding machine the inverse of the square
+
+L2-cue_89
+00:07:34.706 --> 00:07:37.006
+of the distance-and that tells it how much to move?
+
+L2-cue_90
+00:07:37.006 --> 00:07:41.586
+This is certainly no explanation of the machinery of gravitation!
+
+L2-cue_91
+00:07:41.586 --> 00:07:46.276
+So you might want to look further, and various people have tried to look further:
+
+L2-cue_92
+00:07:46.276 --> 00:07:51.746
+Newton was originally asked, "It doesn’t mean anything; it doesn’t tell us anything!"
+
+L2-cue_93
+00:07:51.746 --> 00:07:53.436
+He says, "It tells you how it moves.
+
+L2-cue_94
+00:07:53.436 --> 00:08:00.266
+It should be enough—I told you how it moves, not why."
+
+L2-cue_95
+00:08:00.266 --> 00:08:03.806
+#But people are often unsatisfied without a mechanism,
+
+L2-cue_96
+00:08:03.806 --> 00:08:10.886
+and I would like to describe one theory which has been invented (among others) of the type
+
+L2-cue_97
+00:08:10.886 --> 00:08:15.496
+that you might want, that this is a result of large numbers—and that’s why it’s mathematical.
+
+L2-cue_98
+00:08:15.496 --> 00:08:18.156
+And I give this theory—perhaps you’ve thought of it yourself;
+
+L2-cue_99
+00:08:18.156 --> 00:08:22.846
+every once in a while some student comes running in; he suddenly explains gravitation.
+
+L2-cue_100
+00:08:22.846 --> 00:08:25.606
+#Suppose that in the world, everywhere, there are,
+
+L2-cue_101
+00:08:25.606 --> 00:08:28.446
+flying through us at very high speed, a lot of particles.
+
+L2-cue_102
+00:08:28.446 --> 00:08:31.326
+They come equally in all directions; they’re just shooting by, shooting by,
+
+L2-cue_103
+00:08:31.326 --> 00:08:35.896
+shooting by-and once in a while hit us in a bombardment.
+
+L2-cue_104
+00:08:35.896 --> 00:08:41.106
+We and the sun are practically transparent for them—nearly—but some hit,
+
+L2-cue_105
+00:08:41.106 --> 00:08:43.556
+and so it’s not completely transparent.
+
+L2-cue_106
+00:08:43.556 --> 00:08:48.606
+And look what would happen: if the sun is here and the earth is here,
+
+L2-cue_107
+00:08:48.606 --> 00:08:52.476
+then if the sun weren’t here, there would be particles bombarding from all sides,
+
+L2-cue_108
+00:08:52.476 --> 00:08:55.126
+giving little impulses by the rattle of these—bang, bang,
+
+L2-cue_109
+00:08:55.126 --> 00:08:58.986
+the few that hit—which would not shake the earth in any particular direction,
+
+L2-cue_110
+00:08:58.986 --> 00:09:02.726
+because there’s as many coming from one side as the other, from top, from bottom.
+
+L2-cue_111
+00:09:02.726 --> 00:09:07.396
+#However, when the sun is here, the particles which are coming
+
+L2-cue_112
+00:09:07.396 --> 00:09:10.936
+in this direction are partly absorbed by the sun,
+
+L2-cue_113
+00:09:10.936 --> 00:09:14.046
+because some of them hit the sun and don’t go through.
+
+L2-cue_114
+00:09:14.046 --> 00:09:18.236
+Therefore, the number that are coming from this direction toward the earth is less
+
+L2-cue_115
+00:09:18.236 --> 00:09:20.036
+than the number that are coming from the other side,
+
+L2-cue_116
+00:09:20.036 --> 00:09:23.476
+because here they have no opposition from the sun there.
+
+L2-cue_117
+00:09:23.476 --> 00:09:30.496
+#And it’s easy to see (after some mental effort) that the further the sun is away,
+
+L2-cue_118
+00:09:30.496 --> 00:09:34.996
+the less (in proportion of all of the particles) are being taken out of the possible directions
+
+L2-cue_119
+00:09:34.996 --> 00:09:36.626
+in which particles can come—I mean,
+
+L2-cue_120
+00:09:36.626 --> 00:09:41.786
+the solar size appears smaller—in fact inversely as the square of the distance.
+
+L2-cue_121
+00:09:41.786 --> 00:09:46.326
+So there will, therefore, be an impulse toward the sun on the earth that’s inversely
+
+L2-cue_122
+00:09:46.326 --> 00:09:51.516
+as the square of the distance, and is a result of large numbers of very simple operations;
+
+L2-cue_123
+00:09:51.516 --> 00:09:55.176
+just hit one after the other from all directions.
+
+L2-cue_124
+00:09:55.176 --> 00:09:57.186
+#And, therefore, the strangeness
+
+L2-cue_125
+00:09:57.186 --> 00:09:59.576
+of the mathematical relation would be very much reduced,
+
+L2-cue_126
+00:09:59.576 --> 00:10:03.246
+because the fundamental operation is much simpler than calculating the inverse
+
+L2-cue_127
+00:10:03.246 --> 00:10:08.056
+of the square of the distance: this "machine" does the calculating—these particles bouncing.
+
+L2-cue_128
+00:10:08.056 --> 00:10:15.126
+#The only trouble with it is that it doesn’t work—for other reasons:
+
+L2-cue_129
+00:10:15.126 --> 00:10:19.706
+every theory that you make up has to be analyzed against all the possible consequences,
+
+L2-cue_130
+00:10:19.706 --> 00:10:24.006
+to see if it predicts anything else—and this predicts something else.
+
+L2-cue_131
+00:10:24.006 --> 00:10:29.486
+If the earth is moving this way, more particles would hit it from the front than from the back.
+
+L2-cue_132
+00:10:29.486 --> 00:10:33.096
+If you’re running in the rain, more rain hits you in the front of the face than in the back
+
+L2-cue_133
+00:10:33.096 --> 00:10:35.706
+of the head, because you’re running into the rain.
+
+L2-cue_134
+00:10:35.706 --> 00:10:38.746
+And so, as the earth is moving in this direction, it’s running into the particles,
+
+L2-cue_135
+00:10:38.746 --> 00:10:41.826
+rather, and running away from the ones that are chasing it from behind,
+
+L2-cue_136
+00:10:41.826 --> 00:10:44.416
+so that more particles hit it from the front than from the back.
+
+L2-cue_137
+00:10:44.416 --> 00:10:48.506
+And there would be a force also sideways whenever there was any motion [that way].
+
+L2-cue_138
+00:10:48.506 --> 00:10:50.976
+This sideways force would slow the earth up in the orbit
+
+L2-cue_139
+00:10:50.976 --> 00:10:55.126
+and certainly would not have lasted the three or four billion years
+
+L2-cue_140
+00:10:55.126 --> 00:10:56.836
+that it has been going around the sun.
+
+L2-cue_141
+00:10:56.836 --> 00:11:00.206
+So that’s the end of that theory.
+
+L2-cue_142
+00:11:00.206 --> 00:11:02.966
+#Well, you say, that was a good one, though: it got rid of the mathematics
+
+L2-cue_143
+00:11:02.966 --> 00:11:08.106
+for a while; maybe I can invent a better one.
+
+L2-cue_144
+00:11:08.106 --> 00:11:12.376
+And maybe you can, because nobody knows the ultimate.
+
+L2-cue_145
+00:11:12.376 --> 00:11:17.836
+But up to today, from the time of Newton, no one has invented another theoretical description
+
+L2-cue_146
+00:11:17.836 --> 00:11:23.386
+of the mathematical machinery behind this law which does anything else but say the same thing
+
+L2-cue_147
+00:11:23.386 --> 00:11:26.616
+over again, or make the mathematics harder,
+
+L2-cue_148
+00:11:26.616 --> 00:11:30.066
+and at the same time doesn’t produce some wrong phenomenon—I mean
+
+L2-cue_149
+00:11:30.066 --> 00:11:33.706
+like this model does it—but it produces something which isn’t true.
+
+L2-cue_150
+00:11:33.706 --> 00:11:35.726
+#So there is no model of the theory
+
+L2-cue_151
+00:11:35.726 --> 00:11:40.256
+of gravitation today other than the mathematical form.
+
+L2-cue_152
+00:11:40.256 --> 00:11:45.726
+If this were the only law of this character, it would be interesting and rather annoying.
+
+L2-cue_153
+00:11:45.726 --> 00:11:49.616
+But what turns out to be true is that the more we investigate, and the more laws we find,
+
+L2-cue_154
+00:11:49.616 --> 00:11:53.216
+and the deeper we penetrate nature, this disease—that every one
+
+L2-cue_155
+00:11:53.216 --> 00:11:57.186
+of our laws is a purely mathematical statement in rather complex
+
+L2-cue_156
+00:11:57.186 --> 00:12:02.326
+and abstruse mathematics (this is relatively simple mathematics)—gets more and more abstruse,
+
+L2-cue_157
+00:12:02.326 --> 00:12:04.796
+and more and more difficult, as mathematics.
+
+L2-cue_158
+00:12:04.796 --> 00:12:08.486
+#Why? I haven’t the slightest idea why.
+
+L2-cue_159
+00:12:08.486 --> 00:12:12.536
+It is only my purpose in this lecture to tell you about this fact.
+
+L2-cue_160
+00:12:12.536 --> 00:12:18.336
+In other words, it’s my purpose in this lecture to explain, really, why I cannot satisfy you,
+
+L2-cue_161
+00:12:18.336 --> 00:12:23.286
+if you do not understand mathematics too well, in trying to explain nature in any other way.
+
+L2-cue_162
+00:12:23.286 --> 00:12:29.136
+It is the burden of this lecture, in fact, to just tell you the fact that it is impossible
+
+L2-cue_163
+00:12:29.136 --> 00:12:34.706
+to answer—really, honestly—the challenge of explaining, in a way that a person can feel,
+
+L2-cue_164
+00:12:34.706 --> 00:12:39.326
+the beauties of the laws of nature without their having some deep understanding of mathematics.
+
+L2-cue_165
+00:12:39.326 --> 00:12:43.796
+I’m sorry, but it seems to be the case.
+
+L2-cue_166
+00:12:43.796 --> 00:12:46.716
+#You might say, "All right, then, there’s no explanation of the law;
+
+L2-cue_167
+00:12:46.716 --> 00:12:51.916
+at least tell me what the law is—why not tell me in words instead of in the symbols?
+
+L2-cue_168
+00:12:51.916 --> 00:12:55.956
+Mathematics is just a language, and I want to be able to translate the language."
+
+L2-cue_169
+00:12:55.956 --> 00:12:59.636
+And, in fact, I can—and with patience, I think I partly did.
+
+L2-cue_170
+00:12:59.636 --> 00:13:03.436
+I could go a little further and explain more detail—that this means if it’s twice
+
+L2-cue_171
+00:13:03.436 --> 00:13:08.626
+as far away the force is one—fourth as much, and so on—and can convert all these into words.
+
+L2-cue_172
+00:13:08.626 --> 00:13:11.596
+I would be, in other words, kind to the layman, as they all sit,
+
+L2-cue_173
+00:13:11.596 --> 00:13:13.666
+hopeful that you will explain something.
+
+L2-cue_174
+00:13:13.666 --> 00:13:19.166
+Various different people get different reputations for their skill at explaining
+
+L2-cue_175
+00:13:19.166 --> 00:13:25.576
+to the layman in layman’s language these difficult and abstruse subjects.
+
+L2-cue_176
+00:13:25.576 --> 00:13:33.956
+#The layman then searches for book after book with the hope that he will avoid the complexity
+
+L2-cue_177
+00:13:33.956 --> 00:13:38.676
+which ultimately sets in, even by the best expositor of this type.
+
+L2-cue_178
+00:13:38.676 --> 00:13:44.076
+He reads the things, hoping—he finds, as he reads, a generally increased confusion,
+
+L2-cue_179
+00:13:44.076 --> 00:13:48.716
+one complicated statement after the other, one difficult—to—understand thing after the other,
+
+L2-cue_180
+00:13:48.716 --> 00:13:52.766
+all apparently disconnected from one another—and it becomes a little obscure,
+
+L2-cue_181
+00:13:52.766 --> 00:13:56.846
+and he hopes that maybe in some other book there’s some explanation which avoids—I mean,
+
+L2-cue_182
+00:13:56.846 --> 00:14:02.206
+the man almost made it, you see—maybe another fellow makes it right.
+
+L2-cue_183
+00:14:02.206 --> 00:14:05.176
+#I don’t think it’s possible, because there’s another feature:
+
+L2-cue_184
+00:14:05.176 --> 00:14:10.726
+mathematics is not just a language; mathematics is a language plus reasoning;
+
+L2-cue_185
+00:14:10.726 --> 00:14:13.766
+it’s like a language plus logic.
+
+L2-cue_186
+00:14:13.766 --> 00:14:15.966
+Mathematics is a tool for reasoning.
+
+L2-cue_187
+00:14:15.966 --> 00:14:23.366
+It’s in fact a big collection of the results of some person’s careful thought and reasoning.
+
+L2-cue_188
+00:14:23.366 --> 00:14:28.526
+By mathematics it is possible to connect one statement to another.
+
+L2-cue_189
+00:14:28.526 --> 00:14:32.016
+For instance, I can say that the force is directed toward the sun.
+
+L2-cue_190
+00:14:32.016 --> 00:14:38.476
+I can also tell you, as I did before, that the planet moves—so if I draw a line from the sun
+
+L2-cue_191
+00:14:38.476 --> 00:14:45.186
+to the planet, and draw another one at some definite period like three weeks later,
+
+L2-cue_192
+00:14:45.186 --> 00:14:49.946
+the area that is swung out by the planet is exactly the same
+
+L2-cue_193
+00:14:49.946 --> 00:14:52.286
+as it will be the next three weeks, and the next three weeks,
+
+L2-cue_194
+00:14:52.286 --> 00:14:54.896
+and so on, as it goes around the sun.
+
+L2-cue_195
+00:14:54.896 --> 00:14:58.536
+#Now, I could explain both of those statements to you carefully,
+
+L2-cue_196
+00:14:58.536 --> 00:15:03.306
+but I cannot explain why they’re both the same—so
+
+L2-cue_197
+00:15:03.306 --> 00:15:10.646
+that if you don’t appreciate the mathematics, you cannot see that the great variety of facts,
+
+L2-cue_198
+00:15:10.646 --> 00:15:15.566
+the enormous apparent complexity of nature—with all its funny laws and rules,
+
+L2-cue_199
+00:15:15.566 --> 00:15:20.406
+each of which have been carefully explained to you—are really very closely interwoven,
+
+L2-cue_200
+00:15:20.406 --> 00:15:23.616
+that logic permits you to go from one to the other.
+
+L2-cue_201
+00:15:23.616 --> 00:15:29.746
+#It may be unbelievable that I can demonstrate that equal times will be swept
+
+L2-cue_202
+00:15:29.746 --> 00:15:33.616
+out if the forces are directed toward the sun.
+
+L2-cue_203
+00:15:33.616 --> 00:15:36.846
+If I may try, I will show you one demonstration,
+
+L2-cue_204
+00:15:36.846 --> 00:15:41.146
+to show you that those two things really are equivalent, so that you can appreciate
+
+L2-cue_205
+00:15:41.146 --> 00:15:45.876
+that there’s more to merely the statement of the two laws; that the two laws are connected
+
+L2-cue_206
+00:15:45.876 --> 00:15:49.266
+such that reasoning alone will bring you from one to the other;
+
+L2-cue_207
+00:15:49.266 --> 00:15:52.846
+that mathematics is this organized reasoning, and that it’s good to know how
+
+L2-cue_208
+00:15:52.846 --> 00:15:57.426
+to do that-so you will appreciate the beauty of the relationship of the statement.
+
+L2-cue_209
+00:15:57.426 --> 00:15:59.396
+So I’m going to prove, if I may,
+
+L2-cue_210
+00:15:59.396 --> 00:16:06.086
+the relationship that if the forces are directed toward the sun,
+
+L2-cue_211
+00:16:06.086 --> 00:16:08.266
+that the equal areas are swept out in equal time.
+
+L2-cue_212
+00:16:08.266 --> 00:16:09.006
+#So, we start.
+
+L2-cue_213
+00:16:09.006 --> 00:16:16.886
+Here’s the sun, and we imagine at a certain time, let’s say the planet is here,
+
+L2-cue_214
+00:16:16.886 --> 00:16:21.016
+and is moving in such a way that let’s say one second later—or one hour, pick any time,
+
+L2-cue_215
+00:16:21.016 --> 00:16:26.116
+say one second later—it’s moved in such a manner that it has gotten to the position 2.
+
+L2-cue_216
+00:16:26.116 --> 00:16:33.396
+Now, if the sun did not exert any force on it, then by Galileo’s principle,
+
+L2-cue_217
+00:16:33.396 --> 00:16:35.816
+it would keep right on going in a straight line.
+
+L2-cue_218
+00:16:35.816 --> 00:16:41.066
+So in the same interval of time—later, the next second—it’ll move exactly the same distance
+
+L2-cue_219
+00:16:41.066 --> 00:16:46.136
+in the same straight line to the position 3, were there no force.
+
+L2-cue_220
+00:16:46.136 --> 00:16:46.386
+All right.
+
+L2-cue_221
+00:16:46.386 --> 00:16:51.536
+Now first we’re going to show that if there’s no force, equal areas are swept out in equal time.
+
+L2-cue_222
+00:16:51.536 --> 00:16:55.816
+#I remind you that the area of a triangle is half the base times the altitude,
+
+L2-cue_223
+00:16:55.816 --> 00:16:59.606
+and that the altitude is the vertical distance to the base.
+
+L2-cue_224
+00:16:59.606 --> 00:17:05.676
+And that if the triangle is sort of cockeyed (there’s a name for it which I forget—obtuse!
+
+L2-cue_225
+00:17:05.676 --> 00:17:10.026
+obtuse!), then the altitude is this vertical height here.
+
+L2-cue_226
+00:17:10.026 --> 00:17:15.566
+(I know about the triangles; I just don’t know their names.)
+
+L2-cue_227
+00:17:15.566 --> 00:17:21.796
+Now, let us draw the lines to these two points in the case that there was no motion whatsoever.
+
+L2-cue_228
+00:17:21.796 --> 00:17:24.916
+#The question is-it doesn’t draw very well; I’m not accurate,
+
+L2-cue_229
+00:17:24.916 --> 00:17:27.406
+but these two distances are equal, remember.
+
+L2-cue_230
+00:17:27.406 --> 00:17:30.086
+The question is: are these two areas equal?
+
+L2-cue_231
+00:17:30.086 --> 00:17:37.026
+Well, consider the triangle made from the sun and the two points 1 and 2; it’s this one.
+
+L2-cue_232
+00:17:37.026 --> 00:17:39.146
+What’s its area?
+
+L2-cue_233
+00:17:39.146 --> 00:17:43.686
+It’s this base multiplied by this height.
+
+L2-cue_234
+00:17:43.686 --> 00:17:50.676
+And what about the other triangle, which is the triangle in motion from 2 to 3?
+
+L2-cue_235
+00:17:50.676 --> 00:17:54.816
+It’s this base times the same altitude: the two triangles have the same altitude,
+
+L2-cue_236
+00:17:54.816 --> 00:17:57.576
+and as I indicated, the same base and have the same area.
+
+L2-cue_237
+00:17:57.576 --> 00:17:59.086
+So, so far so good.
+
+L2-cue_238
+00:17:59.086 --> 00:18:03.156
+If there were no force from the sun, equal areas would be swept out in equal times;
+
+L2-cue_239
+00:18:03.156 --> 00:18:04.846
+the two triangles have equal areas.
+
+L2-cue_240
+00:18:04.846 --> 00:18:08.706
+But there is a force from the sun, and during this interval from 1 to 2
+
+L2-cue_241
+00:18:08.706 --> 00:18:11.576
+to 3 the sun is pulling and changing the motion
+
+L2-cue_242
+00:18:11.576 --> 00:18:14.826
+in various directions—this way, this way, that way.
+
+L2-cue_243
+00:18:14.826 --> 00:18:18.986
+#To get a good approximation to that, we’ll take the central position, or average position, here,
+
+L2-cue_244
+00:18:18.986 --> 00:18:24.086
+and say that the whole effect during this interval was to change the motion by some amount
+
+L2-cue_245
+00:18:24.086 --> 00:18:27.506
+in this direction, toward the sun.
+
+L2-cue_246
+00:18:27.506 --> 00:18:32.846
+That means that although the particles were moving this way, and would have moved this way
+
+L2-cue_247
+00:18:32.846 --> 00:18:39.056
+in the next second; because of the influence of the sun the motion is altered
+
+L2-cue_248
+00:18:39.056 --> 00:18:43.466
+by an amount that’s poking in this direction, that’s parallel to this,
+
+L2-cue_249
+00:18:43.466 --> 00:18:46.726
+exactly parallel—these lines are parallel.
+
+L2-cue_250
+00:18:46.726 --> 00:18:50.096
+It’s the direction in which this new motion—there’s a new motion,
+
+L2-cue_251
+00:18:50.096 --> 00:18:56.316
+a compound of what I wanted to do and the change that’s been induced by the action of the sun.
+
+L2-cue_252
+00:18:56.316 --> 00:19:00.546
+So it doesn’t really end up at position 3, but rather at position 4.
+
+L2-cue_253
+00:19:00.546 --> 00:19:06.676
+#So now we would like to compare (it’s getting complicated in the diagram) the triangle 2—4—S
+
+L2-cue_254
+00:19:06.676 --> 00:19:10.016
+and 2-3-S-I show you that those are equal.
+
+L2-cue_255
+00:19:10.016 --> 00:19:13.906
+Because they have the same base [2—S] those two triangles—this one here,
+
+L2-cue_256
+00:19:13.906 --> 00:19:16.516
+and the one that happened when we had no force; the one with force,
+
+L2-cue_257
+00:19:16.516 --> 00:19:18.566
+and with no force have the same base.
+
+L2-cue_258
+00:19:18.566 --> 00:19:19.726
+And do they have the same altitude?
+
+L2-cue_259
+00:19:19.726 --> 00:19:22.816
+Sure—because they’re included between parallel lines [2—S and 3—4],
+
+L2-cue_260
+00:19:22.816 --> 00:19:25.186
+and so they have the same altitude.
+
+L2-cue_261
+00:19:25.186 --> 00:19:29.126
+And thus the area of the last triangle I drew [S—2—4] is the same
+
+L2-cue_262
+00:19:29.126 --> 00:19:31.246
+as the second one I drew, this [S]—2—3.
+
+L2-cue_263
+00:19:31.246 --> 00:19:33.416
+And that, I had proved earlier, was the same as the first one [S—1—2].
+
+L2-cue_264
+00:19:33.416 --> 00:19:38.296
+So in the actual orbital motion of the planet, the areas—you have the first
+
+L2-cue_265
+00:19:38.296 --> 00:19:42.056
+in the first second, and in the second second—are equal.
+
+L2-cue_266
+00:19:42.056 --> 00:19:45.506
+#So by reasoning we can see a connection between the the fact
+
+L2-cue_267
+00:19:45.506 --> 00:19:52.606
+that that the force is toward the sun, and that the areas are equal.
+
+L2-cue_268
+00:19:52.606 --> 00:19:53.376
+Ingenious, no?
+
+L2-cue_269
+00:19:53.376 --> 00:19:56.666
+I borrowed this from Newton: it comes right out of the Principia, diagram and all.
+
+L2-cue_270
+00:19:56.666 --> 00:20:01.716
+The letters are different, that’s all—because he wrote in Latin.
+
+L2-cue_271
+00:20:01.716 --> 00:20:04.416
+(These are Arabic numerals.)
+
+L2-cue_272
+00:20:04.416 --> 00:20:11.226
+#Incidentally, Newton made his proof geometrical like this, and made all his proofs
+
+L2-cue_273
+00:20:11.226 --> 00:20:13.596
+in his book geometrical, of this type.
+
+L2-cue_274
+00:20:13.596 --> 00:20:19.086
+Today, we don’t use that kind of reasoning; we use a kind of analytic reasoning with symbols.
+
+L2-cue_275
+00:20:19.086 --> 00:20:23.626
+This [geometrical] kind of reasoning requires an ingenuity—to draw the right triangles (the
+
+L2-cue_276
+00:20:23.626 --> 00:20:27.856
+correct triangles, I mean) to notice about the areas—and to figure
+
+L2-cue_277
+00:20:27.856 --> 00:20:29.716
+out how to do it, you have to be clever.
+
+L2-cue_278
+00:20:29.716 --> 00:20:32.416
+But there have been improvements in the methods of analysis,
+
+L2-cue_279
+00:20:32.416 --> 00:20:38.756
+so that one can be quite more stupid—and I write much faster, and much more efficient, then.
+
+L2-cue_280
+00:20:38.756 --> 00:20:45.016
+I want only to show what it looks like in the notation of the more modern mathematics,
+
+L2-cue_281
+00:20:45.016 --> 00:20:48.526
+where you don’t do anything but write a lot of symbols to figure it out.
+
+L2-cue_282
+00:20:48.526 --> 00:20:51.806
+#First, we would like to talk about how fast the area changes,
+
+L2-cue_283
+00:20:51.806 --> 00:20:54.166
+and we represent that by "area dot".
+
+L2-cue_284
+00:20:54.166 --> 00:21:01.226
+And the area changes, because when the radius is swinging, it’s the component of velocity
+
+L2-cue_285
+00:21:01.226 --> 00:21:05.386
+at right angles to the radius, times the radius, that tells how fast the area changes.
+
+L2-cue_286
+00:21:05.386 --> 00:21:10.846
+So this is the component of the radial distance, multiplied by the velocity,
+
+L2-cue_287
+00:21:10.846 --> 00:21:13.916
+or rate of change of the distance.
+
+L2-cue_288
+00:21:13.916 --> 00:21:17.846
+#Now, the question is, whether the rate of change of area itself changes.
+
+L2-cue_289
+00:21:17.846 --> 00:21:20.436
+The principle, is it’s not supposed to change; the rate of change
+
+L2-cue_290
+00:21:20.436 --> 00:21:23.296
+of area is not supposed to change.
+
+L2-cue_291
+00:21:23.296 --> 00:21:26.846
+So we differentiate (so called) this again; it means some little trick
+
+L2-cue_292
+00:21:26.846 --> 00:21:29.116
+about putting dots in the right place.
+
+L2-cue_293
+00:21:29.116 --> 00:21:36.496
+And that’s all; you have to learn the tricks—it’s just a series of rules
+
+L2-cue_294
+00:21:36.496 --> 00:21:39.626
+that people have found out that are very powerful for such a thing.
+
+L2-cue_295
+00:21:39.626 --> 00:21:43.476
+And this says, the component of the velocity at right angles to the velocity:
+
+L2-cue_296
+00:21:43.476 --> 00:21:47.596
+it is none-there is none; the velocity is in the same direction as itself.
+
+L2-cue_297
+00:21:47.596 --> 00:21:52.166
+And the acceleration, which is this thing, the second derivative,
+
+L2-cue_298
+00:21:52.166 --> 00:21:56.246
+or the derivative of velocity, is the force divided by the mass.
+
+L2-cue_299
+00:21:56.246 --> 00:22:00.316
+#So this says that the rate of change of the rate of change of the area is the component
+
+L2-cue_300
+00:22:00.316 --> 00:22:02.676
+of force at right angles to the radius.
+
+L2-cue_301
+00:22:02.676 --> 00:22:07.266
+But if the force is in a direction of the radius, as Newton said, then there’s no force
+
+L2-cue_302
+00:22:07.266 --> 00:22:13.406
+at right angles to the radius and that means that the rate of change of area doesn’t change.
+
+L2-cue_303
+00:22:13.406 --> 00:22:17.556
+#I just wanted to illustrate the different kinds of notation.
+
+L2-cue_304
+00:22:17.556 --> 00:22:21.426
+#Now, Newton knew how to do this, more or less, with slightly different notation,
+
+L2-cue_305
+00:22:21.426 --> 00:22:23.846
+but he wrote everything this way because he tried
+
+L2-cue_306
+00:22:23.846 --> 00:22:26.916
+to make it possible for people to read his papers.
+
+L2-cue_307
+00:22:26.916 --> 00:22:31.016
+He invented the calculus, which is this kind of mathematics, and is a good illustration
+
+L2-cue_308
+00:22:31.016 --> 00:22:33.096
+of the relation of mathematics to physics.
+
+L2-cue_309
+00:22:33.096 --> 00:22:38.076
+#When the problems in physics get difficult, we may often look to the mathematicians
+
+L2-cue_310
+00:22:38.076 --> 00:22:41.786
+who have already studied such a thing, and have reasoned about such an item before,
+
+L2-cue_311
+00:22:41.786 --> 00:22:44.276
+and have prepared a line of reasoning for us to follow.
+
+L2-cue_312
+00:22:44.276 --> 00:22:47.626
+On the other hand, they may not have—in which case we have to invent our own line
+
+L2-cue_313
+00:22:47.626 --> 00:22:50.406
+of reasoning, which will then pass back to the mathematicians,
+
+L2-cue_314
+00:22:50.406 --> 00:22:55.596
+because everybody who reasons carefully about anything is making a contribution
+
+L2-cue_315
+00:22:55.596 --> 00:22:57.946
+to the knowledge of what happens when you think about something.
+
+L2-cue_316
+00:22:57.946 --> 00:23:01.146
+And if you abstract it away, and send it to the department of mathematics,
+
+L2-cue_317
+00:23:01.146 --> 00:23:05.956
+they put it in the books as a branch of mathematics.
+
+L2-cue_318
+00:23:05.956 --> 00:23:10.226
+#Mathematics, then, is a way of going from one set of statements to another.
+
+L2-cue_319
+00:23:10.226 --> 00:23:15.066
+It’s evidently useful in physics, because we have all these different ways
+
+L2-cue_320
+00:23:15.066 --> 00:23:20.796
+that we could speak of things, and it permits us to develop consequences, and analyze situations,
+
+L2-cue_321
+00:23:20.796 --> 00:23:25.506
+and change the laws in different ways, and to connect all the various statements.
+
+L2-cue_322
+00:23:25.506 --> 00:23:29.506
+So that, as a matter of fact, the total amount that a physicist knows is very little:
+
+L2-cue_323
+00:23:29.506 --> 00:23:31.946
+he has only to remember the rules for getting from one place
+
+L2-cue_324
+00:23:31.946 --> 00:23:37.046
+to another, and he’s able to do it then.
+
+L2-cue_325
+00:23:37.046 --> 00:23:39.956
+#In other words, all of the various statements—about equal times,
+
+L2-cue_326
+00:23:39.956 --> 00:23:44.116
+the forces in a direction of the radius, and so on—are all interconnected by reasoning.
+
+L2-cue_327
+00:23:44.116 --> 00:23:48.116
+Now, an interesting question comes up: is there some pattern to it?
+
+L2-cue_328
+00:23:48.116 --> 00:23:54.056
+Is there a place to begin—fundamental principles—and deduce the whole works?
+
+L2-cue_329
+00:23:54.056 --> 00:23:57.576
+Or, is there some particular pattern, or order in nature, in which we can understand
+
+L2-cue_330
+00:23:57.576 --> 00:24:02.816
+that these are more fundamental statements, and these are more consequential statements?
+
+L2-cue_331
+00:24:02.816 --> 00:24:06.586
+#There are two kinds of ways of looking at mathematics, which for the purpose
+
+L2-cue_332
+00:24:06.586 --> 00:24:11.256
+of this lecture I will call the Babylonian tradition, and the Greek tradition.
+
+L2-cue_333
+00:24:11.256 --> 00:24:15.606
+In Babylonian schools in mathematics, the student would learn something
+
+L2-cue_334
+00:24:15.606 --> 00:24:20.986
+by doing a large number of examples, until he caught onto the general rule.
+
+L2-cue_335
+00:24:20.986 --> 00:24:27.666
+Also, a large amount of geometry was known—a lot of properties of circles, Theorem of Pythagoras,
+
+L2-cue_336
+00:24:27.666 --> 00:24:34.466
+formulas for the areas of cubes and triangles and everything else—and some degree
+
+L2-cue_337
+00:24:34.466 --> 00:24:40.886
+of argument was available to go from one thing to another.
+
+L2-cue_338
+00:24:40.886 --> 00:24:45.626
+Tables of numerical quantities were available so that you could solve elaborate equations
+
+L2-cue_339
+00:24:45.626 --> 00:24:50.246
+and so on-everything was prepared for calculating things out.
+
+L2-cue_340
+00:24:50.246 --> 00:24:55.696
+But Euclid discovered that there was a way in which all of the theorems
+
+L2-cue_341
+00:24:55.696 --> 00:24:59.136
+of geometry could be ordered from a set of axioms
+
+L2-cue_342
+00:24:59.136 --> 00:25:03.686
+that were particularly simple—and you’re all familiar with that much geometry, I’m sure.
+
+L2-cue_343
+00:25:03.686 --> 00:25:09.716
+#But the Babylonian attitude was—if I make my way of talking what I call Babylonian mathematics—is
+
+L2-cue_344
+00:25:09.716 --> 00:25:13.086
+that you know all these various theorems and many of the connections in between,
+
+L2-cue_345
+00:25:13.086 --> 00:25:18.286
+but you’ve never really realized that it could all come up from a bunch of axioms.
+
+L2-cue_346
+00:25:18.286 --> 00:25:23.866
+#Modern mathematics, the most modern mathematics, concentrates on axioms and demonstrations
+
+L2-cue_347
+00:25:23.866 --> 00:25:27.126
+within a very definite framework of conventions
+
+L2-cue_348
+00:25:27.126 --> 00:25:29.786
+of what’s acceptable and not acceptable as axioms.
+
+L2-cue_349
+00:25:29.786 --> 00:25:34.196
+For example, in geometry, it takes something like Euclid’s axioms (modified
+
+L2-cue_350
+00:25:34.196 --> 00:25:37.806
+to be made more perfect), and then to show the deduction of the system.
+
+L2-cue_351
+00:25:37.806 --> 00:25:41.926
+For instance, it would not be expected that a theorem like Pythagoras’—that the sum
+
+L2-cue_352
+00:25:41.926 --> 00:25:46.156
+of the squares (of the areas of squares) put on the sides of the triangle will equal the area
+
+L2-cue_353
+00:25:46.156 --> 00:25:49.526
+of a square on a hypotenuse—should be an axiom.
+
+L2-cue_354
+00:25:49.526 --> 00:25:53.606
+#On the other hand, from another point of view of geometry—that
+
+L2-cue_355
+00:25:53.606 --> 00:25:56.336
+of Descartes-the Pythagorean Theorem is an axiom.
+
+L2-cue_356
+00:25:56.336 --> 00:26:00.096
+So the first thing we have to worry about is that, even in mathematics,
+
+L2-cue_357
+00:26:00.096 --> 00:26:02.226
+you can start in different places.
+
+L2-cue_358
+00:26:02.226 --> 00:26:07.196
+Because all these various theorems are interconnected by reasoning,
+
+L2-cue_359
+00:26:07.196 --> 00:26:12.056
+there isn’t any real way to say, "Well, these on the bottom, here, are the bottom,
+
+L2-cue_360
+00:26:12.056 --> 00:26:14.146
+and these are connected through logic."
+
+L2-cue_361
+00:26:14.146 --> 00:26:16.396
+Because if you were told this one instead, or this one,
+
+L2-cue_362
+00:26:16.396 --> 00:26:18.156
+you could also run the logic the other way,
+
+L2-cue_363
+00:26:18.156 --> 00:26:20.796
+if you weren’t told that one, and work out that one.
+
+L2-cue_364
+00:26:20.796 --> 00:26:26.016
+It’s like a bridge with lots of members, and it’s overconnected: if pieces have dropped out,
+
+L2-cue_365
+00:26:26.016 --> 00:26:28.936
+you can reconnect it another way.
+
+L2-cue_366
+00:26:28.936 --> 00:26:33.246
+#The mathematical tradition of today is to start with some particular ones,
+
+L2-cue_367
+00:26:33.246 --> 00:26:35.966
+which are chosen by some kind of convention to be axioms,
+
+L2-cue_368
+00:26:35.966 --> 00:26:38.176
+and then to build up the structure from there.
+
+L2-cue_369
+00:26:38.176 --> 00:26:44.396
+The "Babylonian" thing that I’m talking about (which I know is really not Babylonian) is
+
+L2-cue_370
+00:26:44.396 --> 00:26:48.186
+to say, "Well, I happen to know this, and I happen to know that, and maybe I know that,
+
+L2-cue_371
+00:26:48.186 --> 00:26:49.576
+and I work everything out from there.
+
+L2-cue_372
+00:26:49.576 --> 00:26:53.346
+And then tomorrow I forgot that this was true, but I remembered that this was true,
+
+L2-cue_373
+00:26:53.346 --> 00:26:57.976
+and then I reconstruct it again, and so on—I’m never quite sure of where I’m supposed to begin,
+
+L2-cue_374
+00:26:57.976 --> 00:27:02.276
+and where I’m supposed to end; I just remember enough all the time so that as the memory fades,
+
+L2-cue_375
+00:27:02.276 --> 00:27:09.926
+and the pieces fall out, I put this thing back together again every day.
+
+L2-cue_376
+00:27:09.926 --> 00:27:15.826
+#The method of starting from the axioms is not efficient in obtaining the theorems;
+
+L2-cue_377
+00:27:15.826 --> 00:27:18.716
+in working something out in geometry, you’re not very efficient
+
+L2-cue_378
+00:27:18.716 --> 00:27:20.596
+if each time you have to start back at the axioms.
+
+L2-cue_379
+00:27:20.596 --> 00:27:24.986
+But if you have to remember a few things in the geometry, you can always get somewhere else;
+
+L2-cue_380
+00:27:24.986 --> 00:27:29.156
+it’s much more efficient to do it the other way: what the best axioms are,
+
+L2-cue_381
+00:27:29.156 --> 00:27:33.296
+are not exactly the same—in fact, are not ever the same—as the most efficient way
+
+L2-cue_382
+00:27:33.296 --> 00:27:36.806
+of getting around in the territory.
+
+L2-cue_383
+00:27:36.806 --> 00:27:41.056
+In physics, we need the Babylonian method, and not the Euclidean
+
+L2-cue_384
+00:27:41.056 --> 00:27:44.756
+or Greek method, and I would like to say why.
+
+L2-cue_385
+00:27:44.756 --> 00:27:49.136
+#The problem in the Euclidean method is to make something
+
+L2-cue_386
+00:27:49.136 --> 00:27:52.636
+about the axioms a little bit more interesting or important.
+
+L2-cue_387
+00:27:52.636 --> 00:27:56.016
+But the question that we have is, in the case of gravitation,
+
+L2-cue_388
+00:27:56.016 --> 00:28:00.906
+is it more important—is it more basic, is it more fundamental, is it a better axiom—to say
+
+L2-cue_389
+00:28:00.906 --> 00:28:07.726
+that the force is directed toward the sun, or to say that equal areas are swept in equal time?
+
+L2-cue_390
+00:28:07.726 --> 00:28:11.466
+#Well, from one point of view, the force is better,
+
+L2-cue_391
+00:28:11.466 --> 00:28:16.356
+because once I state what the forces are, I can deal with a system with many particles,
+
+L2-cue_392
+00:28:16.356 --> 00:28:19.056
+in which the orbits are no longer ellipses—because of the pull of one
+
+L2-cue_393
+00:28:19.056 --> 00:28:22.076
+on the other-and the theorem about equal areas fails.
+
+L2-cue_394
+00:28:22.076 --> 00:28:27.006
+Therefore, I think that the force law ought to be an axiom, instead of the other.
+
+L2-cue_395
+00:28:27.006 --> 00:28:29.436
+#On the other hand, the principle that equal times is swept
+
+L2-cue_396
+00:28:29.436 --> 00:28:34.536
+out in equal—equal areas are swept out in equal times—can be generalized, when there’s a system
+
+L2-cue_397
+00:28:34.536 --> 00:28:39.846
+of a large number of particles, to another theorem (which I had prepared to explain,
+
+L2-cue_398
+00:28:39.846 --> 00:28:42.676
+but I see I’m running out of time): there’s another statement,
+
+L2-cue_399
+00:28:42.676 --> 00:28:46.246
+which is a little more general than equal areas in equal time.
+
+L2-cue_400
+00:28:46.246 --> 00:28:47.836
+#Well, I have to state what it is.
+
+L2-cue_401
+00:28:47.836 --> 00:28:51.506
+It’s rather complicated to say, and it’s not quite as pretty as this one,
+
+L2-cue_402
+00:28:51.506 --> 00:28:58.356
+but it’s obviously the son of this one—I mean it’s the offspring.
+
+L2-cue_403
+00:28:58.356 --> 00:29:02.276
+If you look at all these particles—Jupiter, Saturn, the sun,
+
+L2-cue_404
+00:29:02.276 --> 00:29:05.856
+and all these things going around; lots of stars, or whatever they are,
+
+L2-cue_405
+00:29:05.856 --> 00:29:10.286
+all interacting with each other—and look at it from far away, and project it on a plane
+
+L2-cue_406
+00:29:10.286 --> 00:29:14.316
+like this picture, then everything is moving—this moving this way,
+
+L2-cue_407
+00:29:14.316 --> 00:29:16.266
+and that moving that way, and so on.
+
+L2-cue_408
+00:29:16.266 --> 00:29:23.626
+#Then take any point at all—say this point—and then calculate how much each one is changing its
+
+L2-cue_409
+00:29:23.626 --> 00:29:26.536
+area-how much area is being swept out by the radius
+
+L2-cue_410
+00:29:26.536 --> 00:29:30.606
+to every particle, and add them all together.
+
+L2-cue_411
+00:29:30.606 --> 00:29:36.296
+But wait: those masses which are heavier—this is twice as heavy as this one;
+
+L2-cue_412
+00:29:36.296 --> 00:29:39.246
+then this area counts twice as much.
+
+L2-cue_413
+00:29:39.246 --> 00:29:42.676
+So you count each of the areas that are being swept out in proportion
+
+L2-cue_414
+00:29:42.676 --> 00:29:47.776
+to the mass that’s doing the sweeping, and the total of all of that is not changing
+
+L2-cue_415
+00:29:47.776 --> 00:29:50.936
+in time-that’s a generalization, obviously, of the other one.
+
+L2-cue_416
+00:29:50.936 --> 00:29:54.876
+Incidentally, the total of that is called the angular momentum, and this is called the law
+
+L2-cue_417
+00:29:54.876 --> 00:29:56.636
+of conservation of angular momentum.
+
+L2-cue_418
+00:29:56.636 --> 00:30:01.646
+("Conservation" just means that it doesn’t change.)
+
+L2-cue_419
+00:30:01.646 --> 00:30:07.396
+#Now, one of the consequences of this is—just to show what it’s good for—imagine a lot
+
+L2-cue_420
+00:30:07.396 --> 00:30:11.666
+of stars falling together to form a nebula or a galaxy.
+
+L2-cue_421
+00:30:11.666 --> 00:30:17.676
+As they come closer in—if they were very far out, and moving slowly so there was a little bit
+
+L2-cue_422
+00:30:17.676 --> 00:30:22.856
+of area being generated but on very long arms (distances from the center),
+
+L2-cue_423
+00:30:22.856 --> 00:30:25.036
+then if the thing falls in, the distances
+
+L2-cue_424
+00:30:25.036 --> 00:30:31.426
+to the center are shorter now (if all the stars are now close in), then these radii are smaller.
+
+L2-cue_425
+00:30:31.426 --> 00:30:35.686
+And in order to sweep out the same area, they have to go a lot faster.
+
+L2-cue_426
+00:30:35.686 --> 00:30:40.476
+So as the things come in, they swing—swirl around—and thus we can roughly understand the
+
+L2-cue_427
+00:30:40.476 --> 00:30:42.826
+qualitative shape of the spiral nebulae.
+
+L2-cue_428
+00:30:42.826 --> 00:30:49.566
+#You can also understand, in the same way—exactly the same way—the way a skater spins:
+
+L2-cue_429
+00:30:49.566 --> 00:30:53.706
+when you start with a leg out, moving slowly, and as you pull the leg in,
+
+L2-cue_430
+00:30:53.706 --> 00:30:57.116
+it spins faster (because when the leg is out, it’s contributing, when it’s moving slowly,
+
+L2-cue_431
+00:30:57.116 --> 00:31:01.326
+a certain amount of area per second), and then, when it comes in,
+
+L2-cue_432
+00:31:01.326 --> 00:31:03.626
+to get the same area you have to go around faster.
+
+L2-cue_433
+00:31:03.626 --> 00:31:11.196
+But I didn’t prove it for the skater: the skater uses muscle force;
+
+L2-cue_434
+00:31:11.196 --> 00:31:15.946
+gravity is a different force—yet it’s proof for the skater.
+
+L2-cue_435
+00:31:15.946 --> 00:31:21.596
+#Now we have a problem: we can deduce often from one part of physics,
+
+L2-cue_436
+00:31:21.596 --> 00:31:24.676
+like the law of gravitation, a principle which turns
+
+L2-cue_437
+00:31:24.676 --> 00:31:28.616
+out to be much more valid than the derivation!
+
+L2-cue_438
+00:31:28.616 --> 00:31:32.116
+This doesn’t happen in mathematics—that theorems come out in places
+
+L2-cue_439
+00:31:32.116 --> 00:31:33.386
+where they’re not supposed to be.
+
+L2-cue_440
+00:31:33.386 --> 00:31:39.706
+In other words, if we were to say that the postulates of physics were this law
+
+L2-cue_441
+00:31:39.706 --> 00:31:44.276
+of gravitation, we could deduce the conservation of angular momentum, but only for gravitation.
+
+L2-cue_442
+00:31:44.276 --> 00:31:47.306
+But we discover experimentally that the conservation
+
+L2-cue_443
+00:31:47.306 --> 00:31:50.076
+of angular momentum is a much wider thing.
+
+L2-cue_444
+00:31:50.076 --> 00:31:55.056
+#Now, Newton had other postulates by which he could get the more general conservation law
+
+L2-cue_445
+00:31:55.056 --> 00:31:59.456
+of angular momentum, but Newtonian laws were wrong: there’s no forces;
+
+L2-cue_446
+00:31:59.456 --> 00:32:03.086
+it’s all a lot of baloney; the particles don’t have orbits, and so on.
+
+L2-cue_447
+00:32:03.086 --> 00:32:09.186
+Yet, the analog-the exact transformation of this principle about the area as the conservation
+
+L2-cue_448
+00:32:09.186 --> 00:32:15.066
+of angular momentum-is true for the atomic motions in quantum mechanics-and is still,
+
+L2-cue_449
+00:32:15.066 --> 00:32:17.896
+as far as we can tell today, exact.
+
+L2-cue_450
+00:32:17.896 --> 00:32:22.366
+#So we have these wide principles which sweep across all the different laws,
+
+L2-cue_451
+00:32:22.366 --> 00:32:27.386
+and if one takes too seriously his derivations, and feels that this is only valid
+
+L2-cue_452
+00:32:27.386 --> 00:32:31.166
+because this is valid, you cannot understand the interconnections
+
+L2-cue_453
+00:32:31.166 --> 00:32:32.966
+of the different branches of physics.
+
+L2-cue_454
+00:32:32.966 --> 00:32:38.406
+Someday, when physics is complete, then maybe with this kind of argument we know all the laws,
+
+L2-cue_455
+00:32:38.406 --> 00:32:41.976
+then we could start with some axioms—and no doubt somebody will figure out a particular way
+
+L2-cue_456
+00:32:41.976 --> 00:32:44.996
+of doing it, and then all of the deductions will be made.
+
+L2-cue_457
+00:32:44.996 --> 00:32:48.386
+But while we don’t know all the laws, we can use some to make guesses
+
+L2-cue_458
+00:32:48.386 --> 00:32:52.796
+at theorems, which extend beyond the proof.
+
+L2-cue_459
+00:32:52.796 --> 00:32:58.426
+#So in order to understand the physics, one must always have a neat balance and contain
+
+L2-cue_460
+00:32:58.426 --> 00:33:02.436
+in his head all of the various propositions and their interrelationships,
+
+L2-cue_461
+00:33:02.436 --> 00:33:05.836
+because the laws often extend beyond the range of their deductions.
+
+L2-cue_462
+00:33:05.836 --> 00:33:11.796
+This will only have no importance when all the laws are known.
+
+L2-cue_463
+00:33:11.796 --> 00:33:14.766
+#Another thing that’s interesting in the relation of mathematics
+
+L2-cue_464
+00:33:14.766 --> 00:33:22.606
+to physics is this—a very strange thing: that by mathematical arguments you can show
+
+L2-cue_465
+00:33:22.606 --> 00:33:25.726
+that you can start from very many different apparent starting points,
+
+L2-cue_466
+00:33:25.726 --> 00:33:27.546
+and come to the same thing.
+
+L2-cue_467
+00:33:27.546 --> 00:33:32.046
+That’s pretty clear, if you have axioms; you can use some of the theorems.
+
+L2-cue_468
+00:33:32.046 --> 00:33:37.686
+But actually, the physical laws are so delicately constructed that the statements
+
+L2-cue_469
+00:33:37.686 --> 00:33:40.956
+of them have such qualitatively different characters, that it’s very interesting.
+
+L2-cue_470
+00:33:40.956 --> 00:33:46.466
+#So, if you’ll permit me, I’m going to state the law of gravitation in three different ways—all
+
+L2-cue_471
+00:33:46.466 --> 00:33:52.026
+of which are exactly equivalent, it turns out—but they sound completely different.
+
+L2-cue_472
+00:33:52.026 --> 00:33:56.956
+#One: there’s the forces between the objects as described before, and each object,
+
+L2-cue_473
+00:33:56.956 --> 00:34:00.296
+when it sees the force on it, accelerates—or changes its motion,
+
+L2-cue_474
+00:34:00.296 --> 00:34:02.506
+rather—at a certain amount per second,
+
+L2-cue_475
+00:34:02.506 --> 00:34:05.636
+as I’ve described before—the regular way; I call it Newton’s Law.
+
+L2-cue_476
+00:34:05.636 --> 00:34:11.366
+#Now, there’s a completely different way: that law says that the force depends
+
+L2-cue_477
+00:34:11.366 --> 00:34:14.976
+on something at a finite distance away.
+
+L2-cue_478
+00:34:14.976 --> 00:34:17.606
+See, it has what we call an "unlocal" quality:
+
+L2-cue_479
+00:34:17.606 --> 00:34:20.196
+the force on this depends on where that one is over there.
+
+L2-cue_480
+00:34:20.196 --> 00:34:25.136
+Now, you may not like the idea of action at a distance—that it can "know" what’s going
+
+L2-cue_481
+00:34:25.136 --> 00:34:29.386
+on over there-so then there’s another way of stating the laws, which are very strange,
+
+L2-cue_482
+00:34:29.386 --> 00:34:34.446
+and it’s called the field way of representing the laws—and it’s so very hard to explain,
+
+L2-cue_483
+00:34:34.446 --> 00:34:37.626
+but I just want to give you some rough idea of what it’s like.
+
+L2-cue_484
+00:34:37.626 --> 00:34:42.446
+#And it says a different thing, a completely different thing: that there’s a number
+
+L2-cue_485
+00:34:42.446 --> 00:34:45.806
+at every point in space—I know it’s a number; it’s not a mechanism;
+
+L2-cue_486
+00:34:45.806 --> 00:34:48.786
+it’s the trouble with this whole physics, that it must be mathematical.
+
+L2-cue_487
+00:34:48.786 --> 00:34:54.316
+There’s a number at every point in space—here’s a number, here’s a number, and so on.
+
+L2-cue_488
+00:34:54.316 --> 00:34:58.476
+And the number is changing—it changes, rather—when you go from place to place.
+
+L2-cue_489
+00:34:58.476 --> 00:35:04.046
+If an object is placed at one of these points somewhere in space, the force on it is
+
+L2-cue_490
+00:35:04.046 --> 00:35:09.066
+in a direction in which that number—I’ll call it the name it’s given, called a potential—is
+
+L2-cue_491
+00:35:09.066 --> 00:35:13.286
+in the direction in which that potential changes as quick as it can.
+
+L2-cue_492
+00:35:13.286 --> 00:35:16.706
+And the force is proportional to how fast it changes as you move.
+
+L2-cue_493
+00:35:16.706 --> 00:35:20.036
+That’s one statement; that’s not enough, yet, because I have to tell you, now,
+
+L2-cue_494
+00:35:20.036 --> 00:35:22.956
+how to determine how the potential varies.
+
+L2-cue_495
+00:35:22.956 --> 00:35:27.056
+I could say the potential varies as 1 over the distance from each object,
+
+L2-cue_496
+00:35:27.056 --> 00:35:31.586
+but that’s back to the action—at—a—distance idea.
+
+L2-cue_497
+00:35:31.586 --> 00:35:34.926
+#However—the force is at a distance, but—you can state the law in another way,
+
+L2-cue_498
+00:35:34.926 --> 00:35:39.916
+and it says the following: you don’t have to know what’s going on anywhere outside
+
+L2-cue_499
+00:35:39.916 --> 00:35:45.076
+of a little ball; if you want to know what the potential is here, you tell me what it is
+
+L2-cue_500
+00:35:45.076 --> 00:35:49.166
+on the surface of any ball, no matter how small—you don’t have to look outside,
+
+L2-cue_501
+00:35:49.166 --> 00:35:49.956
+you just tell me what it is
+
+L2-cue_502
+00:35:49.956 --> 00:35:53.076
+in the neighborhood—and how much mass there is in the ball.
+
+L2-cue_503
+00:35:53.076 --> 00:36:01.956
+#The rule is this: that the potential at the center is equal to the average of the potential
+
+L2-cue_504
+00:36:01.956 --> 00:36:09.436
+on the little ball surface, minus this constant (that’s over there on the other equation),
+
+L2-cue_505
+00:36:09.436 --> 00:36:13.796
+divided by twice the radius of the ball (let’s suppose the radius of the ball is called a),
+
+L2-cue_506
+00:36:13.796 --> 00:36:19.736
+and then multiplied by the mass that’s inside the ball—if the ball is small enough.
+
+L2-cue_507
+00:36:19.736 --> 00:36:25.086
+#Now you see that this law is different than the other one, because it only tells what happens
+
+L2-cue_508
+00:36:25.086 --> 00:36:28.726
+at one point in terms of what happens very close by.
+
+L2-cue_509
+00:36:28.726 --> 00:36:32.806
+Newton’s laws tell what happens at one time in terms of what happens
+
+L2-cue_510
+00:36:32.806 --> 00:36:36.436
+at another instant—it skips from instant to instant, how to work it out—but
+
+L2-cue_511
+00:36:36.436 --> 00:36:39.016
+in space it leaps from place to place.
+
+L2-cue_512
+00:36:39.016 --> 00:36:43.406
+But this thing is both local in time, and also local in space,
+
+L2-cue_513
+00:36:43.406 --> 00:36:45.576
+because it depends only on what’s in the neighborhood.
+
+L2-cue_514
+00:36:45.576 --> 00:36:49.736
+#And [so] there’s another way
+
+L2-cue_515
+00:36:49.736 --> 00:36:53.426
+of representing—that’s another way—a completely different way.
+
+L2-cue_516
+00:36:53.426 --> 00:36:57.956
+See, there’s a difference in the philosophy, in the qualitative ideas involved.
+
+L2-cue_517
+00:36:57.956 --> 00:36:59.306
+You don’t like action at a distance?
+
+L2-cue_518
+00:36:59.306 --> 00:37:00.926
+You can get away without it.
+
+L2-cue_519
+00:37:00.926 --> 00:37:04.616
+#Now I’ll show you one which is philosophically the exact opposite,
+
+L2-cue_520
+00:37:04.616 --> 00:37:08.886
+in which there’s no discussion at all about how the thing works its way from place to place,
+
+L2-cue_521
+00:37:08.886 --> 00:37:12.546
+in which the whole thing is an overall statement, and goes as follows:
+
+L2-cue_522
+00:37:12.546 --> 00:37:18.246
+when you have other particles around, and you want to know how this one moves from one place
+
+L2-cue_523
+00:37:18.246 --> 00:37:24.176
+to another, you do it as follows.
+
+L2-cue_524
+00:37:24.176 --> 00:37:29.946
+#You calculate a certain quantity for—you invent a possible motion that gets from one given place
+
+L2-cue_525
+00:37:29.946 --> 00:37:33.656
+to some other place that you’re interested in, in a given amount of time.
+
+L2-cue_526
+00:37:33.656 --> 00:37:37.456
+Say it wants to go from here to here in an hour, and you want to know by what route it can get
+
+L2-cue_527
+00:37:37.456 --> 00:37:40.276
+from there to there in an hour—by what curve.
+
+L2-cue_528
+00:37:40.276 --> 00:37:44.906
+#So what you do is, you calculate a quantity, guessing the curve; if you try this curve,
+
+L2-cue_529
+00:37:44.906 --> 00:37:47.126
+you calculate a certain number for this quantity.
+
+L2-cue_530
+00:37:47.126 --> 00:37:51.636
+(I don’t want to just tell you what the quantity is, but for those who have heard of these terms,
+
+L2-cue_531
+00:37:51.636 --> 00:37:54.996
+this quantity on this route is the average of the difference
+
+L2-cue_532
+00:37:54.996 --> 00:37:58.266
+between the kinetic and potential energy.)
+
+L2-cue_533
+00:37:58.266 --> 00:38:03.166
+Now, if you calculate this quantity for this route, then for another route, you’ll get,
+
+L2-cue_534
+00:38:03.166 --> 00:38:06.376
+of course, different numbers for the answer.
+
+L2-cue_535
+00:38:06.376 --> 00:38:11.266
+But there’s one route which gives the least possible number for that,
+
+L2-cue_536
+00:38:11.266 --> 00:38:14.326
+and that’s the route that the particle takes.
+
+L2-cue_537
+00:38:14.326 --> 00:38:18.406
+#Now we’re describing the actual motion—the ellipse—by saying something
+
+L2-cue_538
+00:38:18.406 --> 00:38:20.486
+about the whole curve.
+
+L2-cue_539
+00:38:20.486 --> 00:38:23.506
+We have lost the idea of causality—that the particle is here,
+
+L2-cue_540
+00:38:23.506 --> 00:38:25.666
+it sees the pull, it moves to here.
+
+L2-cue_541
+00:38:25.666 --> 00:38:31.036
+Instead of that, in some grand fashion, it "smells" all the curves
+
+L2-cue_542
+00:38:31.036 --> 00:38:38.336
+around here—all the possibilities—and "decides" which one to take.
+
+L2-cue_543
+00:38:38.336 --> 00:38:43.886
+#This is an example of the wide range of beautiful ways of describing nature.
+
+L2-cue_544
+00:38:43.886 --> 00:38:47.766
+And that when people talk that nature must have causality—well,
+
+L2-cue_545
+00:38:47.766 --> 00:38:52.936
+you could talk about it this way; nature must be stated in terms of a minimum principle—well,
+
+L2-cue_546
+00:38:52.936 --> 00:38:58.896
+you can talk about it this way; nature must have a local field—so it can do that, and so on.
+
+L2-cue_547
+00:38:58.896 --> 00:39:03.836
+And the question is, which one is right?
+
+L2-cue_548
+00:39:03.836 --> 00:39:10.226
+#Now, if these various alternatives are mathematically not exactly equivalent,
+
+L2-cue_549
+00:39:10.226 --> 00:39:15.516
+and if for certain ones there will be different consequences than for others,
+
+L2-cue_550
+00:39:15.516 --> 00:39:19.466
+then that’s perfectly all right, because we have only to do the experiments to find
+
+L2-cue_551
+00:39:19.466 --> 00:39:24.096
+out which way nature actually chooses to do it.
+
+L2-cue_552
+00:39:24.096 --> 00:39:27.356
+Mostly, people come along and they argue philosophically they like this one better
+
+L2-cue_553
+00:39:27.356 --> 00:39:31.676
+than that one, but we have learned from much experience that all intuitions
+
+L2-cue_554
+00:39:31.676 --> 00:39:38.036
+about what nature’s going to do philosophically fail—it never works.
+
+L2-cue_555
+00:39:38.036 --> 00:39:42.636
+One just has to work out all the possibilities, and just try all the alternatives.
+
+L2-cue_556
+00:39:42.636 --> 00:39:45.636
+Now, in this particular case that I’m talking about here,
+
+L2-cue_557
+00:39:45.636 --> 00:39:48.696
+these theories are exactly equivalent.
+
+L2-cue_558
+00:39:48.696 --> 00:39:51.916
+The mathematical consequences in every one of the different formulations
+
+L2-cue_559
+00:39:51.916 --> 00:39:54.526
+of the three formulations—Newton’s laws, the local field method,
+
+L2-cue_560
+00:39:54.526 --> 00:39:59.096
+and this minimum principle—give exactly the same consequences.
+
+L2-cue_561
+00:39:59.096 --> 00:40:00.536
+What do we do then?
+
+L2-cue_562
+00:40:00.536 --> 00:40:04.696
+You will read in all the books that we therefore cannot decide scientifically
+
+L2-cue_563
+00:40:04.696 --> 00:40:06.886
+on one or the other.
+
+L2-cue_564
+00:40:06.886 --> 00:40:08.366
+That’s true.
+
+L2-cue_565
+00:40:08.366 --> 00:40:11.626
+#They’re not equivalent—they are equivalent, scientifically;
+
+L2-cue_566
+00:40:11.626 --> 00:40:16.736
+it is impossible to make a decision, because there’s no experimental way to distinguish
+
+L2-cue_567
+00:40:16.736 --> 00:40:19.376
+if all the consequences are the same.
+
+L2-cue_568
+00:40:19.376 --> 00:40:21.496
+Psychologically they’re very different in two ways.
+
+L2-cue_569
+00:40:21.496 --> 00:40:23.366
+First, philosophically, you like them or don’t
+
+L2-cue_570
+00:40:23.366 --> 00:40:29.296
+like them-training is the only thing you can do to beat that disease.
+
+L2-cue_571
+00:40:29.296 --> 00:40:36.136
+Second, psychologically they’re different because they’re completely unequivalent
+
+L2-cue_572
+00:40:36.136 --> 00:40:38.916
+when you go to guess at a new law.
+
+L2-cue_573
+00:40:38.916 --> 00:40:42.646
+As long as physics is incomplete, and we’re trying to find out the other laws,
+
+L2-cue_574
+00:40:42.646 --> 00:40:48.046
+and to understand the other laws, then the different possible formulations give clues
+
+L2-cue_575
+00:40:48.046 --> 00:40:50.156
+as to what might happen in another circumstance.
+
+L2-cue_576
+00:40:50.156 --> 00:40:55.536
+And they become not equivalent in psychologically suggesting to us to guess
+
+L2-cue_577
+00:40:55.536 --> 00:40:59.796
+as to what the laws might look like in a wider situation.
+
+L2-cue_578
+00:40:59.796 --> 00:41:05.456
+#For instance, Einstein noticed that the law of gravity—he said that he realized
+
+L2-cue_579
+00:41:05.456 --> 00:41:10.486
+that signals couldn’t propagate faster than the speed of light for light, [or] for electricity.
+
+L2-cue_580
+00:41:10.486 --> 00:41:14.506
+He guessed that it was a general principle—the same guessing game
+
+L2-cue_581
+00:41:14.506 --> 00:41:17.596
+as taking this angular momentum, and extending it from one case
+
+L2-cue_582
+00:41:17.596 --> 00:41:19.626
+where you proved it, to the rest of the universe.
+
+L2-cue_583
+00:41:19.626 --> 00:41:23.626
+He guessed that it was true of everything, and he guessed that it would be true of gravitation.
+
+L2-cue_584
+00:41:23.626 --> 00:41:29.016
+If the signals can’t go any faster than the speed of light, it turns out that the method
+
+L2-cue_585
+00:41:29.016 --> 00:41:32.406
+of describing the forces instantaneously is very poor.
+
+L2-cue_586
+00:41:32.406 --> 00:41:36.006
+And in the Einstein generalization of gravitation,
+
+L2-cue_587
+00:41:36.006 --> 00:41:41.976
+this method of describing physics is hopelessly inadequate and enormously complicated, whereas,
+
+L2-cue_588
+00:41:41.976 --> 00:41:46.756
+this one is neat and simple—and so is this one—so we haven’t decided between those two yet.
+
+L2-cue_589
+00:41:46.756 --> 00:41:52.726
+#In fact, it turns out that the quantum mechanics says that, exactly as I stated them,
+
+L2-cue_590
+00:41:52.726 --> 00:41:59.536
+neither is right—but the fact that a minimum principle exists turns out to be a consequence
+
+L2-cue_591
+00:41:59.536 --> 00:42:04.316
+of the fact that, on a small scale, particles obey quantum mechanics.
+
+L2-cue_592
+00:42:04.316 --> 00:42:09.966
+And the fact is, the best laws, as presently understood, are really a combination of the two,
+
+L2-cue_593
+00:42:09.966 --> 00:42:14.796
+in which we use minimum principles plus local force—local laws.
+
+L2-cue_594
+00:42:14.796 --> 00:42:19.596
+And present day believes that the laws of physics have to have the local character,
+
+L2-cue_595
+00:42:19.596 --> 00:42:28.836
+and also the minimum principle—but we don’t really know.
+
+L2-cue_596
+00:42:28.836 --> 00:42:36.056
+#So, it’s this way: if you have a structure that’s only partly accurate,
+
+L2-cue_597
+00:42:36.056 --> 00:42:40.326
+and something is going to fail, if you write it with just the right axioms,
+
+L2-cue_598
+00:42:40.326 --> 00:42:44.456
+maybe only one axiom fails—and the rest remain; you [only have to] change one little thing.
+
+L2-cue_599
+00:42:44.456 --> 00:42:47.196
+But if you write it with another set of axioms,
+
+L2-cue_600
+00:42:47.196 --> 00:42:50.996
+they all collapse, because they all lean on that.
+
+L2-cue_601
+00:42:50.996 --> 00:42:55.656
+But we can’t tell ahead of time, without some intuition and guesswork,
+
+L2-cue_602
+00:42:55.656 --> 00:42:58.876
+as to which is the best way to write it, until we find out the new situation.
+
+L2-cue_603
+00:42:58.876 --> 00:43:02.646
+So we must, therefore, always keep all of the alternative ways of looking at the thing
+
+L2-cue_604
+00:43:02.646 --> 00:43:08.526
+in our heads; so the physicists do "Babylonian" mathematics, and pay little attention
+
+L2-cue_605
+00:43:08.526 --> 00:43:13.226
+to the precise reasoning from fixed axioms.
+
+L2-cue_606
+00:43:13.226 --> 00:43:16.486
+#One of the amazing characteristics of nature is this variety
+
+L2-cue_607
+00:43:16.486 --> 00:43:19.466
+of interpretational schemes which is possible.
+
+L2-cue_608
+00:43:19.466 --> 00:43:23.626
+It turns out that it’s only possible because the laws are just so, and special, and delicate.
+
+L2-cue_609
+00:43:23.626 --> 00:43:28.756
+For instance, that the law is the inverse square is what permits it
+
+L2-cue_610
+00:43:28.756 --> 00:43:33.186
+to become local-if it were the inverse cube, it couldn’t be done this way.
+
+L2-cue_611
+00:43:33.186 --> 00:43:36.676
+That the other end of the equation—that the force is related to the rate of change
+
+L2-cue_612
+00:43:36.676 --> 00:43:44.386
+of the velocity-that permits this kind of a way of writing the laws (the minimum principle),
+
+L2-cue_613
+00:43:44.386 --> 00:43:49.086
+because if, for instance, the force were proportional to the rate of change
+
+L2-cue_614
+00:43:49.086 --> 00:43:54.596
+of position instead of velocity, you couldn’t write it in that way.
+
+L2-cue_615
+00:43:54.596 --> 00:43:59.256
+If you try to modify the laws much, you find you can only write them in very much fewer ways.
+
+L2-cue_616
+00:43:59.256 --> 00:44:03.906
+I always find that mysterious—and I don’t understand the reason why it is—that the laws
+
+L2-cue_617
+00:44:03.906 --> 00:44:08.336
+of physics always seem to be possible to be expressed in such a tremendous variety
+
+L2-cue_618
+00:44:08.336 --> 00:44:18.596
+of ways-they seem to be able to get through several wickets at the same time.
+
+L2-cue_619
+00:44:18.596 --> 00:44:22.876
+#Now, I would like to make a number of remarks on the relation of mathematics
+
+L2-cue_620
+00:44:22.876 --> 00:44:25.596
+and physics, which are a little more general.
+
+L2-cue_621
+00:44:25.596 --> 00:44:33.016
+The first is, that the mathematicians only are dealing with the structure of the reasoning,
+
+L2-cue_622
+00:44:33.016 --> 00:44:37.216
+and they do not really care about what they’re talking.
+
+L2-cue_623
+00:44:37.216 --> 00:44:39.886
+They don’t even need to know what they’re talking about—or,
+
+L2-cue_624
+00:44:39.886 --> 00:44:43.306
+as they themselves say, whether what they say is true.
+
+L2-cue_625
+00:44:43.306 --> 00:44:44.866
+Now, I explain that.
+
+L2-cue_626
+00:44:44.866 --> 00:44:50.136
+#If you state the axioms—you say: such—and—such is so, and such—and—such is so,
+
+L2-cue_627
+00:44:50.136 --> 00:44:54.956
+and such—and—such is so; what then?—then the logic can be carried
+
+L2-cue_628
+00:44:54.956 --> 00:45:00.396
+out without knowing what the "such—and—such" words mean.
+
+L2-cue_629
+00:45:00.396 --> 00:45:07.356
+That is, if the statements about the axioms are carefully formulated, and are complete enough,
+
+L2-cue_630
+00:45:07.356 --> 00:45:09.516
+it is not necessary for the man who is doing the reasoning
+
+L2-cue_631
+00:45:09.516 --> 00:45:12.736
+to have any knowledge of the meaning of these words.
+
+L2-cue_632
+00:45:12.736 --> 00:45:17.106
+#And he’ll be able to deduce, in the same language, new conclusions:
+
+L2-cue_633
+00:45:17.106 --> 00:45:20.146
+if I use the word "triangle" in one of the axioms, there’d be some statement
+
+L2-cue_634
+00:45:20.146 --> 00:45:21.916
+about "triangles" in the conclusion.
+
+L2-cue_635
+00:45:21.916 --> 00:45:25.556
+Whereas, the man who’s doing the reasoning might not know what the "triangle" is.
+
+L2-cue_636
+00:45:25.556 --> 00:45:28.216
+But then I can read his thing back and say, "Oh, a triangle—well,
+
+L2-cue_637
+00:45:28.216 --> 00:45:32.556
+that’s just a three—sided what—have—you that’s a so—and—so"—and so I know this new fact.
+
+L2-cue_638
+00:45:32.556 --> 00:45:36.996
+In other words, mathematicians prepare abstract reasoning that’s ready to be used
+
+L2-cue_639
+00:45:36.996 --> 00:45:40.116
+if you will only have a set of axioms about the real world.
+
+L2-cue_640
+00:45:40.116 --> 00:45:43.716
+But the physicist has meaning to all the phrases.
+
+L2-cue_641
+00:45:43.716 --> 00:45:47.576
+#And there’s a very important thing that the people who—a lot of people who—study physics
+
+L2-cue_642
+00:45:47.576 --> 00:45:51.456
+that come from mathematics don’t appreciate: that physics is not mathematics,
+
+L2-cue_643
+00:45:51.456 --> 00:45:56.026
+and mathematics is not physics; one helps the other.
+
+L2-cue_644
+00:45:56.026 --> 00:45:59.616
+#But [In physics] you have to have some understanding of the connection of the words
+
+L2-cue_645
+00:45:59.616 --> 00:46:04.316
+with the real world: it’s necessary, at the end, to translate what you figured
+
+L2-cue_646
+00:46:04.316 --> 00:46:10.286
+out into English-into the world, into the blocks of copper and glass that you’re going
+
+L2-cue_647
+00:46:10.286 --> 00:46:14.686
+to do the experiments with—to find out whether the consequences are true.
+
+L2-cue_648
+00:46:14.686 --> 00:46:21.916
+This is a problem which is not a problem with mathematics at all.
+
+L2-cue_649
+00:46:21.916 --> 00:46:24.856
+#I’ve already mentioned the only other relationship that—of course,
+
+L2-cue_650
+00:46:24.856 --> 00:46:27.616
+it’s obvious how the mathematical reasonings which have been developed are
+
+L2-cue_651
+00:46:27.616 --> 00:46:31.396
+of great power and use for physicists.
+
+L2-cue_652
+00:46:31.396 --> 00:46:37.356
+On the other hand, sometimes the physicist’s reasoning is useful for mathematicians.
+
+L2-cue_653
+00:46:37.356 --> 00:46:42.046
+Mathematicians also like to make their reasoning as general as possible.
+
+L2-cue_654
+00:46:42.046 --> 00:46:45.586
+If you say I have a three dimensional space—an ordinary space,
+
+L2-cue_655
+00:46:45.586 --> 00:46:48.796
+I want to talk about ordinary space, you know, you’re in it, you measure distances
+
+L2-cue_656
+00:46:48.796 --> 00:46:52.636
+and there are three numbers you need to tell where something is, you go breadth,
+
+L2-cue_657
+00:46:52.636 --> 00:46:58.086
+width and height, three dimensional space—and you begin to ask him about theorems.
+
+L2-cue_658
+00:46:58.086 --> 00:47:02.456
+Then they say, "Now look, if you had a space of n dimensions, then here are the theorems."
+
+L2-cue_659
+00:47:02.456 --> 00:47:04.136
+"Well, yeah, but I only want the case 3."
+
+L2-cue_660
+00:47:04.136 --> 00:47:14.896
+"Well, substitute n = 3"—and then it turns out that very many
+
+L2-cue_661
+00:47:14.896 --> 00:47:17.336
+of the complicated theorems they have are much simpler,
+
+L2-cue_662
+00:47:17.336 --> 00:47:19.546
+because it happens to be a special case.
+
+L2-cue_663
+00:47:19.546 --> 00:47:23.176
+#Now, the physicist is always interested in the special case;
+
+L2-cue_664
+00:47:23.176 --> 00:47:25.976
+he’s never interested in the general case.
+
+L2-cue_665
+00:47:25.976 --> 00:47:31.846
+He’s talking about something; he’s not talking abstractly about anything;
+
+L2-cue_666
+00:47:31.846 --> 00:47:36.106
+he knows what he’s talking about: he wants to discuss the gravity law;
+
+L2-cue_667
+00:47:36.106 --> 00:47:39.916
+he doesn’t want the arbitrary force case; he wants the gravity law.
+
+L2-cue_668
+00:47:39.916 --> 00:47:43.366
+And so there’s a certain amount of reducing
+
+L2-cue_669
+00:47:43.366 --> 00:47:46.566
+because the mathematicians have prepared these things for a wide range
+
+L2-cue_670
+00:47:46.566 --> 00:47:48.326
+of problems, which is very useful.
+
+L2-cue_671
+00:47:48.326 --> 00:47:52.476
+And later on, it always turns out that the poor physicist has to come back and say, "Excuse me,
+
+L2-cue_672
+00:47:52.476 --> 00:48:11.476
+when you wanted to tell me about the four dimensions..."
+
+L2-cue_673
+00:48:11.476 --> 00:48:13.446
+#Now, another item that’s interesting
+
+L2-cue_674
+00:48:13.446 --> 00:48:18.866
+in this relationship is the question of how to do new physics.
+
+L2-cue_675
+00:48:18.866 --> 00:48:23.986
+Is it important to have a feeling, a kind of intuition—oh, I must mention one other item:
+
+L2-cue_676
+00:48:23.986 --> 00:48:27.246
+when you know what it is you’re talking about—that these things are forces,
+
+L2-cue_677
+00:48:27.246 --> 00:48:31.516
+and these are masses, and this is inertia, and this is so on—then you can use an awful lot
+
+L2-cue_678
+00:48:31.516 --> 00:48:35.956
+of commonsense seat—of—the—pants feeling about the world: you’ve seen various things;
+
+L2-cue_679
+00:48:35.956 --> 00:48:39.666
+you know more or less how the phenomenon is going to behave.
+
+L2-cue_680
+00:48:39.666 --> 00:48:42.736
+#Well, the poor mathematician, he translates it into equations,
+
+L2-cue_681
+00:48:42.736 --> 00:48:45.516
+and the symbols don’t mean anything to him, and he has no guide
+
+L2-cue_682
+00:48:45.516 --> 00:48:49.386
+but precise mathematical rigor and care in the argument.
+
+L2-cue_683
+00:48:49.386 --> 00:48:52.726
+Whereas the physicist, who knows more or less how the answer is going to come out,
+
+L2-cue_684
+00:48:52.726 --> 00:48:58.566
+can sort of guess part way and go right along rather rapidly—the mathematical rigor
+
+L2-cue_685
+00:48:58.566 --> 00:49:03.666
+of great precision is not very useful in the physics, nor is the modern attitude
+
+L2-cue_686
+00:49:03.666 --> 00:49:05.956
+in mathematics to look at axioms.
+
+L2-cue_687
+00:49:05.956 --> 00:49:08.226
+#Now, mathematicians can do what they want to do.
+
+L2-cue_688
+00:49:08.226 --> 00:49:11.966
+One should not criticize them, because they are not slaves to physics.
+
+L2-cue_689
+00:49:11.966 --> 00:49:16.256
+It is not necessary that, just because this would be useful to you, they have to do it
+
+L2-cue_690
+00:49:16.256 --> 00:49:21.096
+that way; they can do what they will—it’s their own job—and
+
+L2-cue_691
+00:49:21.096 --> 00:49:24.386
+if you want something else, then you work it out yourself.
+
+L2-cue_692
+00:49:24.386 --> 00:49:32.016
+#The next point is the question of whether we should guess, when we try to get a new law,
+
+L2-cue_693
+00:49:32.016 --> 00:49:36.096
+whether we should use a seat—of—the—pants feeling, and philosophical principle—I don’t
+
+L2-cue_694
+00:49:36.096 --> 00:49:41.336
+like a minimum principle, or I do like a minimum principle; or I don’t like action at a distance,
+
+L2-cue_695
+00:49:41.336 --> 00:49:47.506
+or I do like action—the question is, to what extent models help.
+
+L2-cue_696
+00:49:47.506 --> 00:49:52.596
+It’s a very interesting thing: very often, models help—and most physics teachers try
+
+L2-cue_697
+00:49:52.596 --> 00:49:55.556
+to teach how to use these models and get a good "physical feel"
+
+L2-cue_698
+00:49:55.556 --> 00:49:58.326
+for how things are going to work out.
+
+L2-cue_699
+00:49:58.326 --> 00:50:01.506
+But the greatest discoveries, it always turns out,
+
+L2-cue_700
+00:50:01.506 --> 00:50:03.766
+abstract away from the model; it never did any good.
+
+L2-cue_701
+00:50:03.766 --> 00:50:08.686
+Maxwell’s discovery of electrodynamics was first made with a lot of imaginary wheels and idlers
+
+L2-cue_702
+00:50:08.686 --> 00:50:11.506
+and everything else in space; if you got rid of all the idlers
+
+L2-cue_703
+00:50:11.506 --> 00:50:14.886
+and everything else in space, the thing was okay.
+
+L2-cue_704
+00:50:14.886 --> 00:50:17.496
+Dirac discovered the correct laws
+
+L2-cue_705
+00:50:17.496 --> 00:50:22.736
+of quantum mechanics—for relativity quantum mechanics—simply by guessing the equation.
+
+L2-cue_706
+00:50:22.736 --> 00:50:28.336
+The method of guessing the equation seems to be a pretty effective way of guessing new laws.
+
+L2-cue_707
+00:50:28.336 --> 00:50:33.606
+This shows, again, that mathematics is a deep way of expressing nature,
+
+L2-cue_708
+00:50:33.606 --> 00:50:37.106
+and attempts to express nature in philosophical principles,
+
+L2-cue_709
+00:50:37.106 --> 00:50:41.336
+or in seat-of-the-pants mechanical feelings, is not an efficient way.
+
+L2-cue_710
+00:50:41.336 --> 00:50:49.846
+#I must say, that it is possible—and I’ve often made the hypothesis—that physics ultimately will
+
+L2-cue_711
+00:50:49.846 --> 00:50:52.036
+not require a mathematical statement,
+
+L2-cue_712
+00:50:52.036 --> 00:50:55.086
+that the machinery ultimately will be revealed—it’s just a prejudice,
+
+L2-cue_713
+00:50:55.086 --> 00:50:57.226
+like one of these other prejudices.
+
+L2-cue_714
+00:50:57.226 --> 00:51:04.016
+It always bothers me that, in spite of all this "local" business, what goes on—in no—matter—
+
+L2-cue_715
+00:51:04.016 --> 00:51:07.686
+how—tiny a region of space, and no—matter—how—tiny a region of time,
+
+L2-cue_716
+00:51:07.686 --> 00:51:11.886
+according to the laws as we understand them today—takes a computing machine an infinite
+
+L2-cue_717
+00:51:11.886 --> 00:51:13.956
+number of logical operations to figure out.
+
+L2-cue_718
+00:51:13.956 --> 00:51:18.596
+Now, how could all that be going on in that tiny space?
+
+L2-cue_719
+00:51:18.596 --> 00:51:22.966
+Why should it take an infinite amount of logic to figure out what one stinky,
+
+L2-cue_720
+00:51:22.966 --> 00:51:26.826
+tiny bit of space-time is going to do?
+
+L2-cue_721
+00:51:26.826 --> 00:51:32.776
+So I made the hypothesis often that the laws are going to turn out to be, in the end,
+
+L2-cue_722
+00:51:32.776 --> 00:51:38.056
+simple like the checkerboard, and that all the complexity is from size—but that is
+
+L2-cue_723
+00:51:38.056 --> 00:51:41.656
+of the same nature as the other speculations that other people make that say, "I like it;
+
+L2-cue_724
+00:51:41.656 --> 00:51:47.956
+you don’t like it"-it’s not good to be too prejudiced about the thing.
+
+L2-cue_725
+00:51:47.956 --> 00:51:56.066
+#To summarize, I would use the words of J. H. Jeans, who said that the great architect seems
+
+L2-cue_726
+00:51:56.066 --> 00:52:05.286
+to be a mathematician—and for you who don’t know mathematics, it’s really quite difficult
+
+L2-cue_727
+00:52:05.286 --> 00:52:10.356
+to get a real feeling across as to the beauty, the deepest beauty, of nature.
+
+L2-cue_728
+00:52:10.356 --> 00:52:13.576
+C.P. Snow talked about two cultures.
+
+L2-cue_729
+00:52:13.576 --> 00:52:19.856
+I really think that those two cultures are people who do, and people who do not—people
+
+L2-cue_730
+00:52:19.856 --> 00:52:22.136
+who have had, and people who have not had this experience
+
+L2-cue_731
+00:52:22.136 --> 00:52:27.856
+of understanding mathematics well enough to appreciate nature once.
+
+L2-cue_732
+00:52:27.856 --> 00:52:31.986
+It’s too bad that it has to be mathematics, and that mathematics for some people is hard.
+
+L2-cue_733
+00:52:31.986 --> 00:52:34.296
+When one of the [kings] (it’s reputed, I don’t know if it’s true,
+
+L2-cue_734
+00:52:34.296 --> 00:52:37.376
+that when one of the kings) was trying to learn geometry from Euclid,
+
+L2-cue_735
+00:52:37.376 --> 00:52:39.486
+he complained that it was difficult.
+
+L2-cue_736
+00:52:39.486 --> 00:52:43.366
+And Euclid said, "There’s no royal road to geometry."
+
+L2-cue_737
+00:52:43.366 --> 00:52:45.456
+There’s no royal road.
+
+L2-cue_738
+00:52:45.456 --> 00:52:50.286
+It’s not the job-we cannot, as people who look at this thing, the physicists,
+
+L2-cue_739
+00:52:50.286 --> 00:52:53.466
+cannot convert this thing to any other language.
+
+L2-cue_740
+00:52:53.466 --> 00:52:58.756
+#You have-if you want to discuss nature, to learn about nature, and to appreciate nature,
+
+L2-cue_741
+00:52:58.756 --> 00:53:02.756
+it’s necessary-to find out the language that she speaks in.
+
+L2-cue_742
+00:53:02.756 --> 00:53:05.236
+She offers her information only in one form.
+
+L2-cue_743
+00:53:05.236 --> 00:53:12.296
+We are not so unhumble as to actually demand that she change before we pay any attention.
+
+L2-cue_744
+00:53:12.296 --> 00:53:20.906
+It seems to me that it’s like: all the intellectual arguments
+
+L2-cue_745
+00:53:20.906 --> 00:53:25.736
+that you can make would not in any way—or very, very little—communicate
+
+L2-cue_746
+00:53:25.736 --> 00:53:32.226
+to deaf ears what the experience of music really is; all the intellectual arguments
+
+L2-cue_747
+00:53:32.226 --> 00:53:37.296
+in the world will not convince those of "the other culture"—the philosophers who try
+
+L2-cue_748
+00:53:37.296 --> 00:53:40.626
+to teach you by telling you qualitatively about this thing.
+
+L2-cue_749
+00:53:40.626 --> 00:53:43.406
+[People like] me, who’s trying to describe it to you (but is not getting it across,
+
+L2-cue_750
+00:53:43.406 --> 00:53:49.686
+because it’s impossible), we’re talking to deaf ears.
+
+L2-cue_751
+00:53:49.686 --> 00:53:56.336
+It’s perhaps that their horizons are [so] limited, which permit such people to imagine
+
+L2-cue_752
+00:53:56.336 --> 00:54:00.756
+that the center of the universe of interest is man.
+
+L2-cue_753
+00:54:00.756 --> 00:55:33.000
+#Thank you.

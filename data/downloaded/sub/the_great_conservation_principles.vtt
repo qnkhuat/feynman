@@ -1,0 +1,3033 @@
+WEBVTT
+
+L3-cue_0a
+00:00:00.250 --> 00:00:28.000
+##front [BBC TV Film Leader]
+
+L3-cue_0b
+00:00:28.000 --> 00:01:22.950
+##front Credits: Cornell University U.S.A., The Character of Physical Law, Professor Richard Feynman gives the Messenger Lectures
+
+L3-cue_0
+00:01:23.450 --> 00:01:41.296
+##Title The Great Conservation Principles
+
+L3-cue_1
+00:01:41.296 --> 00:01:44.416
+#When learning about the laws of physics, you find that there are a large number
+
+L3-cue_2
+00:01:44.416 --> 00:01:51.226
+of complicated and detailed laws—the laws of gravitation, of electricity and magnetism,
+
+L3-cue_3
+00:01:51.226 --> 00:01:53.656
+nuclear interactions, and so on, and so on.
+
+L3-cue_4
+00:01:53.656 --> 00:02:00.556
+But across the variety of these detailed laws, there sweep great general principles,
+
+L3-cue_5
+00:02:00.556 --> 00:02:02.686
+which all the laws seem to follow.
+
+L3-cue_6
+00:02:02.686 --> 00:02:07.036
+#Now, these principles are, for instance, the principles of conservation,
+
+L3-cue_7
+00:02:07.036 --> 00:02:15.246
+certain qualities of symmetry, the general form of quantum mechanical principles, and—unhappily,
+
+L3-cue_8
+00:02:15.246 --> 00:02:21.196
+or happily, as we spoke about last time—the fact that all the laws are mathematical.
+
+L3-cue_9
+00:02:21.196 --> 00:02:26.366
+#Tonight I want to talk about the conservation principle.
+
+L3-cue_10
+00:02:26.366 --> 00:02:33.386
+#Now, the physicist uses all the ordinary words in a peculiar manner, which is unfortunate.
+
+L3-cue_11
+00:02:33.386 --> 00:02:40.756
+For example, "conservation" (the conservation law) means this—the way he uses the word:
+
+L3-cue_12
+00:02:40.756 --> 00:02:44.696
+that there is a number, which you can calculate,
+
+L3-cue_13
+00:02:44.696 --> 00:02:50.146
+at one moment-and as nature undergoes its multitude
+
+L3-cue_14
+00:02:50.146 --> 00:02:52.986
+of changes, this number doesn’t change.
+
+L3-cue_15
+00:02:52.986 --> 00:02:58.766
+That is, if you calculate, again, this quantity, it’ll be the same as it was before.
+
+L3-cue_16
+00:02:58.766 --> 00:03:01.346
+#An example is the conservation of energy: there’s a quantity
+
+L3-cue_17
+00:03:01.346 --> 00:03:04.076
+that you can calculate according to a certain rule,
+
+L3-cue_18
+00:03:04.076 --> 00:03:08.546
+and it comes out the same answer after, no matter what happens, happens.
+
+L3-cue_19
+00:03:08.546 --> 00:03:15.586
+Now you could see that such a thing is possibly useful.
+
+L3-cue_20
+00:03:15.586 --> 00:03:20.586
+It’s analogous to this: suppose that the physics, or nature,
+
+L3-cue_21
+00:03:20.586 --> 00:03:27.056
+is made analogous to a great chess game that we are watching, with millions of pieces on it,
+
+L3-cue_22
+00:03:27.056 --> 00:03:29.596
+and we’re trying to discover the laws or the rules
+
+L3-cue_23
+00:03:29.596 --> 00:03:35.246
+by which the pieces move—and the great gods who play the chess play it very rapidly;
+
+L3-cue_24
+00:03:35.246 --> 00:03:39.506
+it’s hard to watch, and it’s difficult to see, and we’re catching on to some of the rules.
+
+L3-cue_25
+00:03:39.506 --> 00:03:42.556
+#But there are some rules which we could work out,
+
+L3-cue_26
+00:03:42.556 --> 00:03:45.756
+which do not require that we watch every move.
+
+L3-cue_27
+00:03:45.756 --> 00:03:50.946
+For instance, if there’s one bishop only on the board,
+
+L3-cue_28
+00:03:50.946 --> 00:03:54.446
+since the bishop moves diagonally, it never changes its color.
+
+L3-cue_29
+00:03:54.446 --> 00:03:58.456
+So if there’s a red bishop on the board, and we look away for a moment while the gods play
+
+L3-cue_30
+00:03:58.456 --> 00:04:02.586
+for a few, if we look again, we can expect that there’s a red bishop on the board—maybe
+
+L3-cue_31
+00:04:02.586 --> 00:04:07.706
+in a different place, but the same red bishop—I mean, the same color square.
+
+L3-cue_32
+00:04:07.706 --> 00:04:14.576
+This is in the nature of a conservation law: we don’t need to watch the insides,
+
+L3-cue_33
+00:04:14.576 --> 00:04:19.126
+but we at least know something about the game, anyway.
+
+L3-cue_34
+00:04:19.126 --> 00:04:23.416
+#It’s true that in chess this particular law is not necessarily perfectly valid.
+
+L3-cue_35
+00:04:23.416 --> 00:04:28.026
+If we watch long enough it could happen that the bishop is captured while we weren’t looking;
+
+L3-cue_36
+00:04:28.026 --> 00:04:32.266
+a pawn went down to queen, and the god decided that it was better to put a bishop instead
+
+L3-cue_37
+00:04:32.266 --> 00:04:35.566
+of a queen in the place of that pawn—and it was on a black square.
+
+L3-cue_38
+00:04:35.566 --> 00:04:39.846
+And so, unfortunately, it may well turn out that some of the laws
+
+L3-cue_39
+00:04:39.846 --> 00:04:51.046
+which we see today may not be exactly perfect, but I’ll tell you how it looks now.
+
+L3-cue_40
+00:04:51.046 --> 00:04:53.936
+#I said that we use words in a technical fashion,
+
+L3-cue_41
+00:04:53.936 --> 00:04:58.126
+and another word in this title is the great conservation principles.
+
+L3-cue_42
+00:04:58.126 --> 00:05:00.466
+This is not a technical word; it was merely put
+
+L3-cue_43
+00:05:00.466 --> 00:05:03.206
+in to make the title sound more dramatic—you could just
+
+L3-cue_44
+00:05:03.206 --> 00:05:05.396
+as well call them the conservation laws.
+
+L3-cue_45
+00:05:05.396 --> 00:05:08.226
+If you wish, there are a few conservation laws
+
+L3-cue_46
+00:05:08.226 --> 00:05:11.326
+that don’t work-that are only approximately right,
+
+L3-cue_47
+00:05:11.326 --> 00:05:15.096
+that are kind of useful—and we might call those the "little" conservation laws;
+
+L3-cue_48
+00:05:15.096 --> 00:05:16.846
+I’ll mention one or two of those.
+
+L3-cue_49
+00:05:16.846 --> 00:05:19.996
+#But the other ones that I’m going to mention are,
+
+L3-cue_50
+00:05:19.996 --> 00:05:24.536
+as far as we can tell today, absolutely accurate.
+
+L3-cue_51
+00:05:24.536 --> 00:05:30.616
+#The easiest one to understand is the one I’ll start with, and that’s the conservation
+
+L3-cue_52
+00:05:30.616 --> 00:05:36.566
+of electric charge: there’s a number—the total electric charge on a thing—which,
+
+L3-cue_53
+00:05:36.566 --> 00:05:42.446
+no matter what happens, doesn’t change—the total electric charge in the world, rather,
+
+L3-cue_54
+00:05:42.446 --> 00:05:46.286
+is what doesn’t change: the charge may go from one place to another, but if you lose it here,
+
+L3-cue_55
+00:05:46.286 --> 00:05:53.036
+you’ll find it over there—so the conservation is of a total of the electric charge.
+
+L3-cue_56
+00:05:53.036 --> 00:05:57.796
+#This was discovered experimentally, or demonstrated experimentally,
+
+L3-cue_57
+00:05:57.796 --> 00:06:01.936
+by—I am embarrassed to say, I don’t remember whether it was—I think it’s Faraday (but it
+
+L3-cue_58
+00:06:01.936 --> 00:06:07.976
+might have been Franklin); anyway, it’s somebody whose name begins with F—and I know
+
+L3-cue_59
+00:06:07.976 --> 00:06:11.056
+at least this much: that it isn’t Feynman, anyway.
+
+L3-cue_60
+00:06:11.056 --> 00:06:20.816
+#At any rate, the experiment consisted of getting inside of a great globe of metal,
+
+L3-cue_61
+00:06:20.816 --> 00:06:26.286
+on the outside of which was a very delicate galvanometer to look for charge on the globe,
+
+L3-cue_62
+00:06:26.286 --> 00:06:28.816
+because small amounts of charge would make a big effect.
+
+L3-cue_63
+00:06:28.816 --> 00:06:35.026
+Then, inside the globe, this experiment—that was named again with F—built all kinds
+
+L3-cue_64
+00:06:35.026 --> 00:06:40.886
+of weird electrical equipment of every kind: he made charges by rubbing glass rods
+
+L3-cue_65
+00:06:40.886 --> 00:06:46.016
+with cat’s fur; he made big electrostatic machines run inside, and so on,
+
+L3-cue_66
+00:06:46.016 --> 00:06:50.206
+so that the inside looked like those horror movies laboratories.
+
+L3-cue_67
+00:06:50.206 --> 00:06:52.546
+And during all these experiments, no charge developed
+
+L3-cue_68
+00:06:52.546 --> 00:06:55.046
+on the surface; there was no net charge made.
+
+L3-cue_69
+00:06:55.046 --> 00:06:58.826
+#When a glass rod was charged up with the cat’s fur,
+
+L3-cue_70
+00:06:58.826 --> 00:07:03.486
+the cats fur-although the rod may have been (I forget, say) positive,
+
+L3-cue_71
+00:07:03.486 --> 00:07:06.906
+then the cat’s fur would be the same amount of charge negative,
+
+L3-cue_72
+00:07:06.906 --> 00:07:11.276
+because the total charge was never anything.
+
+L3-cue_73
+00:07:11.276 --> 00:07:15.026
+If there were any charge developed on the inside, it would have appeared as an effect
+
+L3-cue_74
+00:07:15.026 --> 00:07:18.706
+in the galvanometer on the outside—so the total charge is conserved.
+
+L3-cue_75
+00:07:18.706 --> 00:07:22.226
+#Now, this one is an easy one to understand,
+
+L3-cue_76
+00:07:22.226 --> 00:07:28.246
+because a very simple model that’s not mathematical at all will explain it.
+
+L3-cue_77
+00:07:28.246 --> 00:07:31.806
+Suppose that the world is only made of two kinds of particles: electrons,
+
+L3-cue_78
+00:07:31.806 --> 00:07:37.346
+and protons (there was a time when it looked like it was going to be as easy as that),
+
+L3-cue_79
+00:07:37.346 --> 00:07:41.086
+and that the electrons carry a negative charge, and the protons a positive charge,
+
+L3-cue_80
+00:07:41.086 --> 00:07:43.116
+so we can separate them-we can take a piece of matter,
+
+L3-cue_81
+00:07:43.116 --> 00:07:45.166
+and put more electrons on, or less electrons.
+
+L3-cue_82
+00:07:45.166 --> 00:07:50.936
+But suppose that electrons are permanent: they do not disintegrate; they never disappear.
+
+L3-cue_83
+00:07:50.936 --> 00:07:55.846
+That’s all-that’s not even mathematical; that’s a simple proposition-and there you see
+
+L3-cue_84
+00:07:55.846 --> 00:07:58.716
+that the total number of electrons (or the protons,
+
+L3-cue_85
+00:07:58.716 --> 00:08:01.216
+rather) take away the number of electrons, won’t change.
+
+L3-cue_86
+00:08:01.216 --> 00:08:05.666
+#(As a matter of fact, the total number of protons won’t change, and the total number
+
+L3-cue_87
+00:08:05.666 --> 00:08:07.796
+of electrons won’t change, in this particular model,
+
+L3-cue_88
+00:08:07.796 --> 00:08:10.066
+but we’re concentrating now on the charge.)
+
+L3-cue_89
+00:08:10.066 --> 00:08:14.646
+#The difference-the contribution of the protons is positive, and the electrons is negative,
+
+L3-cue_90
+00:08:14.646 --> 00:08:20.366
+and if these objects are never created or destroyed alone,
+
+L3-cue_91
+00:08:20.366 --> 00:08:23.596
+then the total charge will be conserved.
+
+L3-cue_92
+00:08:23.596 --> 00:08:28.936
+#I want to list, later on, the number of properties of conserved quantities,
+
+L3-cue_93
+00:08:28.936 --> 00:08:30.496
+and I start with the one about charge
+
+L3-cue_94
+00:08:30.496 --> 00:08:34.606
+that we’re talking about—and we mark down here that it is conserved.
+
+L3-cue_95
+00:08:34.606 --> 00:08:38.496
+That’s the beginning; this goes yes.
+
+L3-cue_96
+00:08:38.496 --> 00:08:40.376
+So that’s the first.
+
+L3-cue_97
+00:08:40.376 --> 00:08:42.406
+The chart will expand as we go along.
+
+L3-cue_98
+00:08:42.406 --> 00:08:47.246
+#This theoretical interpretation is very simple.
+
+L3-cue_99
+00:08:47.246 --> 00:08:51.386
+But it was later discovered that electrons and protons are not permanent: for example,
+
+L3-cue_100
+00:08:51.386 --> 00:08:57.206
+a particle called a neutron disintegrates—can disintegrate—into a proton and an electron,
+
+L3-cue_101
+00:08:57.206 --> 00:09:00.296
+plus something else (which we’ll come to).
+
+L3-cue_102
+00:09:00.296 --> 00:09:04.126
+But the neutron, it turns out, is electrically neutral.
+
+L3-cue_103
+00:09:04.126 --> 00:09:07.956
+So although protons are not permanent, nor are electrons permanent (in the sense
+
+L3-cue_104
+00:09:07.956 --> 00:09:11.426
+that they can be created from a neutron), the charge still checks out,
+
+L3-cue_105
+00:09:11.426 --> 00:09:15.576
+because starting before we had zero charge, and afterward we have plus 1 and minus 1—so
+
+L3-cue_106
+00:09:15.576 --> 00:09:19.396
+when added together, we get zero charge.
+
+L3-cue_107
+00:09:19.396 --> 00:09:29.526
+#Now, another example of a similar trouble—not trouble, but fact—is this:
+
+L3-cue_108
+00:09:29.526 --> 00:09:31.556
+there exists another particle
+
+L3-cue_109
+00:09:31.556 --> 00:09:35.026
+which is positively charged—besides the proton—called the positron,
+
+L3-cue_110
+00:09:35.026 --> 00:09:37.606
+which is a kind of an image of an electron.
+
+L3-cue_111
+00:09:37.606 --> 00:09:42.416
+It’s just like the electron in most respects, except it has the opposite sign of charge—and,
+
+L3-cue_112
+00:09:42.416 --> 00:09:46.646
+more important, it’s called an antiparticle because when it meets with an electron,
+
+L3-cue_113
+00:09:46.646 --> 00:09:50.136
+the two of them can disintegrate—they can annihilate each other—and nothing
+
+L3-cue_114
+00:09:50.136 --> 00:09:51.946
+but light comes out.
+
+L3-cue_115
+00:09:51.946 --> 00:09:55.066
+#So electrons are not permanent—even them, by themselves:
+
+L3-cue_116
+00:09:55.066 --> 00:10:00.856
+an electron plus a positron will just make light (well, actually, the light is invisible;
+
+L3-cue_117
+00:10:00.856 --> 00:10:06.156
+it’s gamma rays, but it’s the same thing for a physicist, just the wave length is different).
+
+L3-cue_118
+00:10:06.156 --> 00:10:10.086
+So a particle and the antiparticle can annihilate; the light has no electrical charge,
+
+L3-cue_119
+00:10:10.086 --> 00:10:15.166
+but we remove one positive and one negative charge, so we haven’t changed the total charge.
+
+L3-cue_120
+00:10:15.166 --> 00:10:19.466
+Therefore, the charge—the theory of this conservation of charge—is a little, slightly,
+
+L3-cue_121
+00:10:19.466 --> 00:10:22.886
+more complicated, but still very unmathematical; it’s simply this:
+
+L3-cue_122
+00:10:22.886 --> 00:10:27.076
+how many positrons do you have, how many protons, take away the number
+
+L3-cue_123
+00:10:27.076 --> 00:10:31.876
+of electrons-and there are other particles, it turns out, in the world, that you have to check.
+
+L3-cue_124
+00:10:31.876 --> 00:10:35.486
+#For instance, there are antiprotons; they contribute negatively.
+
+L3-cue_125
+00:10:35.486 --> 00:10:38.216
+There are positive pi mesons; they contribute positively.
+
+L3-cue_126
+00:10:38.216 --> 00:10:42.836
+Each particle in nature has—fundamental particles have—charges,
+
+L3-cue_127
+00:10:42.836 --> 00:10:46.876
+and all we have to do is add the total number; whatever happens in any reaction,
+
+L3-cue_128
+00:10:46.876 --> 00:10:54.176
+the total amount of charges on one side has to balance on the other side.
+
+L3-cue_129
+00:10:54.176 --> 00:10:58.246
+That’s one aspect of the conservation of charge.
+
+L3-cue_130
+00:10:58.246 --> 00:11:02.696
+#Now comes an interesting question: is it sufficient to say only that charge is conserved,
+
+L3-cue_131
+00:11:02.696 --> 00:11:05.826
+or could we say—do we have to say—more?
+
+L3-cue_132
+00:11:05.826 --> 00:11:08.846
+If charge were conserved because it was a real particle which moved around,
+
+L3-cue_133
+00:11:08.846 --> 00:11:11.106
+it would have a very special property.
+
+L3-cue_134
+00:11:11.106 --> 00:11:15.296
+The total amount of charge in a box might stay the same in two ways:
+
+L3-cue_135
+00:11:15.296 --> 00:11:17.486
+it may be that the charge moves from one place to the other
+
+L3-cue_136
+00:11:17.486 --> 00:11:19.046
+in the box, and just stays in the box.
+
+L3-cue_137
+00:11:19.046 --> 00:11:25.676
+But another possibility is this: charge here disappears, and simultaneously over here,
+
+L3-cue_138
+00:11:25.676 --> 00:11:31.996
+charge arrives-in such a manner, instantaneously related,
+
+L3-cue_139
+00:11:31.996 --> 00:11:35.136
+so that the total charge is never changing.
+
+L3-cue_140
+00:11:35.136 --> 00:11:39.416
+#This possibility for the conservation is a different kind than the other one,
+
+L3-cue_141
+00:11:39.416 --> 00:11:43.186
+in which if anything happens that the charge goes away here, something has got to go
+
+L3-cue_142
+00:11:43.186 --> 00:11:46.046
+through the—in between, something goes past you—if you stood there
+
+L3-cue_143
+00:11:46.046 --> 00:11:48.386
+and watched, something would go by.
+
+L3-cue_144
+00:11:48.386 --> 00:11:53.406
+#The second form of charge conservation is called local charge conservation,
+
+L3-cue_145
+00:11:53.406 --> 00:11:57.926
+and is far more detailed than the simple remark that the total charge doesn’t change.
+
+L3-cue_146
+00:11:57.926 --> 00:12:00.846
+#So you see, we’ve been proving our law (if in fact, it’s true),
+
+L3-cue_147
+00:12:00.846 --> 00:12:02.246
+that charge is locally conserved.
+
+L3-cue_148
+00:12:02.246 --> 00:12:04.016
+(It is true.)
+
+L3-cue_149
+00:12:04.016 --> 00:12:11.736
+Then, it must be true—of course, nothing can be proved without some other things,
+
+L3-cue_150
+00:12:11.736 --> 00:12:16.186
+but as I desire to show you from time to time as much as possible some of the possibilities
+
+L3-cue_151
+00:12:16.186 --> 00:12:21.976
+of reasoning interconnecting one idea with another, I would like to show you an argument,
+
+L3-cue_152
+00:12:21.976 --> 00:12:23.646
+which is fundamentally due to Einstein,
+
+L3-cue_153
+00:12:23.646 --> 00:12:27.586
+which indicates that if anything is conserved (in this case I apply it to charge),
+
+L3-cue_154
+00:12:27.586 --> 00:12:31.626
+it must be conserved locally, provided one thing:
+
+L3-cue_155
+00:12:31.626 --> 00:12:35.196
+provided that if two fellows are passing each other in a spaceship,
+
+L3-cue_156
+00:12:35.196 --> 00:12:37.426
+the argument about which guy is doing the moving
+
+L3-cue_157
+00:12:37.426 --> 00:12:42.346
+and which one is standing still cannot be resolved by any experiment.
+
+L3-cue_158
+00:12:42.346 --> 00:12:46.496
+#That’s called the principle of relativity—that the motion is relative, and that we can look
+
+L3-cue_159
+00:12:46.496 --> 00:12:50.266
+at any phenomenon from either point of view, either from the point of view
+
+L3-cue_160
+00:12:50.266 --> 00:12:54.586
+that the one is moving, and that this—say this one is standing still,
+
+L3-cue_161
+00:12:54.586 --> 00:12:58.176
+and this one is moving, or the other way around.
+
+L3-cue_162
+00:12:58.176 --> 00:13:02.596
+#Now, suppose I take this point of view that this one is the one that’s moving past him.
+
+L3-cue_163
+00:13:02.596 --> 00:13:05.456
+(Don’t forget, that’s just temporary; you can also look at it the other way,
+
+L3-cue_164
+00:13:05.456 --> 00:13:08.246
+and you must get the same phenomena of nature.)
+
+L3-cue_165
+00:13:08.246 --> 00:13:13.526
+Now suppose that this man, who’s standing still, wants to argue whether or not he sees a charge
+
+L3-cue_166
+00:13:13.526 --> 00:13:17.156
+over here disappear and a charge over here appear at the same time.
+
+L3-cue_167
+00:13:17.156 --> 00:13:23.226
+In order to make sure that it’s at the same time, he can’t sit in the front of the ship,
+
+L3-cue_168
+00:13:23.226 --> 00:13:26.626
+because he’ll see one before he sees the other on account of light—so let’s suppose
+
+L3-cue_169
+00:13:26.626 --> 00:13:31.066
+that he’s very careful; he sits dead center in the middle of the ship, right here,
+
+L3-cue_170
+00:13:31.066 --> 00:13:33.816
+and looks-he’s right in the middle, halfway in between.
+
+L3-cue_171
+00:13:33.816 --> 00:13:36.296
+#Incidentally, I’m going to have another man doing the same kind
+
+L3-cue_172
+00:13:36.296 --> 00:13:39.836
+of observation in the other ship.
+
+L3-cue_173
+00:13:39.836 --> 00:13:48.676
+And now: a lightning bolt strikes, and charge at this point A is created, at a certain instant.
+
+L3-cue_174
+00:13:48.676 --> 00:13:52.426
+And at the same instant, back over here at this place B on the other side,
+
+L3-cue_175
+00:13:52.426 --> 00:13:56.946
+on the back of this—at the other end of the spaceship (funny—looking spaceship),
+
+L3-cue_176
+00:13:56.946 --> 00:14:03.326
+the charge is annihilated—disappears—at the same time, which is perfectly consistent
+
+L3-cue_177
+00:14:03.326 --> 00:14:05.586
+with our idea that charge is conserved,
+
+L3-cue_178
+00:14:05.586 --> 00:14:08.246
+because if we lose one electron—we get one electron here,
+
+L3-cue_179
+00:14:08.246 --> 00:14:12.326
+and lose one here, but nothing went in between.
+
+L3-cue_180
+00:14:12.326 --> 00:14:16.716
+#He says it’s the same time—he watches; he sees it’s exactly the same time—because the light
+
+L3-cue_181
+00:14:16.716 --> 00:14:21.796
+which comes from the bolt which created the [charge at] A reaches him at the same time
+
+L3-cue_182
+00:14:21.796 --> 00:14:27.286
+as the light which comes from the flash of disappearance—we suppose
+
+L3-cue_183
+00:14:27.286 --> 00:14:29.026
+that when it disappears there’s the flash,
+
+L3-cue_184
+00:14:29.026 --> 00:14:32.026
+and when it’s created there’s a flash (so we can see what happened),
+
+L3-cue_185
+00:14:32.026 --> 00:14:34.976
+and then we see the two flash at the same time—and since he knows he’s in the middle
+
+L3-cue_186
+00:14:34.976 --> 00:14:38.476
+of the ship, he says, "Yes, when one disappeared, the other was created."
+
+L3-cue_187
+00:14:38.476 --> 00:14:40.936
+#But: what happens to our friend in the other ship?
+
+L3-cue_188
+00:14:40.936 --> 00:14:44.806
+He says, "No, you’re wrong, my friend; I saw A was created before B,
+
+L3-cue_189
+00:14:44.806 --> 00:14:50.696
+because the light is coming out of A, but the man is moving toward it, because he’s moving,
+
+L3-cue_190
+00:14:50.696 --> 00:14:54.986
+and the light hits him from the front before the light can reach him from the back,
+
+L3-cue_191
+00:14:54.986 --> 00:14:56.266
+because he’s moving away from the light [at B].
+
+L3-cue_192
+00:14:56.266 --> 00:14:59.426
+So by the time the light gets to here he’s got—moved over.
+
+L3-cue_193
+00:14:59.426 --> 00:15:05.696
+#So he says, "No; A, you see, was created first, and then B disappeared—so for a short time
+
+L3-cue_194
+00:15:05.696 --> 00:15:12.706
+after A, after I saw A was created, B hadn’t yet disappeared, and I got some charge.
+
+L3-cue_195
+00:15:12.706 --> 00:15:15.946
+#That’s not the conservation of charge, it’s against the laws."
+
+L3-cue_196
+00:15:15.946 --> 00:15:17.576
+#So the other fellow says, "Yeah, but you’re moving."
+
+L3-cue_197
+00:15:17.576 --> 00:15:26.046
+He says, "How do you know?"—and so on—"I think you’re moving."
+
+L3-cue_198
+00:15:26.046 --> 00:15:30.066
+So if we are unable by any experiment to see a difference
+
+L3-cue_199
+00:15:30.066 --> 00:15:33.106
+in the physical laws whether we’re moving or not, if the conservation
+
+L3-cue_200
+00:15:33.106 --> 00:15:38.486
+of charge were not local, we could tell when were—you see, if it were not local,
+
+L3-cue_201
+00:15:38.486 --> 00:15:42.786
+only a certain kind of man would see it work right, namely, the guy who’s standing still
+
+L3-cue_202
+00:15:42.786 --> 00:15:46.196
+in an absolute sense, but such a thing shall be impossible according to Einstein, and,
+
+L3-cue_203
+00:15:46.196 --> 00:15:49.526
+therefore, it’s impossible, according to the relativity principle,
+
+L3-cue_204
+00:15:49.526 --> 00:15:52.076
+to have non-local conservation of charge.
+
+L3-cue_205
+00:15:52.076 --> 00:15:56.956
+#This conversation—the locality of the conservation of charge—is consonant
+
+L3-cue_206
+00:15:56.956 --> 00:16:06.796
+with the theory of relativity, and it turns out that this is true
+
+L3-cue_207
+00:16:06.796 --> 00:16:09.726
+of all the conservation laws—not just the charge, as you can appreciate;
+
+L3-cue_208
+00:16:09.726 --> 00:16:15.316
+if anything is conserved, it’s the same principle.
+
+L3-cue_209
+00:16:15.316 --> 00:16:18.656
+Now, another interesting thing about charge, which has nothing to do
+
+L3-cue_210
+00:16:18.656 --> 00:16:21.916
+with the conservation law and is independent of that, is a very strange one
+
+L3-cue_211
+00:16:21.916 --> 00:16:27.016
+for which we have no real explanation today—and that is: that the charge always comes in units.
+
+L3-cue_212
+00:16:27.016 --> 00:16:31.266
+#When we have a particle that’s charged, it’s got 1 charge, or 2 charge, or -1, or -2.
+
+L3-cue_213
+00:16:31.266 --> 00:16:35.606
+It’s a nice little lumpy unit, and has nothing to do with the conservation of charge,
+
+L3-cue_214
+00:16:35.606 --> 00:16:41.636
+but I can’t help writing down that it comes in units, the thing that’s conserved.
+
+L3-cue_215
+00:16:41.636 --> 00:16:44.926
+It’s very nice that it comes in units, because that makes the theory of conservation
+
+L3-cue_216
+00:16:44.926 --> 00:16:47.516
+of charge very easy to understand: it’s just a thing,
+
+L3-cue_217
+00:16:47.516 --> 00:16:52.676
+which we count, which goes from place to place.
+
+L3-cue_218
+00:16:52.676 --> 00:16:56.516
+#Finally, it turns out, technically, that the total charge of a thing is very easy
+
+L3-cue_219
+00:16:56.516 --> 00:17:02.026
+to determine electrically, because the charge has a very important characteristic:
+
+L3-cue_220
+00:17:02.026 --> 00:17:07.706
+it’s the source of the electric and magnetic field—charge is a measure of the interaction
+
+L3-cue_221
+00:17:07.706 --> 00:17:10.646
+of an object with electricity, with electric fields.
+
+L3-cue_222
+00:17:10.646 --> 00:17:18.016
+#And so the other item that we should put here on the list is that this is a source of a field.
+
+L3-cue_223
+00:17:18.016 --> 00:17:23.856
+In other words, the electricity is related to the charge.
+
+L3-cue_224
+00:17:23.856 --> 00:17:28.256
+So the particular quantity which is conserved here has two other aspects
+
+L3-cue_225
+00:17:28.256 --> 00:17:33.096
+which are not connected with the conservation directly, but are interesting anyway:
+
+L3-cue_226
+00:17:33.096 --> 00:17:37.916
+one is that it comes in units, and the other that it’s the source of a field.
+
+L3-cue_227
+00:17:37.916 --> 00:17:39.306
+#Are there other examples?
+
+L3-cue_228
+00:17:39.306 --> 00:17:40.606
+#There are many conservation laws.
+
+L3-cue_229
+00:17:40.606 --> 00:17:45.656
+#I give some more examples of conservation laws of the same type as the charge in the sense
+
+L3-cue_230
+00:17:45.656 --> 00:17:48.356
+that it’s merely a matter of counting.
+
+L3-cue_231
+00:17:48.356 --> 00:17:52.506
+There is a conservation law called a conservation of baryons.
+
+L3-cue_232
+00:17:52.506 --> 00:17:55.266
+A neutron can go into a proton.
+
+L3-cue_233
+00:17:55.266 --> 00:18:02.436
+If we count each of those as one "p-en", then we don’t lose the number of "p-en"s.
+
+L3-cue_234
+00:18:02.436 --> 00:18:08.576
+The word "p-en" is actually substituted by baryon, which is equally mysterious and meaningless.
+
+L3-cue_235
+00:18:08.576 --> 00:18:13.706
+The neutron carries one baryonic charge unit, or represents one baryon;
+
+L3-cue_236
+00:18:13.706 --> 00:18:18.286
+then a proton represents one baryon—all we’re doing is counting and making big words.
+
+L3-cue_237
+00:18:18.286 --> 00:18:23.526
+So the total number—if this reaction occurs, the total number of baryons doesn’t change.
+
+L3-cue_238
+00:18:23.526 --> 00:18:26.266
+#It does turn out, however, that there are other reactions in nature.
+
+L3-cue_239
+00:18:26.266 --> 00:18:30.836
+For example, a proton plus a proton can produce rather a great variety
+
+L3-cue_240
+00:18:30.836 --> 00:18:36.236
+of strange objects:—a lambda, a proton, and a K+, for instance.
+
+L3-cue_241
+00:18:36.236 --> 00:18:42.256
+These lambda and K+ are names for peculiar particles.
+
+L3-cue_242
+00:18:42.256 --> 00:18:46.786
+#Now from this one, you know you put two baryons in; you see one come out,
+
+L3-cue_243
+00:18:46.786 --> 00:18:49.196
+so possibly one or the other is one [baryon].
+
+L3-cue_244
+00:18:49.196 --> 00:18:54.716
+But if you’ll study the lambda later, you’ll discover that it very slowly—this is easy
+
+L3-cue_245
+00:18:54.716 --> 00:18:59.186
+for it, and this is hard for it to do; it disintegrates into a proton and a pi,
+
+L3-cue_246
+00:18:59.186 --> 00:19:01.906
+and ultimately the pi disintegrates into electrons
+
+L3-cue_247
+00:19:01.906 --> 00:19:06.116
+and whatnot-but what you’ve got here is the baryon coming out again.
+
+L3-cue_248
+00:19:06.116 --> 00:19:11.246
+So we think that the lambda has a baryon number, but the K does not, [it] has zero.
+
+L3-cue_249
+00:19:11.246 --> 00:19:15.086
+#So in counting these other numbers, we have a similar situation
+
+L3-cue_250
+00:19:15.086 --> 00:19:21.516
+with baryons-so we have charge, and then we have baryon number, with a special rule
+
+L3-cue_251
+00:19:21.516 --> 00:19:25.486
+that the baryon number is the number of protons, plus the number of neutrons,
+
+L3-cue_252
+00:19:25.486 --> 00:19:30.136
+plus the number of lambdas, minus the number of antiprotons, minus the number of antineutrons,
+
+L3-cue_253
+00:19:30.136 --> 00:19:34.096
+and so on-it’s just a counting proposition; it’s conserved.
+
+L3-cue_254
+00:19:34.096 --> 00:19:40.206
+It comes in units, and nobody knows, but everybody wants to think
+
+L3-cue_255
+00:19:40.206 --> 00:19:44.806
+by analogy that it’s the source of a field.
+
+L3-cue_256
+00:19:44.806 --> 00:19:49.586
+#We are trying to guess at the laws of nuclear interaction, and the reason we make these kinds
+
+L3-cue_257
+00:19:49.586 --> 00:19:53.146
+of tables is, this is one of the trick ways of guessing at nature.
+
+L3-cue_258
+00:19:53.146 --> 00:19:56.746
+If this is a source of a field, and this does the same thing, it ought to be a source
+
+L3-cue_259
+00:19:56.746 --> 00:19:59.936
+of a field, too-too bad; so far it doesn’t seem to be,
+
+L3-cue_260
+00:19:59.936 --> 00:20:02.116
+or for sure it isn’t anyway—we don’t know.
+
+L3-cue_261
+00:20:02.116 --> 00:20:04.366
+Sometimes people think it is, sometimes not.
+
+L3-cue_262
+00:20:04.366 --> 00:20:09.776
+We don’t know enough to be sure about that question.
+
+L3-cue_263
+00:20:09.776 --> 00:20:12.666
+#Now, it turns out that there is a very peculiar thing—[but first] I would
+
+L3-cue_264
+00:20:12.666 --> 00:20:16.536
+like to mention there are one or two more of these counting propositions,
+
+L3-cue_265
+00:20:16.536 --> 00:20:22.446
+called lepton numbers, and so on, but you learn nothing new; it’s the same idea, just counting.
+
+L3-cue_266
+00:20:22.446 --> 00:20:28.326
+#There is one, however, which is slightly different; [it] is that there are, in nature,
+
+L3-cue_267
+00:20:28.326 --> 00:20:32.856
+characteristic rates, apparently, with these strange particles: there are rates of reactions
+
+L3-cue_268
+00:20:32.856 --> 00:20:37.696
+which are very fast, and very easy reactions to do—and others that are very slow.
+
+L3-cue_269
+00:20:37.696 --> 00:20:43.106
+(I don’t mean easy and hard in a technical sense, in actually doing the experiment;
+
+L3-cue_270
+00:20:43.106 --> 00:20:45.546
+it’s got to do with the rates at which these reactions occur,
+
+L3-cue_271
+00:20:45.546 --> 00:20:47.216
+when the particles are present.)
+
+L3-cue_272
+00:20:47.216 --> 00:20:51.196
+Anyway, there’s a clear distinction between this kind of a reaction, and this.
+
+L3-cue_273
+00:20:51.196 --> 00:20:58.816
+#It turns out that if you take only faster, easy, reactions, that there’s one more counting law,
+
+L3-cue_274
+00:20:58.816 --> 00:21:03.246
+in which the lambda gets a minus one, and the K+ gets a plus one,
+
+L3-cue_275
+00:21:03.246 --> 00:21:09.446
+and it’s called the strangeness number—or hyperon charge, rather—and the proton gets zero.
+
+L3-cue_276
+00:21:09.446 --> 00:21:16.526
+And that particular rule is right for every easy reaction, but it’s wrong for the slow reaction.
+
+L3-cue_277
+00:21:16.526 --> 00:21:21.086
+#Then, we have a conservation law called the conservation of strangeness or the conservation
+
+L3-cue_278
+00:21:21.086 --> 00:21:25.146
+of hyperon number, which is nearly right,
+
+L3-cue_279
+00:21:25.146 --> 00:21:30.186
+which is very peculiar-it’s why the stuff has been called strangeness,
+
+L3-cue_280
+00:21:30.186 --> 00:21:35.806
+the number: it’s nearly true—nearly true.
+
+L3-cue_281
+00:21:35.806 --> 00:21:39.206
+But in trying to understand the strong interactions, which are involved
+
+L3-cue_282
+00:21:39.206 --> 00:21:43.706
+in nuclear forces (since, as far as the strong interactions are involved,
+
+L3-cue_283
+00:21:43.706 --> 00:21:48.816
+the thing is conserved), that has made people propose that for the strong interactions,
+
+L3-cue_284
+00:21:48.816 --> 00:21:51.716
+it’s again a source of a field—but we don’t know.
+
+L3-cue_285
+00:21:51.716 --> 00:21:56.346
+#I bring these matters up to show you how the conservation laws are used to guess new laws.
+
+L3-cue_286
+00:21:56.346 --> 00:22:01.116
+#Now, there are other conservation laws that have been proposed from time
+
+L3-cue_287
+00:22:01.116 --> 00:22:02.686
+to time of the same nature as counting.
+
+L3-cue_288
+00:22:02.686 --> 00:22:05.846
+For example, chemists once thought that no matter what happened,
+
+L3-cue_289
+00:22:05.846 --> 00:22:09.316
+the number of sodium atoms stayed the same.
+
+L3-cue_290
+00:22:09.316 --> 00:22:12.676
+But sodium atoms are not permanent; it’s possible to transmute atoms from one
+
+L3-cue_291
+00:22:12.676 --> 00:22:14.966
+to another, so that one has disappeared.
+
+L3-cue_292
+00:22:14.966 --> 00:22:17.816
+#Another law, which was for a while believed to be true,
+
+L3-cue_293
+00:22:17.816 --> 00:22:21.926
+was that the total mass of an object stays the same.
+
+L3-cue_294
+00:22:21.926 --> 00:22:26.126
+It depends on how you define mass, and whether you get mixed up with the energy, nowadays,
+
+L3-cue_295
+00:22:26.126 --> 00:22:31.086
+and I will disregard this mass law until we come to the conservation of energy.
+
+L3-cue_296
+00:22:31.086 --> 00:22:37.736
+But the mass conservation law has been contained in the next one, which I’m going to discuss now,
+
+L3-cue_297
+00:22:37.736 --> 00:22:44.876
+which is the law of conservation of energy.
+
+L3-cue_298
+00:22:44.876 --> 00:22:51.096
+#The law of conservation of energy is the most difficult, abstract one—and the most useful,
+
+L3-cue_299
+00:22:51.096 --> 00:22:53.476
+as a matter of fact, of all the conservation laws.
+
+L3-cue_300
+00:22:53.476 --> 00:22:56.896
+It’s more difficult to understand than the charge (and these other ones),
+
+L3-cue_301
+00:22:56.896 --> 00:22:59.056
+because in the charge, (and these other ones), it’s obviously,
+
+L3-cue_302
+00:22:59.056 --> 00:23:04.276
+merely—the mechanism is perfectly clear—it’s a conservation of the object (sort of).
+
+L3-cue_303
+00:23:04.276 --> 00:23:08.706
+I mean not quite, because of this problem that we get some new things from old things,
+
+L3-cue_304
+00:23:08.706 --> 00:23:11.456
+but it’s really a matter of counting.
+
+L3-cue_305
+00:23:11.456 --> 00:23:14.106
+But the conservation of energy is a little more difficult: here,
+
+L3-cue_306
+00:23:14.106 --> 00:23:18.426
+we have a number which is not changed in time,
+
+L3-cue_307
+00:23:18.426 --> 00:23:24.106
+but the number doesn’t represent the number of any particular thing.
+
+L3-cue_308
+00:23:24.106 --> 00:23:29.746
+I would like to make a kind of silly analogy to explain a little bit about it.
+
+L3-cue_309
+00:23:29.746 --> 00:23:34.646
+#I want you to imagine that a mother has a very difficult child—well, not necessarily difficult,
+
+L3-cue_310
+00:23:34.646 --> 00:23:40.906
+but she has a child—who she leaves alone in a room with 28 blocks—they’re indestructible,
+
+L3-cue_311
+00:23:40.906 --> 00:23:44.146
+absolutely indestructible blocks, like the charges.
+
+L3-cue_312
+00:23:44.146 --> 00:23:46.456
+The child plays with the blocks all during the day,
+
+L3-cue_313
+00:23:46.456 --> 00:23:49.746
+and when the mother comes back she discovers indeed there are 28 blocks.
+
+L3-cue_314
+00:23:49.746 --> 00:23:52.556
+She checks all the time the conservation of blocks.
+
+L3-cue_315
+00:23:52.556 --> 00:24:00.826
+Well, this goes on for a few days until one day when she comes in, there are only 27 blocks:
+
+L3-cue_316
+00:24:00.826 --> 00:24:05.146
+one block she finds later outside the window; he threw one out the window.
+
+L3-cue_317
+00:24:05.146 --> 00:24:09.996
+#So first we must appreciate the conservation laws involved that you watch out that the stuff
+
+L3-cue_318
+00:24:09.996 --> 00:24:13.716
+that you’re trying to check doesn’t go out through some wall.
+
+L3-cue_319
+00:24:13.716 --> 00:24:17.966
+#The same thing could happen the other way—if a boy came to play with him and brought
+
+L3-cue_320
+00:24:17.966 --> 00:24:22.256
+in some blocks; of course, those are obvious technical matters that you have to be careful
+
+L3-cue_321
+00:24:22.256 --> 00:24:28.896
+of when you talk about a conservation law.
+
+L3-cue_322
+00:24:28.896 --> 00:24:34.806
+#Now suppose, however, that when the mother comes to count the blocks,
+
+L3-cue_323
+00:24:34.806 --> 00:24:40.556
+she finds there are only 25 blocks, but suspects that in a little toy box,
+
+L3-cue_324
+00:24:40.556 --> 00:24:42.956
+in a box that the boy has, he has hidden the blocks.
+
+L3-cue_325
+00:24:42.956 --> 00:24:44.796
+So she says, "I’m going to open the box."
+
+L3-cue_326
+00:24:44.796 --> 00:24:48.116
+He says, "No, you cannot open the box."
+
+L3-cue_327
+00:24:48.116 --> 00:24:49.216
+How can she tell?
+
+L3-cue_328
+00:24:49.216 --> 00:24:55.156
+She says, "I am a very clever mother, unlike most," she would say; "the box weighs, I know,
+
+L3-cue_329
+00:24:55.156 --> 00:24:59.136
+when it’s empty, 16 ounces, and each block weighs 3 ounces,
+
+L3-cue_330
+00:24:59.136 --> 00:25:01.766
+so what I’m going to do is, I’m going to weigh the box."
+
+L3-cue_331
+00:25:01.766 --> 00:25:15.036
+So she would have another thing: number of blocks seen, plus weight of box minus 16 ounces,
+
+L3-cue_332
+00:25:15.036 --> 00:25:19.986
+divided by 3 ounces, and that adds always the same, for 28.
+
+L3-cue_333
+00:25:19.986 --> 00:25:23.886
+Goes on for a while until it doesn’t check, but she notices that the dirty water
+
+L3-cue_334
+00:25:23.886 --> 00:25:28.406
+in the sink is changing its level—so, we add the water level:
+
+L3-cue_335
+00:25:28.406 --> 00:25:39.196
+height of water in sink minus 6 inches (which it is when there’s no block in it),
+
+L3-cue_336
+00:25:39.196 --> 00:25:44.416
+divided by a quarter of an inch (which is the height that the water rises
+
+L3-cue_337
+00:25:44.416 --> 00:25:48.756
+when a block is in the dirty water).
+
+L3-cue_338
+00:25:48.756 --> 00:25:53.086
+#Now, as the boy becomes more ingenious, and the mother continues to be ingenious,
+
+L3-cue_339
+00:25:53.086 --> 00:25:59.576
+more and more terms must be added on here—which all really represent blocks,
+
+L3-cue_340
+00:25:59.576 --> 00:26:06.396
+but from a mathematical standpoint are abstract calculations—which are blocks not seen.
+
+L3-cue_341
+00:26:06.396 --> 00:26:10.366
+#Now I would like to draw my analogy, and tell you what is in common for this
+
+L3-cue_342
+00:26:10.366 --> 00:26:13.286
+and the conservation of energy, and what is different.
+
+L3-cue_343
+00:26:13.286 --> 00:26:18.426
+Suppose that you never saw the blocks at all—that in any one
+
+L3-cue_344
+00:26:18.426 --> 00:26:21.586
+of the situations, there were never any blocks.
+
+L3-cue_345
+00:26:21.586 --> 00:26:25.696
+Then the mother would be always calculating a whole lot of terms, which she could call blocks
+
+L3-cue_346
+00:26:25.696 --> 00:26:31.056
+in the box, blocks in the water, blocks in—and so on.
+
+L3-cue_347
+00:26:31.056 --> 00:26:36.196
+But there are other differences: there aren’t any blocks, as far as we can tell,
+
+L3-cue_348
+00:26:36.196 --> 00:26:38.746
+and the numbers that come out here are not integers,
+
+L3-cue_349
+00:26:38.746 --> 00:26:41.566
+unlike the case of the blocks with the child.
+
+L3-cue_350
+00:26:41.566 --> 00:26:45.966
+Suppose— I mean it could happen to the poor lady that when she calculates this number,
+
+L3-cue_351
+00:26:45.966 --> 00:26:49.596
+it comes out 6 1/8 blocks, and when she calculates this number,
+
+L3-cue_352
+00:26:49.596 --> 00:26:54.706
+it comes out 7/8 of a block, and the rest of them give 21; still 28—that’s the way it looks.
+
+L3-cue_353
+00:26:54.706 --> 00:27:01.216
+#So, what we discover is, that we have a scheme in which we can find a sequence of rules—and
+
+L3-cue_354
+00:27:01.216 --> 00:27:07.456
+from the rules, each one of the different kinds of calculations we call calculating the same
+
+L3-cue_355
+00:27:07.456 --> 00:27:11.686
+"thing" (number of blocks, or energy) by different rules.
+
+L3-cue_356
+00:27:11.686 --> 00:27:15.616
+Then we add all the numbers together, from all the different forms of energy;
+
+L3-cue_357
+00:27:15.616 --> 00:27:18.536
+it always adds up to the same total.
+
+L3-cue_358
+00:27:18.536 --> 00:27:21.626
+#But as far as we know, there are not real units—it’s not made
+
+L3-cue_359
+00:27:21.626 --> 00:27:27.906
+out of little ball bearings—so it’s abstract; it’s purely mathematical: there exists a number
+
+L3-cue_360
+00:27:27.906 --> 00:27:33.676
+such that you can calculate it, and it doesn’t change—I cannot interpret it any better
+
+L3-cue_361
+00:27:33.676 --> 00:27:34.156
+than that.
+
+L3-cue_362
+00:27:34.156 --> 00:27:39.536
+#This energy has all kinds of forms analogous to the blocks in the box,
+
+L3-cue_363
+00:27:39.536 --> 00:27:42.736
+and blocks in the sinkwater, and so on.
+
+L3-cue_364
+00:27:42.736 --> 00:27:45.956
+There’s energy due to motion; it’s called kinetic energy.
+
+L3-cue_365
+00:27:45.956 --> 00:27:51.196
+There’s energy due to gravitational interaction; the gravitational potential energy, it’s called.
+
+L3-cue_366
+00:27:51.196 --> 00:27:56.066
+There’s a thing called thermal energy, electrical energy, light energy, elastic energy,
+
+L3-cue_367
+00:27:56.066 --> 00:28:01.696
+and springs, and so on; chemical energy, nuclear energy—and there is also an energy
+
+L3-cue_368
+00:28:01.696 --> 00:28:06.916
+that a particle has from its mere existence, an energy that depends on its mass directly;
+
+L3-cue_369
+00:28:06.916 --> 00:28:10.836
+that’s the contribution of Einstein, as you undoubtedly know.
+
+L3-cue_370
+00:28:10.836 --> 00:28:18.346
+#(E=MC-squared is what I was talking about, which is the famous equation of this mystic law.)
+
+L3-cue_371
+00:28:18.346 --> 00:28:21.776
+#Now, actually, although I mentioned a large number of energies, I would like to explain
+
+L3-cue_372
+00:28:21.776 --> 00:28:23.746
+that we’re not completely ignorant about the thing,
+
+L3-cue_373
+00:28:23.746 --> 00:28:26.876
+and that we understand the relationship of some of them.
+
+L3-cue_374
+00:28:26.876 --> 00:28:29.946
+For example, what we call thermal energy is, to a large extent,
+
+L3-cue_375
+00:28:29.946 --> 00:28:34.166
+merely the energy—the kinetic energy of motion—of the particles inside an object.
+
+L3-cue_376
+00:28:34.166 --> 00:28:39.836
+What we call elastic energy and chemical energy both have about the same origin—namely,
+
+L3-cue_377
+00:28:39.836 --> 00:28:43.356
+the forces between the atoms: when the atoms rearrange in a new pattern,
+
+L3-cue_378
+00:28:43.356 --> 00:28:45.736
+some energy is changed—that quantity changes;
+
+L3-cue_379
+00:28:45.736 --> 00:28:47.516
+that means that some other quantity has to change.
+
+L3-cue_380
+00:28:47.516 --> 00:28:51.066
+So, for instance, if the chemical energy changes,
+
+L3-cue_381
+00:28:51.066 --> 00:28:55.496
+then heat energy is changed—in burning something, the chemical energy changes,
+
+L3-cue_382
+00:28:55.496 --> 00:29:02.386
+and you find heat where you didn’t have the heat before—because it all has to add up right.
+
+L3-cue_383
+00:29:02.386 --> 00:29:05.526
+But elastic energy and chemical energy are both interactions of atoms,
+
+L3-cue_384
+00:29:05.526 --> 00:29:07.736
+and we now understand the interactions of the energies
+
+L3-cue_385
+00:29:07.736 --> 00:29:11.396
+of the atom-or those chemical interactions, or those interactions
+
+L3-cue_386
+00:29:11.396 --> 00:29:16.456
+of the atoms-to be a combination of two things: one is electrical energy,
+
+L3-cue_387
+00:29:16.456 --> 00:29:21.286
+and the other is kinetic energy, again—only the formula for it is quantum mechanical,
+
+L3-cue_388
+00:29:21.286 --> 00:29:24.616
+instead of the usual; it’s a little different one.
+
+L3-cue_389
+00:29:24.616 --> 00:29:28.536
+#Light energy is nothing but electrical energy, because light has now been interpreted
+
+L3-cue_390
+00:29:28.536 --> 00:29:31.196
+as an electric and magnetic wave.
+
+L3-cue_391
+00:29:31.196 --> 00:29:35.606
+#The nuclear energy has no—is not represented in terms of the others,
+
+L3-cue_392
+00:29:35.606 --> 00:29:40.206
+but as a result of—what do we say—due to "nuclear forces"; well, we didn’t say anything
+
+L3-cue_393
+00:29:40.206 --> 00:29:42.656
+but [that] nuclear energy is not connected yet to the others.
+
+L3-cue_394
+00:29:42.656 --> 00:29:48.466
+I’m not just talking about the energy released; in the uranium nucleus there’s a certain amount
+
+L3-cue_395
+00:29:48.466 --> 00:29:52.876
+of energy, and then when the thing disintegrates, it changes the amount of energy
+
+L3-cue_396
+00:29:52.876 --> 00:29:56.516
+in the nucleus, but the total amount of energy in the world doesn’t change—so a lot of heat
+
+L3-cue_397
+00:29:56.516 --> 00:30:03.256
+and stuff is generated in the process, in order to balance that thing out.
+
+L3-cue_398
+00:30:03.256 --> 00:30:10.956
+#Now, this conservation law is very useful in many technical ways,
+
+L3-cue_399
+00:30:10.956 --> 00:30:13.816
+and I wish I could give you a number of them.
+
+L3-cue_400
+00:30:13.816 --> 00:30:18.496
+I’ll give you some very simple ones, to show you how—from the conservation of energy,
+
+L3-cue_401
+00:30:18.496 --> 00:30:26.156
+and knowing the formulas for the energy (which are not those)—you can calculate (you can see
+
+L3-cue_402
+00:30:26.156 --> 00:30:27.746
+what) some certain things have to happen.
+
+L3-cue_403
+00:30:27.746 --> 00:30:32.496
+In other words, many laws are not independent laws, but are just secret ways of talking
+
+L3-cue_404
+00:30:32.496 --> 00:30:36.976
+about the conservation of energy—or, better: knowing the conservation of energy,
+
+L3-cue_405
+00:30:36.976 --> 00:30:39.796
+you can also understand a lot of [other] laws.
+
+L3-cue_406
+00:30:39.796 --> 00:30:43.636
+#The simplest one is a lever.
+
+L3-cue_407
+00:30:43.636 --> 00:30:47.396
+If this is a lever on a pivot, and let’s say this distance is 1,
+
+L3-cue_408
+00:30:47.396 --> 00:30:55.586
+and this distance 4 (one foot and four feet), then—but first, I must give you the law
+
+L3-cue_409
+00:30:55.586 --> 00:31:00.496
+for gravity energy: the law for gravity energy is to take (if you have a lot of weight,
+
+L3-cue_410
+00:31:00.496 --> 00:31:05.356
+you take) the weight of each weight, multiply it by the height above the ground,
+
+L3-cue_411
+00:31:05.356 --> 00:31:11.356
+and add this together for all the weights; that gives all the gravity energy.
+
+L3-cue_412
+00:31:11.356 --> 00:31:15.876
+Let’s put the ground right here.
+
+L3-cue_413
+00:31:15.876 --> 00:31:20.616
+#Now, the problem is this: suppose that I have a one—pound weight here,
+
+L3-cue_414
+00:31:20.616 --> 00:31:24.746
+just to make it—to make it more complicated, a two—pound weight here,
+
+L3-cue_415
+00:31:24.746 --> 00:31:33.726
+and I have an unknown mystic weight on the other side: X is always the unknown,
+
+L3-cue_416
+00:31:33.726 --> 00:31:39.166
+so let’s call it W—to make it look like we’ve advanced above the usual.
+
+L3-cue_417
+00:31:39.166 --> 00:31:42.336
+#Now, the question is, how much must W be,
+
+L3-cue_418
+00:31:42.336 --> 00:31:48.396
+so that it just balances—it swings quietly back and forth without any trouble?
+
+L3-cue_419
+00:31:48.396 --> 00:31:51.866
+That means that the energy—if it swings quietly back and forth without any trouble
+
+L3-cue_420
+00:31:51.866 --> 00:31:56.256
+when it’s set this way-when it’s tilted up a little bit (say for instance, that this has gone
+
+L3-cue_421
+00:31:56.256 --> 00:31:58.956
+up one inch), the energy is the same.
+
+L3-cue_422
+00:31:58.956 --> 00:32:03.436
+If it is the same, then it doesn’t care much which way, and it doesn’t fall over.
+
+L3-cue_423
+00:32:03.436 --> 00:32:07.036
+So if this goes up one inch, how far down does this go?
+
+L3-cue_424
+00:32:07.036 --> 00:32:10.736
+If you think about it quite a long time (this being one inch and that being four feet),
+
+L3-cue_425
+00:32:10.736 --> 00:32:16.726
+you can figure out by proportion that this being one foot, this is a quarter of an inch.
+
+L3-cue_426
+00:32:16.726 --> 00:32:20.596
+So that the rule says this: that before anything happened,
+
+L3-cue_427
+00:32:20.596 --> 00:32:24.186
+all the heights were zero, so the total energy is zero.
+
+L3-cue_428
+00:32:24.186 --> 00:32:27.706
+After the thing has happened, we multiply the weights unknown
+
+L3-cue_429
+00:32:27.706 --> 00:32:33.336
+by the height—minus-a-quarter-of-an-inch, add the other weight—two by the height one—inch,
+
+L3-cue_430
+00:32:33.336 --> 00:32:35.906
+and this should add up to the same energy as before.
+
+L3-cue_431
+00:32:35.906 --> 00:32:41.876
+So that a quarter of W taken away from two is zero, and W must be eight.
+
+L3-cue_432
+00:32:41.876 --> 00:32:47.076
+#So that’s how we find the laws—I mean, that’s one way we can understand the easy law
+
+L3-cue_433
+00:32:47.076 --> 00:32:49.106
+that you know, of course, the law of the lever.
+
+L3-cue_434
+00:32:49.106 --> 00:32:52.676
+But it’s interesting that not only this one, but hundreds of others
+
+L3-cue_435
+00:32:52.676 --> 00:32:57.696
+of the physical laws can all be closely related to the various forms of energy—so I illustrate
+
+L3-cue_436
+00:32:57.696 --> 00:33:00.416
+that only to illustrate how useful it is.
+
+L3-cue_437
+00:33:00.416 --> 00:33:03.756
+#The only trouble is, of course, it doesn’t really work.
+
+L3-cue_438
+00:33:03.756 --> 00:33:07.916
+I mean, if you did that, it wouldn’t swing like this on account of friction in the fulcrum.
+
+L3-cue_439
+00:33:07.916 --> 00:33:13.516
+If I had something moving, for instance—if it has kinetic energy, like a rolling ball,
+
+L3-cue_440
+00:33:13.516 --> 00:33:17.706
+and it’s on a constant height, and it rolls along—and then it stops,
+
+L3-cue_441
+00:33:17.706 --> 00:33:18.896
+that’s on account of friction.
+
+L3-cue_442
+00:33:18.896 --> 00:33:20.556
+But what happened to the energy of the ball?
+
+L3-cue_443
+00:33:20.556 --> 00:33:24.416
+The answer is that the energy of the ball has gone into the energy of the jiggling
+
+L3-cue_444
+00:33:24.416 --> 00:33:26.856
+of the atoms in the floor and in the ball.
+
+L3-cue_445
+00:33:26.856 --> 00:33:30.716
+#The world that we see on a large scale looks so nice when we polish a nice round ball,
+
+L3-cue_446
+00:33:30.716 --> 00:33:34.056
+and so on-it’s really quite complicated when you look at it on a little scale:
+
+L3-cue_447
+00:33:34.056 --> 00:33:38.816
+billions of tiny atoms, with all kinds of irregular shapes, looked at in detail.
+
+L3-cue_448
+00:33:38.816 --> 00:33:43.316
+It’s like a very rough boulder, really, when looked at finely enough,
+
+L3-cue_449
+00:33:43.316 --> 00:33:45.136
+because it’s made out of these little balls [i.e. atoms].
+
+L3-cue_450
+00:33:45.136 --> 00:33:48.406
+The floor is the same way; it’s a bumpy business made out of balls.
+
+L3-cue_451
+00:33:48.406 --> 00:33:53.366
+You roll this monster thing over the other, you can see that the little atoms are going
+
+L3-cue_452
+00:33:53.366 --> 00:33:58.466
+to go snap, jiggle, snap, jiggle—and after the thing has rolled across,
+
+L3-cue_453
+00:33:58.466 --> 00:34:01.216
+the ones that are left behind are still shaking a little bit from the pushing
+
+L3-cue_454
+00:34:01.216 --> 00:34:02.776
+and snapping that they went through.
+
+L3-cue_455
+00:34:02.776 --> 00:34:06.766
+#So there is left in the floor a jiggling motion, or thermal energy.
+
+L3-cue_456
+00:34:06.766 --> 00:34:11.946
+And although at first it looks like the law of conservation is false, energy has a tendency
+
+L3-cue_457
+00:34:11.946 --> 00:34:15.396
+to hide from us, and we need thermometers and other instruments
+
+L3-cue_458
+00:34:15.396 --> 00:34:18.086
+to make sure that it’s still there.
+
+L3-cue_459
+00:34:18.086 --> 00:34:21.026
+#The first demonstration of the conservation of energy (—oh:
+
+L3-cue_460
+00:34:21.026 --> 00:34:24.786
+the energy is conserved no matter how complex the process, or no matter what,
+
+L3-cue_461
+00:34:24.786 --> 00:34:27.056
+even when we don’t know the detailed laws)
+
+L3-cue_462
+00:34:27.056 --> 00:34:29.926
+#The first demonstration of the law of conservation of energy, in fact,
+
+L3-cue_463
+00:34:29.926 --> 00:34:35.226
+was not by a physicist, but by a doctor—a medical man.
+
+L3-cue_464
+00:34:35.226 --> 00:34:40.536
+He demonstrated with rats that the total energy of the food put in before,
+
+L3-cue_465
+00:34:40.536 --> 00:34:43.986
+and their heat generated by the—well, you burn food,
+
+L3-cue_466
+00:34:43.986 --> 00:34:45.586
+and you find out how much heat is generated,
+
+L3-cue_467
+00:34:45.586 --> 00:34:49.756
+and then you feed the rats the food—and oxygen—and it’s converted
+
+L3-cue_468
+00:34:49.756 --> 00:34:53.406
+to carbon dioxide the same way as in burning, and measure the energy in that case,
+
+L3-cue_469
+00:34:53.406 --> 00:34:58.516
+and you find out that living creatures do exactly the same thing as non—living creatures,
+
+L3-cue_470
+00:34:58.516 --> 00:35:02.106
+that the law of conservation of energy is exactly as true for life, as not!
+
+L3-cue_471
+00:35:02.106 --> 00:35:04.806
+As a matter of fact, it was discovered by this.
+
+L3-cue_472
+00:35:04.806 --> 00:35:08.246
+#Incidentally, it’s interesting, that every overall principle that we know,
+
+L3-cue_473
+00:35:08.246 --> 00:35:13.796
+that we can test on the great phenomena of life, work just as well as for dead things.
+
+L3-cue_474
+00:35:13.796 --> 00:35:16.576
+That is, there is no evidence yet that what goes
+
+L3-cue_475
+00:35:16.576 --> 00:35:21.866
+on in living creatures is necessarily different (it may be more complicated,
+
+L3-cue_476
+00:35:21.866 --> 00:35:26.346
+but [not] necessarily different) than what goes on in non—living things—I mean as far
+
+L3-cue_477
+00:35:26.346 --> 00:35:29.476
+as the physical laws are concerned.
+
+L3-cue_478
+00:35:29.476 --> 00:35:33.546
+#Incidentally, this amount of energy that’s in the food—it’ll tell you how much heat
+
+L3-cue_479
+00:35:33.546 --> 00:35:37.546
+and mechanical work and everything that’s generated, is what you read—when you read
+
+L3-cue_480
+00:35:37.546 --> 00:35:41.716
+or hear about calories, you’re not eating something called calories;
+
+L3-cue_481
+00:35:41.716 --> 00:35:46.536
+you’re eating that measure of the amount of heat energy that’s in the food.
+
+L3-cue_482
+00:35:46.536 --> 00:35:51.256
+For people who like to-physicists always feel so superior, and smart, and so on,
+
+L3-cue_483
+00:35:51.256 --> 00:35:53.996
+that people would just like to get them once on something—and
+
+L3-cue_484
+00:35:53.996 --> 00:35:55.946
+so I’ll give you something to get them on.
+
+L3-cue_485
+00:35:55.946 --> 00:35:58.916
+#They should be utterly ashamed of themselves,
+
+L3-cue_486
+00:35:58.916 --> 00:36:03.796
+because they take the same thing—energy—and they measure it in a host of different ways,
+
+L3-cue_487
+00:36:03.796 --> 00:36:08.626
+with different names, absolutely absurd: energy can be measured in calories, in ergs,
+
+L3-cue_488
+00:36:08.626 --> 00:36:12.626
+in electron volts, in foot pounds, in BTU, in horsepower hours,
+
+L3-cue_489
+00:36:12.626 --> 00:36:15.506
+in kilowatt hours-all exactly the same thing.
+
+L3-cue_490
+00:36:15.506 --> 00:36:20.196
+It’s like having money, you know, in dollars and in pounds, and so on,
+
+L3-cue_491
+00:36:20.196 --> 00:36:23.896
+but unlike the economic situation, where the ratio can change,
+
+L3-cue_492
+00:36:23.896 --> 00:36:29.076
+these dopey things are an absolutely guaranteed proportion.
+
+L3-cue_493
+00:36:29.076 --> 00:36:33.386
+If anything could be analogous to it at all, the only hope would be to say
+
+L3-cue_494
+00:36:33.386 --> 00:36:37.226
+that there are 20 shillings to a pound, and that you have shillings
+
+L3-cue_495
+00:36:37.226 --> 00:36:40.496
+and pounds-with one complication that the physicist allows:
+
+L3-cue_496
+00:36:40.496 --> 00:36:45.016
+instead of saying he has 20 shillings to a pound, he says he has irrational ratios,
+
+L3-cue_497
+00:36:45.016 --> 00:36:51.726
+like 1.6183178 shillings to a pound.
+
+L3-cue_498
+00:36:51.726 --> 00:36:53.746
+In addition to that, you’d think that the more modern
+
+L3-cue_499
+00:36:53.746 --> 00:36:58.546
+or high-class theoretical physicists would at least use a common unit, but you can find papers
+
+L3-cue_500
+00:36:58.546 --> 00:37:00.526
+with degrees Kelvin for measuring energy,
+
+L3-cue_501
+00:37:00.526 --> 00:37:04.386
+megacycles—inverse Fermis is the latest invention.
+
+L3-cue_502
+00:37:04.386 --> 00:37:09.146
+We don’t need any more inventions; we should all measure the energy
+
+L3-cue_503
+00:37:09.146 --> 00:37:12.316
+in exactly the same—we should measure the energy in one unit, and let it be done,
+
+L3-cue_504
+00:37:12.316 --> 00:37:15.316
+instead of having all these different names.
+
+L3-cue_505
+00:37:15.316 --> 00:37:21.186
+#It just shows that people are often also—they want to say, see, I should bring my little boy
+
+L3-cue_506
+00:37:21.186 --> 00:37:25.686
+to show on the screen, so that the audience will understand that I’m human—well,
+
+L3-cue_507
+00:37:25.686 --> 00:37:29.126
+the proof that physicists are human is the idiocy of all the different units
+
+L3-cue_508
+00:37:29.126 --> 00:37:32.046
+which they use for measuring energy!
+
+L3-cue_509
+00:37:32.046 --> 00:37:43.256
+#Now, we have a number of interesting phenomena in nature,
+
+L3-cue_510
+00:37:43.256 --> 00:37:45.786
+which present us some curious problems with energy;
+
+L3-cue_511
+00:37:45.786 --> 00:37:52.836
+[it] has recently been discovered some things called quasars, which are very far away,
+
+L3-cue_512
+00:37:52.836 --> 00:37:56.246
+and they emit a lot of light—they’re enormously far away, and emit a lot of light,
+
+L3-cue_513
+00:37:56.246 --> 00:38:00.566
+and a lot of radio waves—and have radiating so much energy,
+
+L3-cue_514
+00:38:00.566 --> 00:38:03.006
+that the question is, where does it come from?
+
+L3-cue_515
+00:38:03.006 --> 00:38:05.626
+That is, after it’s radiated this enormous amount of energy,
+
+L3-cue_516
+00:38:05.626 --> 00:38:09.416
+the condition must be different than it was before, if the conservation of energy is right.
+
+L3-cue_517
+00:38:09.416 --> 00:38:11.966
+#Question: does the thing collapse gravitationally?
+
+L3-cue_518
+00:38:11.966 --> 00:38:13.736
+Is it a different condition gravitationally?
+
+L3-cue_519
+00:38:13.736 --> 00:38:16.716
+Is it coming from gravity energy, this big emission,
+
+L3-cue_520
+00:38:16.716 --> 00:38:19.096
+or is it coming from nuclear energy, and so on?
+
+L3-cue_521
+00:38:19.096 --> 00:38:20.126
+#Nobody knows.
+
+L3-cue_522
+00:38:20.126 --> 00:38:24.506
+#Would you like to propose that maybe the law of conservation of energy is not right?
+
+L3-cue_523
+00:38:24.506 --> 00:38:28.556
+Well, when a thing is investigated as poorly—I mean,
+
+L3-cue_524
+00:38:28.556 --> 00:38:34.646
+as incompletely-as is the quasars (because they can’t see so easily at such a large distance),
+
+L3-cue_525
+00:38:34.646 --> 00:38:39.656
+it very rarely is, when a thing looks difficult, that the fundamental laws are wrong;
+
+L3-cue_526
+00:38:39.656 --> 00:38:43.026
+it’s usually that the details are unknown.
+
+L3-cue_527
+00:38:43.026 --> 00:38:48.166
+Another interesting example of the use of the conservation of energy is in this reaction:
+
+L3-cue_528
+00:38:48.166 --> 00:38:52.226
+it was first thought that neutrons turned to protons plus electrons,
+
+L3-cue_529
+00:38:52.226 --> 00:38:55.996
+but the energy of a neutron is fixed, and that of a proton could be measured,
+
+L3-cue_530
+00:38:55.996 --> 00:38:59.336
+and the energy of an electron did not add up correctly to the energy
+
+L3-cue_531
+00:38:59.336 --> 00:39:03.656
+of the neutron-the proton and electron together didn’t add up to the neutron.
+
+L3-cue_532
+00:39:03.656 --> 00:39:04.886
+#Two possibilities existed.
+
+L3-cue_533
+00:39:04.886 --> 00:39:08.256
+One was the law of energy conservation is not right.
+
+L3-cue_534
+00:39:08.256 --> 00:39:10.806
+In fact, it was proposed by Bohr for a while,
+
+L3-cue_535
+00:39:10.806 --> 00:39:16.146
+that maybe the conservation law worked only statistically, on the average, for large scale.
+
+L3-cue_536
+00:39:16.146 --> 00:39:19.696
+But it turns out that Fermi—I mean, Pauli—suggested, no,
+
+L3-cue_537
+00:39:19.696 --> 00:39:22.926
+that the fact that the energy doesn’t check out is because there’s a something else coming
+
+L3-cue_538
+00:39:22.926 --> 00:39:26.106
+out which we now call an antineutrino,
+
+L3-cue_539
+00:39:26.106 --> 00:39:28.606
+and that this other thing coming out takes out the energy.
+
+L3-cue_540
+00:39:28.606 --> 00:39:31.816
+#If you say, "The only reason for the antineutrino is to make the conservation
+
+L3-cue_541
+00:39:31.816 --> 00:39:35.726
+of energy right," well, it makes a lot of other things right: conservation of momentum,
+
+L3-cue_542
+00:39:35.726 --> 00:39:38.646
+and other conservation laws, are fixed up because a piece came
+
+L3-cue_543
+00:39:38.646 --> 00:39:43.296
+out that we weren’t worrying about—and very recently it has been directly demonstrated
+
+L3-cue_544
+00:39:43.296 --> 00:39:46.246
+that such neutrinos indeed exist.
+
+L3-cue_545
+00:39:46.246 --> 00:39:47.406
+#That illustrates a point.
+
+L3-cue_546
+00:39:47.406 --> 00:39:53.046
+Why are we able to extend our laws to regions that we’re not sure [about]?
+
+L3-cue_547
+00:39:53.046 --> 00:39:59.086
+How is it possible—why are we so confident that because we check the energy conservation here,
+
+L3-cue_548
+00:39:59.086 --> 00:40:02.776
+then—when we get a new phenomenon—we say, "It’s got to satisfy the conservation of energy."
+
+L3-cue_549
+00:40:02.776 --> 00:40:04.166
+Every once in a while you read in the paper
+
+L3-cue_550
+00:40:04.166 --> 00:40:08.386
+that the physicists have discovered one of their favorite laws is wrong.
+
+L3-cue_551
+00:40:08.386 --> 00:40:12.446
+It’s not a mistake to say that it’s true in a region
+
+L3-cue_552
+00:40:12.446 --> 00:40:14.946
+where you don’t look yet, where you haven’t looked yet.
+
+L3-cue_553
+00:40:14.946 --> 00:40:17.026
+If you will not say that it’s true in a region
+
+L3-cue_554
+00:40:17.026 --> 00:40:20.176
+that you haven’t looked yet, you don’t know anything.
+
+L3-cue_555
+00:40:20.176 --> 00:40:24.576
+If the only laws that you find are those which you just finished observing,
+
+L3-cue_556
+00:40:24.576 --> 00:40:27.856
+then you can’t make any predictions.
+
+L3-cue_557
+00:40:27.856 --> 00:40:31.826
+#The only utility of the science is to go on and to try to take guesses, you see;
+
+L3-cue_558
+00:40:31.826 --> 00:40:34.846
+the most likely thing is that the energy is conserved in other places.
+
+L3-cue_559
+00:40:34.846 --> 00:40:39.366
+So what we do, always, is to stick your neck out—and that, of course,
+
+L3-cue_560
+00:40:39.366 --> 00:40:40.886
+means that the science is uncertain.
+
+L3-cue_561
+00:40:40.886 --> 00:40:44.466
+The moment that you make a proposition about a region of experience
+
+L3-cue_562
+00:40:44.466 --> 00:40:47.866
+that you haven’t directly seen, then you must be uncertain.
+
+L3-cue_563
+00:40:47.866 --> 00:40:51.616
+But we always must make statements about the regions that we haven’t seen,
+
+L3-cue_564
+00:40:51.616 --> 00:40:53.746
+or it’s no use in the whole business.
+
+L3-cue_565
+00:40:53.746 --> 00:41:00.736
+#For instance, the mass of an object changes when it moves, because of the conservation
+
+L3-cue_566
+00:41:00.736 --> 00:41:05.896
+of energy-the energy associated with the motion appears as an extra mass,
+
+L3-cue_567
+00:41:05.896 --> 00:41:09.556
+because of the relation of mass and energy—so things get heavier when they move.
+
+L3-cue_568
+00:41:09.556 --> 00:41:13.436
+It was first believed by Newton that this wasn’t the case, [and] that the masses stayed constant.
+
+L3-cue_569
+00:41:13.436 --> 00:41:19.966
+So when it was discovered that that was false, everybody’d say, "It was a terrible thing
+
+L3-cue_570
+00:41:19.966 --> 00:41:24.276
+that physicists found out they were wrong—why did they think they were right?"
+
+L3-cue_571
+00:41:24.276 --> 00:41:27.836
+The effect is very small—only when you get near the speed of light does it make any difference.
+
+L3-cue_572
+00:41:27.836 --> 00:41:30.486
+If you spin a top, it weighs the same as if you don’t spin it,
+
+L3-cue_573
+00:41:30.486 --> 00:41:34.916
+within millions-a very, very fine fraction.
+
+L3-cue_574
+00:41:34.916 --> 00:41:35.876
+So you could say, "Oh!
+
+L3-cue_575
+00:41:35.876 --> 00:41:40.726
+They should have said—they should have said—that if you do not move any faster
+
+L3-cue_576
+00:41:40.726 --> 00:41:44.726
+than so—and—so, then the mass doesn’t change— that would then be certain."
+
+L3-cue_577
+00:41:44.726 --> 00:41:51.806
+#No, the experiment [also] happens to be done only with tops made out of wood, copper, steel,
+
+L3-cue_578
+00:41:51.806 --> 00:41:56.446
+and so on-so we [also] should have said that tops made out of copper, steel, wood,
+
+L3-cue_579
+00:41:56.446 --> 00:41:58.466
+and so on, were not moving any faster.
+
+L3-cue_580
+00:41:58.466 --> 00:42:03.116
+You see, we do not know all the conditions that we need for an experiment:
+
+L3-cue_581
+00:42:03.116 --> 00:42:07.136
+it is not known whether a radioactive top would have a mass that’s conserved,
+
+L3-cue_582
+00:42:07.136 --> 00:42:08.726
+but we have to take a guess.
+
+L3-cue_583
+00:42:08.726 --> 00:42:12.356
+#So in order to have any utility at all to the science, in order not simply
+
+L3-cue_584
+00:42:12.356 --> 00:42:14.696
+to describe an experiment that’s just been done,
+
+L3-cue_585
+00:42:14.696 --> 00:42:19.486
+we have to propose laws beyond their range—and there’s nothing wrong with that—
+
+L3-cue_586
+00:42:19.486 --> 00:42:22.536
+that’s the success; that’s the point.
+
+L3-cue_587
+00:42:22.536 --> 00:42:24.566
+#That makes the science uncertain.
+
+L3-cue_588
+00:42:24.566 --> 00:42:29.016
+If you thought before that science was certain, well, that’s just an error on your part.
+
+L3-cue_589
+00:42:29.016 --> 00:42:37.966
+#Now there are other—so, we have here the energy, which we could put on our list,
+
+L3-cue_590
+00:42:37.966 --> 00:42:48.136
+and it’s conserved perfectly, as far as we know—but it does not come in units.
+
+L3-cue_591
+00:42:48.136 --> 00:42:53.006
+Now the question is, is it the source of a field—and the answer is yes.
+
+L3-cue_592
+00:42:53.006 --> 00:42:58.776
+#Einstein understood gravitation as being generated by energy.
+
+L3-cue_593
+00:42:58.776 --> 00:43:01.876
+Energy and mass are equivalent, and Newton’s interpretation
+
+L3-cue_594
+00:43:01.876 --> 00:43:04.676
+that the mass is what produced the gravity has been modified
+
+L3-cue_595
+00:43:04.676 --> 00:43:08.996
+to being the energy that produces the gravity.
+
+L3-cue_596
+00:43:08.996 --> 00:43:11.946
+There are other laws that are similar to the conservation of energy
+
+L3-cue_597
+00:43:11.946 --> 00:43:13.146
+in the sense that they are numbers.
+
+L3-cue_598
+00:43:13.146 --> 00:43:17.676
+I haven’t very much time to describe them, but I’ll mention what they are.
+
+L3-cue_599
+00:43:17.676 --> 00:43:19.976
+#One of them is the momentum.
+
+L3-cue_600
+00:43:19.976 --> 00:43:23.506
+It means if you take all the masses in an object and multiply them
+
+L3-cue_601
+00:43:23.506 --> 00:43:28.406
+by the velocities (for instance), and add it together, that’s the momentum-of the particles
+
+L3-cue_602
+00:43:28.406 --> 00:43:33.056
+in it, anyway; that total amount of momentum is conserved.
+
+L3-cue_603
+00:43:33.056 --> 00:43:37.716
+The energy and the momentum are now understood to be very closely related,
+
+L3-cue_604
+00:43:37.716 --> 00:43:43.016
+and so they should be in the same column in this conservation law [table].
+
+L3-cue_605
+00:43:43.016 --> 00:43:46.706
+#Another example of a conserved quantity is angular momentum,
+
+L3-cue_606
+00:43:46.706 --> 00:43:50.246
+an item which we discussed some time before.
+
+L3-cue_607
+00:43:50.246 --> 00:44:01.496
+The angular momentum is the area generated per second by objects moving about.
+
+L3-cue_608
+00:44:01.496 --> 00:44:08.536
+For example, if an object is here, and is moving, and we take any center whatsoever,
+
+L3-cue_609
+00:44:08.536 --> 00:44:14.256
+then—the area, the rate of change—the speed at which this area increases,
+
+L3-cue_610
+00:44:14.256 --> 00:44:18.566
+multiplied by the mass of the object, and added together for all the objects,
+
+L3-cue_611
+00:44:18.566 --> 00:44:23.306
+is called the angular momentum—and that quantity doesn’t change, either.
+
+L3-cue_612
+00:44:23.306 --> 00:44:30.696
+#So we have conservation of angular momentum.
+
+L3-cue_613
+00:44:30.696 --> 00:44:33.796
+#Incidentally, at first sight, if you know too much physics,
+
+L3-cue_614
+00:44:33.796 --> 00:44:39.366
+you might think that the angular momentum is not conserved: like the energy,
+
+L3-cue_615
+00:44:39.366 --> 00:44:42.796
+it appears also in different forms, although most people think it only appears
+
+L3-cue_616
+00:44:42.796 --> 00:44:46.846
+in motion-but it does appear in other forms, and I will illustrate that.
+
+L3-cue_617
+00:44:46.846 --> 00:44:51.576
+You know that if you have a wire, and move a magnet up into it, increasing the magnetic field
+
+L3-cue_618
+00:44:51.576 --> 00:44:54.226
+through the flux through the wires, there’ll be an electric current—
+
+L3-cue_619
+00:44:54.226 --> 00:44:56.576
+that’s how electric generators work.
+
+L3-cue_620
+00:44:56.576 --> 00:44:58.726
+#Now, imagine that I have instead of a wire,
+
+L3-cue_621
+00:44:58.726 --> 00:45:03.916
+a disk on which there are electric charges analogous to the electrons in the wire.
+
+L3-cue_622
+00:45:03.916 --> 00:45:10.456
+Then I bring up a magnet dead center along the axis from far away, very rapidly, up to here,
+
+L3-cue_623
+00:45:10.456 --> 00:45:13.276
+so now there’s a flux change through here.
+
+L3-cue_624
+00:45:13.276 --> 00:45:16.856
+Then, just as in the wire, these will start to go around.
+
+L3-cue_625
+00:45:16.856 --> 00:45:21.946
+If this were on a wheel, it would be spinning by the time I brought the magnet up.
+
+L3-cue_626
+00:45:21.946 --> 00:45:25.136
+Well, that doesn’t look like conservation of angular momentum, because when it’s down here,
+
+L3-cue_627
+00:45:25.136 --> 00:45:28.666
+nothing’s turning, and when it’s up here, it’s spinning.
+
+L3-cue_628
+00:45:28.666 --> 00:45:35.456
+So we got turning for nothing—and that’s against the rules.
+
+L3-cue_629
+00:45:35.456 --> 00:45:38.546
+#"Oh, yes," you say, "I know; there must be another kind of interaction
+
+L3-cue_630
+00:45:38.546 --> 00:45:41.136
+that makes the magnets spin the opposite way."
+
+L3-cue_631
+00:45:41.136 --> 00:45:43.286
+That’s not the case: there is no electrical force
+
+L3-cue_632
+00:45:43.286 --> 00:45:46.956
+on the magnet tending to twist it the opposite way.
+
+L3-cue_633
+00:45:46.956 --> 00:45:50.586
+The explanation is, that angular momentum appears in two forms:
+
+L3-cue_634
+00:45:50.586 --> 00:45:54.856
+one of them is angular momentum of motion, and the other is angular momentum in electric
+
+L3-cue_635
+00:45:54.856 --> 00:45:58.196
+and magnetic fields—and there is angular momentum in the field here,
+
+L3-cue_636
+00:45:58.196 --> 00:46:02.876
+although it doesn’t appear as motion, and has the opposite sign to the spin.
+
+L3-cue_637
+00:46:02.876 --> 00:46:08.516
+#If we take the opposite case it’s even more clear: if we have just these particles
+
+L3-cue_638
+00:46:08.516 --> 00:46:15.836
+and the magnet here—and everything standing still, I say there’s angular momentum there.
+
+L3-cue_639
+00:46:15.836 --> 00:46:19.196
+There’s a rotational effect; I mean, there’s an angular momentum
+
+L3-cue_640
+00:46:19.196 --> 00:46:24.036
+in the field-there’s a hidden form of angular momentum; it doesn’t appear as actual rotation.
+
+L3-cue_641
+00:46:24.036 --> 00:46:28.736
+When you pull this magnet down, and take the instrument apart, and all the fields separate,
+
+L3-cue_642
+00:46:28.736 --> 00:46:33.746
+then the angular momentum that’s in the field has to appear now, and this thing will spin
+
+L3-cue_643
+00:46:33.746 --> 00:46:43.566
+from the-the law that makes it spin is the law of induction of electricity.
+
+L3-cue_644
+00:46:43.566 --> 00:46:48.466
+#Now the question as to whether it comes in units is very difficult for me to answer.
+
+L3-cue_645
+00:46:48.466 --> 00:46:52.566
+At first sight, you’d say, it’s absolutely impossible that angular momentum come in units,
+
+L3-cue_646
+00:46:52.566 --> 00:46:56.346
+because angular momentum depends upon the direction in which you project the picture.
+
+L3-cue_647
+00:46:56.346 --> 00:47:01.166
+I said in another lecture that you have to look at this thing, and see how the area changes.
+
+L3-cue_648
+00:47:01.166 --> 00:47:04.626
+If you look at an angle—if you had something turning this way,
+
+L3-cue_649
+00:47:04.626 --> 00:47:07.916
+and you looked at it sideways—you wouldn’t see any area changing.
+
+L3-cue_650
+00:47:07.916 --> 00:47:10.976
+If you looked at not—quite—vertical, but just a little bit off,
+
+L3-cue_651
+00:47:10.976 --> 00:47:13.886
+you’ll see that the area changes a little bit different—a little bit different,
+
+L3-cue_652
+00:47:13.886 --> 00:47:15.796
+if you come at a small angle.
+
+L3-cue_653
+00:47:15.796 --> 00:47:21.896
+#So if angular momentum came in units, 8 units, and then you looked not exactly down at the 8
+
+L3-cue_654
+00:47:21.896 --> 00:47:25.116
+but at a slight angle, it should look like a little bit less than 8.
+
+L3-cue_655
+00:47:25.116 --> 00:47:29.166
+Now, 7 is not a little bit less than 8, it’s a definite amount less than 8,
+
+L3-cue_656
+00:47:29.166 --> 00:47:32.186
+so the darn thing can’t possibly come in units.
+
+L3-cue_657
+00:47:32.186 --> 00:47:36.206
+This "proof," however, is evaded by the subtleties and peculiarities
+
+L3-cue_658
+00:47:36.206 --> 00:47:40.586
+of quantum mechanics: if we measure the angular momentum about any axis,
+
+L3-cue_659
+00:47:40.586 --> 00:47:44.366
+amazingly enough it’s always a number of units!
+
+L3-cue_660
+00:47:44.366 --> 00:47:51.936
+So what to say about this is, yes—but it’s not the kind of unit,
+
+L3-cue_661
+00:47:51.936 --> 00:47:54.956
+like electric charge, that you can count them inside.
+
+L3-cue_662
+00:47:54.956 --> 00:47:59.436
+The angular momentum, although it does come in units—in the mathematical sense that the number
+
+L3-cue_663
+00:47:59.436 --> 00:48:04.006
+that we get in any measurement is a definite integer times a unit—we cannot interpret
+
+L3-cue_664
+00:48:04.006 --> 00:48:08.026
+that in the same manner that we interpret this in the case of electricity,
+
+L3-cue_665
+00:48:08.026 --> 00:48:11.996
+that there’s this one, and I see another one; you see those little six little units in there.
+
+L3-cue_666
+00:48:11.996 --> 00:48:13.996
+You can’t see the units, you see, but it comes
+
+L3-cue_667
+00:48:13.996 --> 00:48:22.576
+out always an integer anyway, which is very peculiar.
+
+L3-cue_668
+00:48:22.576 --> 00:48:29.066
+#Now, there are a number of other conservation laws that I should include in the list,
+
+L3-cue_669
+00:48:29.066 --> 00:48:31.596
+and I’ll just illustrate the type.
+
+L3-cue_670
+00:48:31.596 --> 00:48:36.396
+They’re not as interesting as these; they’re not numbers, exactly.
+
+L3-cue_671
+00:48:36.396 --> 00:48:41.106
+If the laws of physics are nice, and if were to start some kind of device off,
+
+L3-cue_672
+00:48:41.106 --> 00:48:44.436
+with particles moving, which had a certain definite symmetry—suppose
+
+L3-cue_673
+00:48:44.436 --> 00:48:49.406
+that we had some objects that were like this, and that the exact way that they were moving was
+
+L3-cue_674
+00:48:49.406 --> 00:48:54.656
+such that it was bilaterally symmetrical—then, as the laws of physics go on,
+
+L3-cue_675
+00:48:54.656 --> 00:48:58.606
+and all the collisions, and so on, you would probably expect (and rightly so)
+
+L3-cue_676
+00:48:58.606 --> 00:49:02.716
+that if you’d look at this same picture later, it will be bilaterally symmetrical.
+
+L3-cue_677
+00:49:02.716 --> 00:49:08.136
+#So there is a kind of conservation, a conservation of the symmetry character,
+
+L3-cue_678
+00:49:08.136 --> 00:49:14.476
+which is—should be—in the list there, but it’s not like a number that you measure;
+
+L3-cue_679
+00:49:14.476 --> 00:49:17.216
+it’s just, well, a symmetry character.
+
+L3-cue_680
+00:49:17.216 --> 00:49:20.846
+#I will discuss it in much more detail in the next lecture.
+
+L3-cue_681
+00:49:20.846 --> 00:49:24.306
+The reason it’s not interesting—it’s not very interesting in classical physics,
+
+L3-cue_682
+00:49:24.306 --> 00:49:28.366
+because the times in which you get such nicely symmetrical initial conditions is very rare,
+
+L3-cue_683
+00:49:28.366 --> 00:49:31.586
+and it’s not a very important or practical conservation law.
+
+L3-cue_684
+00:49:31.586 --> 00:49:35.566
+#But in quantum mechanics, when we deal with very simple systems like atoms, and so on,
+
+L3-cue_685
+00:49:35.566 --> 00:49:40.116
+their internal constitution often has this kind of symmetry (of some sort),
+
+L3-cue_686
+00:49:40.116 --> 00:49:44.106
+like bilateral symmetry, or other, and then the symmetry character is maintained—it’s an
+
+L3-cue_687
+00:49:44.106 --> 00:49:46.616
+important law for understanding quantum phenomena.
+
+L3-cue_688
+00:49:46.616 --> 00:49:48.136
+#I should include it in the list
+
+L3-cue_689
+00:49:48.136 --> 00:49:55.496
+of all the important conservation laws, but I will discuss it next time.
+
+L3-cue_690
+00:49:55.496 --> 00:50:04.196
+#An interesting question is, whether there’s a deeper basis for these conservation laws,
+
+L3-cue_691
+00:50:04.196 --> 00:50:06.236
+or whether we have to take them as they are.
+
+L3-cue_692
+00:50:06.236 --> 00:50:10.586
+That, again, I will reserve for next time.
+
+L3-cue_693
+00:50:10.586 --> 00:50:18.566
+I would like, however, to remind you that in making a popular speech on these subjects,
+
+L3-cue_694
+00:50:18.566 --> 00:50:21.526
+there seem to be a lot of independent things.
+
+L3-cue_695
+00:50:21.526 --> 00:50:25.736
+#But with a deeper understanding of the physics, of the various principles,
+
+L3-cue_696
+00:50:25.736 --> 00:50:28.076
+there are deep interconnections between the things,
+
+L3-cue_697
+00:50:28.076 --> 00:50:31.076
+so that one implies the other, in some way.
+
+L3-cue_698
+00:50:31.076 --> 00:50:36.866
+For example, the relation between relativity and the necessity for local conservation, which,
+
+L3-cue_699
+00:50:36.866 --> 00:50:39.936
+if I said that without the demonstration, would appear as some kind
+
+L3-cue_700
+00:50:39.936 --> 00:50:44.146
+of a miracle-that the statement that you can’t tell how fast you’re moving implies
+
+L3-cue_701
+00:50:44.146 --> 00:50:48.316
+that if something is conserved, it must be done not by jumping from one place
+
+L3-cue_702
+00:50:48.316 --> 00:50:55.076
+to another-and here I would like to show you, or indicate, how the conservation
+
+L3-cue_703
+00:50:55.076 --> 00:50:56.816
+of angular momentum, and the conservation
+
+L3-cue_704
+00:50:56.816 --> 00:51:02.616
+of momentum (and a few other things) are, to some extent, related.
+
+L3-cue_705
+00:51:02.616 --> 00:51:11.816
+The conservation of angular momentum has to do with the area swept by particles moving.
+
+L3-cue_706
+00:51:11.816 --> 00:51:19.996
+#Now, if you had a lot of little particles here, and you took the center very far away,
+
+L3-cue_707
+00:51:19.996 --> 00:51:24.116
+then the distances are almost the same for every object,
+
+L3-cue_708
+00:51:24.116 --> 00:51:28.166
+and it doesn’t make much difference—so the only thing that counts in the area sweeping,
+
+L3-cue_709
+00:51:28.166 --> 00:51:29.836
+or in the conservation of angular momentum,
+
+L3-cue_710
+00:51:29.836 --> 00:51:33.716
+is the component of motion (vertically, say, in this case).
+
+L3-cue_711
+00:51:33.716 --> 00:51:37.846
+What we would discover is that each mass, multiplied by its velocity vertically,
+
+L3-cue_712
+00:51:37.846 --> 00:51:43.546
+added together, must be a constant—because the angular momentum is a constant about any point,
+
+L3-cue_713
+00:51:43.546 --> 00:51:47.496
+and if that point is far enough away, then it must be only that the sum
+
+L3-cue_714
+00:51:47.496 --> 00:51:51.796
+of the masses times the velocities is constant—and therefore the angular momentum
+
+L3-cue_715
+00:51:51.796 --> 00:51:54.486
+implies the conservation of momentum.
+
+L3-cue_716
+00:51:54.486 --> 00:51:58.576
+The conservation of angular momentum implies the conservation of momentum—and that, in turn,
+
+L3-cue_717
+00:51:58.576 --> 00:52:03.646
+implies another thing, which is the conservation of another item, which is so closely connected
+
+L3-cue_718
+00:52:03.646 --> 00:52:07.756
+that I don’t put it on the list: the principle about the center of gravity,
+
+L3-cue_719
+00:52:07.756 --> 00:52:14.186
+that a mass in a box cannot just move—disappear here, and move over here
+
+L3-cue_720
+00:52:14.186 --> 00:52:17.786
+by itself—that’s nothing to do with conservation: if you think, "Well,
+
+L3-cue_721
+00:52:17.786 --> 00:52:21.916
+you still got the mass, and I moved it from here to here," charge could do that, but not a mass.
+
+L3-cue_722
+00:52:21.916 --> 00:52:23.926
+#Let me explain why.
+
+L3-cue_723
+00:52:23.926 --> 00:52:27.546
+Suppose, since the laws of physics are not affected by motions,
+
+L3-cue_724
+00:52:27.546 --> 00:52:33.626
+that this box was drifting slowly upwards, and take a point not far away.
+
+L3-cue_725
+00:52:33.626 --> 00:52:36.966
+Now, as it’s drifting upwards, if the mass were here, quiet in a box,
+
+L3-cue_726
+00:52:36.966 --> 00:52:42.086
+in the beginning it has a mass here going up, and producing an area at a certain rate.
+
+L3-cue_727
+00:52:42.086 --> 00:52:45.096
+After the mass has moved over here, if it’s going up at the same speed
+
+L3-cue_728
+00:52:45.096 --> 00:52:49.536
+because the box is drifting, then the area would be increasing at a greater rate
+
+L3-cue_729
+00:52:49.536 --> 00:52:53.196
+because there’s a bigger length this way, although the altitudes are the same.
+
+L3-cue_730
+00:52:53.196 --> 00:52:57.106
+#But by the conservation of angular momentum, you can’t change the rate
+
+L3-cue_731
+00:52:57.106 --> 00:53:00.716
+at which the area’s changing, and therefore, you simply can’t move one mass from one place
+
+L3-cue_732
+00:53:00.716 --> 00:53:03.816
+to the other, if you don’t push on something else and get rid
+
+L3-cue_733
+00:53:03.816 --> 00:53:05.956
+of the momentum or angular momentum.
+
+L3-cue_734
+00:53:05.956 --> 00:53:11.706
+That’s the reason why the rockets in empty space can’t go—but they do go:
+
+L3-cue_735
+00:53:11.706 --> 00:53:17.606
+that’s because we have—the rocket—the center of gravity—if you figured it out with a lot
+
+L3-cue_736
+00:53:17.606 --> 00:53:22.146
+of masses, if you move one forward, you got to move others back, so that the total motion back
+
+L3-cue_737
+00:53:22.146 --> 00:53:25.016
+and forth of all the masses is nothing.
+
+L3-cue_738
+00:53:25.016 --> 00:53:31.956
+#Now, the way a rocket works is: here’s a rocket, which shoots some gas out of the back.
+
+L3-cue_739
+00:53:31.956 --> 00:53:37.306
+Here’s the gas-you see, beforehand the rocket standing still, say, in empty space,
+
+L3-cue_740
+00:53:37.306 --> 00:53:41.346
+and afterwards it shoots some stuff out the back—and then the rocket’s going forward.
+
+L3-cue_741
+00:53:41.346 --> 00:53:45.826
+The point is, that of all of the stuff in the world, the center of mass,
+
+L3-cue_742
+00:53:45.826 --> 00:53:49.336
+the average of all the mass, is still right where it was before.
+
+L3-cue_743
+00:53:49.336 --> 00:53:52.776
+But the interesting part has moved out here, and an uninteresting part,
+
+L3-cue_744
+00:53:52.776 --> 00:53:54.776
+that we don’t care about, has moved out here.
+
+L3-cue_745
+00:53:54.776 --> 00:53:57.196
+There is no theorem that says that the interesting things
+
+L3-cue_746
+00:53:57.196 --> 00:54:05.706
+in the world are conserved, only the total of everything.
+
+L3-cue_747
+00:54:05.706 --> 00:54:11.376
+#Discovering the laws of physics is like trying to put the pieces together of a jigsaw puzzle:
+
+L3-cue_748
+00:54:11.376 --> 00:54:15.636
+we have all these different pieces, and today they’re proliferating rapidly;
+
+L3-cue_749
+00:54:15.636 --> 00:54:18.926
+they’re lying about—many of them can’t be fitted with other ones.
+
+L3-cue_750
+00:54:18.926 --> 00:54:21.896
+Now, how do we know that they belong together?
+
+L3-cue_751
+00:54:21.896 --> 00:54:27.276
+How do we know that they really are parts of one picture, one at present incomplete picture?
+
+L3-cue_752
+00:54:27.276 --> 00:54:31.636
+We’re not sure, and it worries us to some extent, but we get encouragement
+
+L3-cue_753
+00:54:31.636 --> 00:54:36.946
+from the common characteristics of several pieces: they all show blue sky,
+
+L3-cue_754
+00:54:36.946 --> 00:54:39.716
+or they’re all made out of the same kind of wood.
+
+L3-cue_755
+00:54:39.716 --> 00:56:03.000
+#Thank you very much.
