@@ -1,3 +1,4 @@
+import os
 import shutil
 import pandas as pd
 from datetime import timedelta, datetime
@@ -79,6 +80,19 @@ class Slicer:
         pd.DataFrame(d).to_csv(out_folder/"metadata.csv", index=False)
         return out_folder/"metadata.csv"
 
+    def aggregate_metadata(self):
+        root = to_path(self.out_path)
+        meta_files = root.glob("*/metadata.csv")
+        df = pd.DataFrame()
+        for f in meta_files:
+            df_temp = pd.read_csv(f)
+            folder_name = f.str().split("/")[-2]
+            df_temp['path'] = df_temp['path'].apply(lambda p: os.path.join(folder_name, p))
+            df = df.append(df_temp)
+        out_path = root/'metadata.csv'
+        df.to_csv(out_path, index=False)
+        print(f"Created root metadata: {out_path}")
+
 
 def main():
     parser = argparse.ArgumentParser(description='Download wavs files')
@@ -100,6 +114,7 @@ def main():
 
     sl = Slicer(args.path, args.out, args.override)
     sl.cut_all()
+    sl.aggregate_metadata()
 
 if __name__ == "__main__":
 
