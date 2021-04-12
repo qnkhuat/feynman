@@ -1,4 +1,3 @@
 pandas
-webvtt
 pydub
 webvtt-py
