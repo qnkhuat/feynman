@@ -69,7 +69,21 @@ def get_preprocessor_by_name(name):
 ########################
 
 def feynman(root_path, meta_file="metadata.csv"):
-    pass
+    import pandas as pd
+    df = pd.read_csv(os.path.join(root_path, meta_file))
+    speaker_name = "Feynman"
+    items = []
+    for i, row in df.iterrows():
+        audio_path = os.path.join(root_path, row['path'])
+        if not os.path.exists(audio_path):
+            continue
+        items.append([row['sub'], 
+            audio_path,
+            speaker_name
+            ])
+    return items
+
+
 
 def tweb(root_path, meta_file):
     """Normalize TWEB dataset.

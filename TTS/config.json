@@ -162,8 +162,8 @@
     "datasets":   // List of datasets. They all merged and they get different speaker_ids.
         [
             {
-                "name": "ljspeech",
-                "path": "/content/TTS/datasets/LJSpeech-1.1/",
+                "name": "feynman",
+                "path": "~/feynman/data/downloaded/cut_wavs/",
                 "meta_file_train": "metadata.csv", // for vtck if list, ignore speakers id in list for train, its useful for test cloning with new speakers
                 "meta_file_val": null
             }
