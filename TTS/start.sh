@@ -11,5 +11,4 @@ curl https://raw.githubusercontent.com/qnkhuat/scripts/master/.vimrc -o ~/.vimrc
 
 # Install dependencies
 apt-get install espeak-ng
-cd .. 
 pip3 install -e .
