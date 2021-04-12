@@ -58,7 +58,7 @@ class Slicer:
         if self.override: shutil.rmtree(out_folder, ignore_errors=True)
         out_folder.mkdir(exist_ok=True, parents=True)
 
-        audio = AudioSegment.from_file(row.audio_path).set_channels(1)
+        audio = AudioSegment.from_file(row.audio_path).set_channels(1).set_frame_rate(22050)
         sub = webvtt.read(row.sub_path)
         d = {
             'sub': [],
@@ -69,6 +69,7 @@ class Slicer:
             start = timestr2seconds(caption.start) * 1000
             end = timestr2seconds(caption.end) * 1000
             sub_audio = audio[start:end]
+            if len(sub_audio) > 15 * 1000: continue # skip audio more than 15 seconds
             out_name = f"code_name_{int(start/1000)}_{int(end/1000)}.wav"
             out_path = out_folder/out_name
             sub_audio.export(out_path, format="wav")
